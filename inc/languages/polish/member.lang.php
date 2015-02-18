@@ -157,15 +157,12 @@ $l['tpp'] = "Wątków na stronę:";
 $l['tpp_desc'] = "Pozwala Ci na wybranie maksymalnej liczby wątków wyświetlanych na jednej stronie.";
 $l['reset_password'] = "Resetuj hasło";
 $l['send_password'] = "Wyślij nowe hasło!";
-$l['image_verification'] = "Potwierdzenie kodem";
-$l['verification_note'] = "Przepisz do poniższego pola ciąg znaków z obrazka. Taki proces jest niezbędny, by zapobiec rejestracjom automatów.";
-$l['verification_subnote'] = "(wielkość znaków nie ma znaczenia)";
 $l['registration_errors'] = "Przy rejestracji wystąpiły następujące błędy:";
 $l['timeonline'] = "Spędzony czas online:";
 $l['timeonline_hidden'] = "(ukryte)";
 $l['registrations_disabled'] = "Rejestracja kont jest aktualnie wyłączona. Zapraszamy później.";
 $l['error_username_length'] = "Login jest nieprawidłowy - musi on zawierać od {1} do {2} znaków.";
-$l['error_stop_forum_spam_spammer'] = 'Twój adres IP lub e-mail znajduje się w bazie znanych spamerów. Jeżeli uważasz, że jest to błąd, skontaktuj się z administratorem.';
+$l['error_stop_forum_spam_spammer'] = 'Twój {1} znajduje się w bazie znanych spamerów. Jeżeli uważasz, że jest to błąd, skontaktuj się z administratorem.';
 $l['error_stop_forum_spam_fetching'] = 'Nie mogliśmy upewnić sie, że nie jesteś spamerem. Prawdopodobnie jest to spowodowane problemami z połączeniem z bazą danych. Spróbuj ponownie później.';
 
 $l['none_registered'] = "Niezarejestrowany";

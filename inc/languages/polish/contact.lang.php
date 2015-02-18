@@ -18,13 +18,9 @@ $l['contact_message_desc'] = 'Opisz w szczegółach swoje przemyślenia.';
 $l['contact_email'] = 'Adres e-mail';
 $l['contact_email_desc'] = 'Wpisz adres e-mail, aby administrator mógł odpowiedzieć na twoją wiadomość.';
 $l['contact_send'] = 'Wyślij';
-$l['image_verification'] = "Potwierdzenie";
-$l['verification_note'] = "Przepisz tekst z obrazka do poniższego pola tekstowego. Taki proces jest niezbędny, by zapobiec wysyłaniu wiadomości przez automaty.";
-$l['verification_subnote'] = "(wielkość liter nie ma znaczenia)";
-$l['invalid_captcha'] = "Wprowadzony kod z obrazka jest nieprawidłowy. Przepisz kod identyczny jak ten na obrazku.";
 $l['subject_too_long'] = 'Temat wiadomości jest zbyt długi. Wpisz temat nie dłuższy niż {1} znaków (aktualna długość to {2} znaków).';
 $l['message_too_short'] = 'Treść wiadomości jest zbyt krótka. Wpisz treść nie krótszą niż {1} znaków (aktualna długość to {2} znaków).';
 $l['message_too_long'] = 'Treść wiadomości jest zbyt długa. Wpisz treść nie dłuższą niż {1} znaków (aktualna długość to {2} znaków).';
 
-$l['error_stop_forum_spam_spammer'] = 'Twój adres IP lub e-mail znajduje się w bazie znanych spamerów. Z tego powodu próba kontaktu została zablokowana.';
+$l['error_stop_forum_spam_spammer'] = 'Twój {1} znajduje się w bazie znanych spamerów. Z tego powodu próba kontaktu została zablokowana.';
 $l['error_stop_forum_spam_fetching'] = 'Nie mogliśmy upewnić sie, że nie jesteś spamerem. Prawdopodobnie jest to spowodowane problemami z połączeniem z bazą danych. Spróbuj ponownie później.';

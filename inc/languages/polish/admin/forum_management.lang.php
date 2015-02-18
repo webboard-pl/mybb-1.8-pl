@@ -170,6 +170,7 @@ $l['forum_rules'] = "Zasady dla tego działu";
 $l['name'] = "Nazwa";
 $l['username'] = "Login";
 $l['moderator_username_desc'] = "Login użytkownika, który ma zostać moderatorem";
+$l['search_user'] = "Szukaj użytkownika";
 $l['add_user_as_moderator'] = "Dodaj użytkownika jako moderatora";
 $l['usergroup'] = "Grupa użytkowników";
 $l['add_usergroup_as_moderator'] = "Dodaj grupę użytkowników jako moderatora";

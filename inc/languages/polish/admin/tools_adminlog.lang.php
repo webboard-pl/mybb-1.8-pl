@@ -163,6 +163,9 @@ $l['admin_log_forum_moderation_queue_threads'] = "Moderowano niezatwierdzone wą
 $l['admin_log_forum_moderation_queue_posts'] = "Moderowano niezatwierdzone posty";
 $l['admin_log_forum_moderation_queue_attachments'] = "Moderowano niezatwierdzone załączniki";
 
+$l['admin_log_home_preferences_enabled'] = "Włączono weryfikację dwuetapową";
+$l['admin_log_home_preferences_disabled'] = "Wyłączono weryfikację dwuetapową";
+
 $l['admin_log_style_templates_delete_set'] = "Usunięto zestaw szablonów #{1} ({2})";
 $l['admin_log_style_templates_delete_template'] = "Usunięto szablon #{1} ({2}) z zestawu szablonów #{3} ({4})";
 $l['admin_log_style_templates_delete_template_global'] = "Usunięto szablon #{1} ({2}) z globalnego zestawu szablonów";

@@ -290,7 +290,6 @@ $l['postbit_button_delete_pm'] = 'Usuń';
 $l['postbit_button_purgespammer'] = "Usuń spamera";
 
 $l['forumjump'] = "Skocz do:";
-$l['forumjump_select'] = "Wybierz:";
 $l['forumjump_pms'] = "Prywatne wiadomości";
 $l['forumjump_usercp'] = "Panel użytkownika";
 $l['forumjump_wol'] = "Kto jest online";
@@ -417,8 +416,15 @@ $l['select_theme'] = "Wybierz styl";
 
 $l['invalid_post_code'] = "Niepoprawny kod autoryzacji. Czy na pewno próbujesz uruchomić tę funkcję w poprawny sposób? Spróbuj ponownie.";
 $l['invalid_captcha'] = "Aby kontynuować, przepisz dokładnie kod z obrazka.";
+$l['invalid_nocaptcha'] = "Przepisz kod z obrazka aby udowodnić, że nie jesteś botem.";
 $l['invalid_captcha_verify'] = "Wprowadzony kod z obrazka jest nieprawidłowy. Spróbuj ponownie.";
+$l['image_verification'] = "Weryfikacja obrazkowa";
+$l['human_verification'] = "Weryfikacja przeciw botom";
+$l['verification_note'] = "Wpisz tekst znajdujący się na obrazku w pole poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
+$l['verification_note_nocaptcha'] = "Zaznacz pole wyboru znajdujące się poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
+$l['verification_subnote'] = "(wielkość znaków nie ma znaczenia)";
 $l['invalid_captcha_transmit'] = "Wystąpił błąd. Spróbuj ponownie.";
+$l['invalid_nocaptcha_transmit'] = "Wystąpił błąd podczas próby weryfikacji bycia człowiekiem. Spróbuj ponownie.";
 $l['captcha_fetch_failure'] = 'Wystąpił błąd podczas wczytywania nowego kodu.';
 $l['question_fetch_failure'] = 'Wystąpił błąd podczas wczytywania nowego pytania';
 $l['invalid_ayah_result'] = "Test \"Are you Human\" nie został ukończony. Spróbuj ponownie.";
@@ -534,6 +540,7 @@ $l['moderation_user_posts'] = "Nowe posty twojego autorstwa muszą zostać zaakc
 $l['moderation_forum_thread'] = "Nowe wątki z tego działu muszą zostać zaakceptowane przed moderatora.";
 $l['moderation_forum_edits'] = "Edycje postów z tego działu muszą zostać zaakceptowane przed moderatora.";
 $l['moderation_forum_edits_quick'] = "Nowe wątki z tego działu muszą zostać zaakceptowane przed moderatora.";
+$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-users&amp;action=search&amp;results=1&amp;conditions=a%3A1%3A%7Bs%3A9%3A%22usergroup%22%3Bs%3A1%3A%225%22%3B%7D\">Przejdź do panelu administratora</a>.";
 $l['awaiting_message_single'] = "Użytkownik oczekuje na aktywację. Aby przeprowadzić aktywację, przejdź do ACP.";
 $l['awaiting_message_plural'] = "Użytkowników oczekujących na aktywację: {1}. Aby przeprowadzić aktywację, przejdź do ACP.";
 
@@ -551,3 +558,10 @@ $l['select2_searching'] = "Wyszukiwanie";
 
 $l['stopforumspam_error_decoding'] = 'Wystąpił błąd podczas przetwarzania danych z StopForumSpam.com.';
 $l['stopforumspam_error_retrieving'] = 'Wystąpił błąd podczas pobierania danych z StopForumSpam.com.';
+
+$l['sfs_error_username'] = 'login';
+$l['sfs_error_ip'] = 'adres IP';
+$l['sfs_error_email'] = 'e-mail';
+$l['sfs_error_or'] = 'lub';
+
+$l['boardclosed_reason'] = 'Forum jest aktualnie zamknięte z powodu prac konserwacyjnych. Spróbuj ponownie za jakiś czas';

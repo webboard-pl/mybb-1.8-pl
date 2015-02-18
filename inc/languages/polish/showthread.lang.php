@@ -95,9 +95,6 @@ $l['or'] = "lub";
 $l['quickreply_multiquote_deselect'] = "odznacz je";
 $l['search_thread'] = "Przeszukaj wątek";
 $l['enter_keywords'] = "Wpisz słowa kluczowe";
-$l['image_verification'] = "Potwierdzenie kodem";
-$l['verification_note'] = "Przepisz tekst z obrazka po lewej do poniższego pola tekstowego. Taki proces jest niezbędny, by zapobiec wysyłaniu wiadomości przez automaty.";
-$l['verification_subnote'] = "(wielkość znaków nie ma znaczenia)";
 $l['view_thread_notes'] = "Notatki do wątku";
 $l['view_all_notes'] = "Zobacz wszystkie notatki";
 

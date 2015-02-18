@@ -26,10 +26,6 @@ $l['mod_options'] = "Opcje moderatora:";
 $l['close_thread'] = "<b>Zamknij wątek</b>: nie będzie możliwości odpowiadania.";
 $l['stick_thread'] = "<b>Przypnij wątek:</b> będzie widoczny na górze działu.";
 $l['draft_saved'] = "Nowy szkic wątku został zapisany.<br />Teraz nastąpi przeniesienie do listy Twoich szkiców.";
-$l['image_verification'] = "Potwierdzenie kodem";
-$l['verification_note'] = "Przepisz tekst z obrazka po lewej do poniższego pola tekstowego. Taki proces jest niezbędny, by zapobiec wysyłaniu wiadomości przez automaty.";
-$l['verification_subnote'] = "(wielkość liter ma znaczenie)";
-$l['invalid_captcha'] = "Wprowadzony kod weryfikacji jest nieprawidłowy. Przepisz kod z obrazka dokładnie.";
 $l['error_post_already_submitted'] = "Już napisano identyczny wątek w tym dziale.";
 $l['no_prefix'] = "Bez prefiksu";
 $l['forum_rules'] = "{1} - zasady działu";
@@ -47,7 +43,7 @@ $l['redirect_newthread_moderation'] = "<br />Twój wątek przed opublikowaniem z
 $l['redirect_newthread_thread'] = "<br />Teraz nastąpi przeniesienie do nowego wątku.";
 $l['invalidthread'] = "Nie masz uprawnień do edytowania wybranego szkicu.";
 
-$l['error_stop_forum_spam_spammer'] = 'Twój adres IP lub e-mail znajduje się w bazie znanych spamerów. Jeżeli uważasz, że jest to błąd, powiadom o tym administratora.';
+$l['error_stop_forum_spam_spammer'] = 'Twój {1} znajduje się w bazie znanych spamerów. Jeżeli uważasz, że jest to błąd, powiadom o tym administratora.';
 $l['error_stop_forum_spam_fetching'] = 'Nie mogliśmy upewnić sie, że nie jesteś spamerem. Prawdopodobnie jest to spowodowane problemami z połączeniem z bazą danych. Spróbuj ponownie później.';
 $l['error_suspendedposting'] = "Odebrano Ci możliwość pisania postów. Blokada {1}.<br /><br />
 

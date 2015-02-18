@@ -33,7 +33,7 @@ $l['logging_in_plain'] = "Loguje się";
 $l['logging_out'] = "Wylogowuje się";
 $l['emailing_user'] = "Pisze e-mail";
 $l['rating_user'] = "Ocenia użytkownika";
-$l['viewing_memberlist'] = "Przegląda <a href=\"memberlist.php\">listę użytkowników</a>";
+$l['viewing_buddylist'] = 'Przegląda <a href="#" onclick="MyBB.popupWindow(\'/misc.php?action=buddypopup&amp;modal=1\'); return false;">listę znajomych</a>';
 $l['viewing_whoposted'] = "Przegląda \"Kto napisał\"";
 $l['viewing_whoposted2'] = "Przegląda \"Kto napisał\" w wątku <a href=\"showthread.php?tid={1}\">{2}</a>";
 $l['marking_read'] = "<a href=\"misc.php?action=markread&amp;my_post_key={1}\">Oznacza działy jako przeczytane</a>";
@@ -67,8 +67,7 @@ $l['updating_options'] = "<a href=\"usercp.php?action=options\">Aktualizuje opcj
 $l['editing_signature'] = "<a href=\"usercp.php?action=editsig\">Edytuje sygnaturę</a>";
 $l['changing_avatar'] = "<a href=\"usercp.php?action=avatar\">Zmienia awatar</a>";
 $l['viewing_subscriptions'] = "Przegląda <a href=\"usercp.php?action=subscriptions\">subskrypcje wątków</a>";
-$l['viewing_favorites'] = "Przegląda <a href=\"usercp.php?action=favorites\">ulubione wątki</a>";
-$l['editing_pad'] = "Edytuje <a href=\"usercp.php?action=notepad\">osobisty notatnik</a>";
+$l['editing_pad'] = 'Edytuje <a href="usercp.php">osobisty notatnik</a>';
 $l['editing_password'] = "Zmienia <a href=\"usercp.php?action=password\">hasło</a>";
 $l['user_cp'] = "Przegląda <a href=\"usercp.php\">panel użytkownika</a>";
 $l['viewing_portal'] = "Przegląda <a href=\"portal.php\">Portal</a>";

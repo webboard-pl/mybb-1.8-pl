@@ -14,8 +14,10 @@ $l['disallowed_usernames'] = "Loginy";
 $l['disallowed_usernames_desc'] = "Zarządzaj listą loginów, które nie mogą zostać zarejestrowane.";
 $l['disallowed_email_addresses'] = "Adresy e-mail";
 $l['disallowed_email_addresses_desc'] = "Zarządzaj listą adresów e-mail, które nie mogą być użyte przy rejestracji.";
+
 $l['banned_ip_addresses'] = "Zbanowane adresy IP";
 $l['username'] = "Login";
+$l['search_user'] = "Szukaj użytkownika";
 $l['date_disallowed'] = "Data zakazu";
 $l['last_attempted_use'] = "Ostatnia próba użycia";
 $l['email_address'] = "Adres e-mail";

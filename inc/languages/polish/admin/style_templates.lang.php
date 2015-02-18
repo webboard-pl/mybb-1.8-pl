@@ -8,7 +8,7 @@
 
 $l['template_sets'] = "Paczki szablonów";
 $l['template_set'] = "Paczka szablonów";
-$l['templates'] = "Szablony";
+$l['templates'] = "{1} szablony";
 
 $l['manage_template_sets'] = "Paczki szablonów";
 $l['manage_template_sets_desc'] = "Przeglądaj swoje paczki szablonów, zarządzaj nimi i dostosuj wygląd forum według swoich upodobań.";

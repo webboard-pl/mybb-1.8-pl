@@ -147,6 +147,7 @@ $l['max_recipients'] = "Maksymalna liczba odbiorców na wiadomość";
 $l['max_recipients_desc'] = "Maksymalna liczba odbiorców, których można przypisać do pojedynczej prywatnej wiadomości. Podaj 0 by nie wprowadzać takiego limitu.";
 $l['show_reputations'] = "Pokazywać wskaźnik reputacji dla tych użytkowników?";
 $l['can_give_reputation'] = "Mogą dawać punkty reputacji innym użytkownikom?";
+$l['can_delete_own_reputation'] = "Mogą usuwać podarowane przez siebie innym punkty reputacji?";
 $l['points_to_award_take'] = "Liczba punktów do dodania/odjęcia:";
 $l['points_to_award_take_desc'] = "Liczba punktów, które zostaną dodane lub odjęte użytkownikowi w wyniku oceny przez użytkownika tej grupy.";
 $l['max_reputations_daily'] = "Maksymalna liczba ocen na dzień:";
