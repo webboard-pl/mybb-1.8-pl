@@ -179,7 +179,7 @@ $l['setting_cookiepath_desc'] = "Ścieżka, na jaką zostaną ustawione cookies.
 $l['setting_showvernum'] = "Pokaż numer wersji";
 $l['setting_showvernum_desc'] = "Możesz włączyć lub wyłączyć pokazywanie numeru wersji aktualnie zainstalowanej kopii MyBB.";
 $l['setting_captchaimage'] = "Obrazki CAPTCHA przy rejestracji i postowaniu";
-$l['setting_captchaimage_desc'] = "Jeżeli wybierzesz \"tak\" oraz zainstalowana jest biblioteka GD, podczas rejestracji i podczas pisania posta wyświetlany będzie obrazek. Obowiązkiem użytkowników będzie przepisanie ciągu znaków z niego do pola tekstowego. Pomoże to w ograniczeniu liczby zautomatyzowanych rejestracji i wiadomości wysyłanych przez boty.";
+$l['setting_captchaimage_desc'] = "Włączenie tej opcji pomaga w ograniczeniu liczby zautomatyzowanych rejestracji i wiadomości wysyłanych przez boty. Aby uzyskać więcej informacji o dostępnych systemach, zajrzyj do oficjalnej dokumentacji MyBB na MyBB.com.";
 $l['setting_reportmethod'] = "Sposób raportowania postów";
 $l['setting_reportmethod_desc'] = "Wybierz z listy obok sposób, w jaki mają być przechowywane informacje o raportowanych postach. Najprawdopodobniej najlepszym wyborem będzie przechowywanie informacji w bazie danych.";
 $l['setting_statslimit'] = "Liczba wątków w statystykach";
@@ -833,3 +833,6 @@ $l['setting_statsenabled'] = "Włącz stronę statystyk";
 $l['setting_statsenabled_desc'] = "Czy chcesz włączyć dostęp do strony ze statystykami forum?";
 $l['setting_statscachetime'] = "Częstotliwość odświeżania";
 $l['setting_statscachetime_desc'] = "Wpisz okres (w godzinach), co jaki odświeżane mają być składowane statystyki. Ustawienie na 0 spowoduje wyłączenie przechowywania statystyk w pamięci podręcznej.";
+
+$l['setting_awactialert'] = "Powiadomienia o nieaktywnych rejestracjach";
+$l['setting_awactialert_desc'] = "Czy chcesz włączyć powiadomienia wyświetlane administratorom o oczekujących na aktywację zarejestrowanych użytkownikach?";
