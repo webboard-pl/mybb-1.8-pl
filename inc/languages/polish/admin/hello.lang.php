@@ -1,21 +1,21 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2014 MyBBoard.pl Team
+ * Copyright Â© 2008-2014 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Nidrax | Testerzy: hippie
  */
 
-$l['hello_desc'] = 'Przyk³adowy plugin, który pozwala na tworzenie wiadomoœci na stronie g³ównej i dodaje je do ka¿dego posta.';
+$l['hello_desc'] = 'PrzykÅ‚adowy plugin, ktÃ³ry pozwala na tworzenie wiadomoÅ›ci na stronie gÅ‚Ã³wnej i dodaje je do kaÅ¼dego posta.';
 
 $l['setting_group_hello'] = 'Hello World!';
 $l['setting_group_hello_desc'] = 'Ustawienia wtyczki Hello World!';
 
-$l['setting_hello_display1'] = 'Wyœwietlanie wiadomoœci na stronie g³ównej';
-$l['setting_hello_display1_desc'] = 'Ustaw na \'nie\', jeœli nie chcesz, aby wiadomoœæ by³a wyœwietlana na stronie g³ównej.';
+$l['setting_hello_display1'] = 'WyÅ›wietlanie wiadomoÅ›ci na stronie gÅ‚Ã³wnej';
+$l['setting_hello_display1_desc'] = 'Ustaw na \'nie\', jeÅ›li nie chcesz, aby wiadomoÅ›Ä‡ byÅ‚a wyÅ›wietlana na stronie gÅ‚Ã³wnej.';
 
-$l['setting_hello_display2'] = 'Wyœwietlanie wiadomoœci w postach';
-$l['setting_hello_display2_desc'] = 'Ustaw na \'nie\', jeœli nie chcesz, aby wiadomoœæ by³a wyœwietlana pod ka¿dym postem.';
+$l['setting_hello_display2'] = 'WyÅ›wietlanie wiadomoÅ›ci w postach';
+$l['setting_hello_display2_desc'] = 'Ustaw na \'nie\', jeÅ›li nie chcesz, aby wiadomoÅ›Ä‡ byÅ‚a wyÅ›wietlana pod kaÅ¼dym postem.';
 
 $l['hello_uninstall'] = 'Deinstalacja Hello World!';
-$l['hello_uninstall_message'] = 'Czy chcesz usun¹æ wszystkie wiadomoœci z bazy danych?';
+$l['hello_uninstall_message'] = 'Czy chcesz usunÄ…Ä‡ wszystkie wiadomoÅ›ci z bazy danych?';
