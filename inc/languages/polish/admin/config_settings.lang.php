@@ -836,3 +836,8 @@ $l['setting_statscachetime_desc'] = "Wpisz okres (w godzinach), co jaki odświe�
 
 $l['setting_awactialert'] = "Powiadomienia o nieaktywnych rejestracjach";
 $l['setting_awactialert_desc'] = "Czy chcesz włączyć powiadomienia wyświetlane administratorom o oczekujących na aktywację zarejestrowanych użytkownikach?";
+
+$l['setting_ayahpublisherkey'] = "Klucz publiczny Are You a Human";
+$l['setting_ayahpublisherkey_desc'] = "Twój publiczny klucz Are You a Human.";
+$l['setting_ayahscoringkey'] = "Klucz prywatny Are You a Human";
+$l['setting_ayahscoringkey_desc'] = "Twój prywatny klucz Are You a Human.";
