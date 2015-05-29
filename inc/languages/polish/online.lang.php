@@ -133,3 +133,4 @@ $l['changing_dst'] = "Zmienia ustawienia czasu letniego";
 $l['printing_thread'] = "Drukuje wątek";
 $l['printing_thread2'] = "Drukuje wątek <a href=\"{1}\">{2}</a>";
 $l['managing_buddyignorelist'] = "Zarządza listą znajomych/ignorowanych";
+$l['viewing_memberlist'] = 'Przegląda <a href="memberlist.php">listę użytkowników</a>';
