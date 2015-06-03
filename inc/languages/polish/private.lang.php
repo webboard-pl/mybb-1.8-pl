@@ -142,6 +142,7 @@ $l['advanced_search'] = "Zaawansowane wyszukiwanie";
 $l['search_pms'] = "Szukaj";
 $l['advanced_private_message_search'] = "Zaawansowane wyszukiwanie prywatnych wiadomości";
 $l['search_criteria'] = "Kryteria wyszukiwania";
+$l['find_users'] = "Szukaj użytkownika";
 $l['keywords'] = "Słowa kluczowe";
 $l['search_in_subject'] = "Wyszukaj w temacie";
 $l['search_in_message'] = "Wyszukaj w treści wiadomości";
@@ -171,7 +172,7 @@ $l['error_pmrecipientreachedquota'] = "Nie możesz wysłać prywatnej wiadomośc
 $l['error_recipientpmturnedoff'] = "{1} wyłączył prywatne wiadomości lub nie ma uprawnień do używania ich. Nie możesz wysłać PW do tego użytkownika.";
 $l['error_pmsturnedoff'] = "Prywatne wiadomości w ustawieniach profilu są wyłączone.<br />Jeśli chcesz korzystać z systemu PW - musisz włączyć go z powrotem.";
 $l['error_recipientignoring'] = "Nie możesz zobaczyć prywatnych wiadomości {1}. Nie masz uprawnień, aby przeprowadzić taką akcję.";
-$l['error_pm_already_submitted'] = "Wysłano już identyczną PW do tego odbiorcy w ciągu ostatnich 5 minut";
+$l['error_pm_already_submitted'] = "Wysłano już identyczną PW do tego odbiorcy w ciągu ostatnich 5 godzin";
 $l['error_nopms'] = "Aby skorzystać z tej funkcji musisz posiadać przynajmniej jedną prywatną wiadomość.";  
 
 $l['error_minsearchlength'] = "Jedno lub więcej ze słów kluczowych było krótsze niż jego minimalna długość. Minimalna długość słowa kluczowego to {1} znaków.<br /><br />Jeżeli próbujesz wyszukać dokładną frazę, umieść ją w cudzysłowach. Na przykład \"Zażółć gęślą jaźń\".";

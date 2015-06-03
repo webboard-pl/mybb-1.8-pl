@@ -74,6 +74,7 @@ $l['away_no_reason'] = "Nie określono.";
 $l['ban_note'] = "To konto jest aktualnie zbanowane.";
 $l['ban_by'] = "Zbanowane przez";
 $l['ban_length'] = "Długość bana";
+$l['ban_remaining'] = "pozostały";
 
 $l['users_additional_info'] = "Dodatkowe informacje o {1}";
 $l['email'] = "E-mail:";

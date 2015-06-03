@@ -16,6 +16,7 @@ $l['postdata_subject_too_long'] = 'Tytuł wątku jest zbyt długi. Wpisz tytuł 
 $l['postdata_banned_username'] = 'Wprowadzona nazwa użytkownika nie została odnaleziona wśród zarejestrowanych. Podaj inną nazwę.';
 $l['postdata_bad_characters_username'] = 'Wprowadzona nazwa użytkownika zawiera nieprawidłowe znaki. Podaj inną nazwę.';
 $l['postdata_invalid_username_length'] = 'Wprowadzona nazwa użytkownika nie ma odpowiedniej długości. Podaj nazwę posiadającą od {1} do {2} znaków.';
+$l['postdata_username_exists'] = 'Wprowadzona nazwa użytkownika jest już zajęta. Podaj inną nazwę użytkownika.';
 $l['postdata_post_flooding'] = "Przed chwilą napisano inną wiadomość. Przed wysłaniem kolejnej musisz odczekać przynajmniej {1} sekund.";
 $l['postdata_post_flooding_one_second'] = "Przed chwilą napisano inną wiadomość. Przed wysłaniem kolejnej musisz odczekać przynajmniej sekundę.";
 $l['postdata_too_many_images'] = "Wprowadzona wiadomość zawiera {1} obrazków, a administrator ustalił limit {2} obrazków na wiadomość. Usuń niektóre obrazki z wiadomości.";
