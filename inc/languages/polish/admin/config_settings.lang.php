@@ -737,7 +737,7 @@ $l['setting_showpmip_no'] = "Nie pokazuj IP";
 $l['setting_showpmip_hide'] = "Pokazuj administratorom i moderatorom";
 $l['setting_showpmip_show'] = "Pokazuj wszystkim użytkownikom";
 $l['setting_maxpmquotedepth'] = "Maksymalna liczba zagnieżdżonych cytatów";
-$l['setting_maxpmquotedepth'] = "Maksymalna liczba zagnieżdżonych zacytowanych poprzednich wiadomości z konwersacji. W przypadku odpowiedzi na PW z zacytowaniem, wszystkie poprzednie zagnieżdżone cytowania przekraczające tę liczbę zostaną automatycznie usunięte. Uwaga - to ograniczenie działa tylko w przypadku automatycznych cytowań w odpowiedzi; nadal możliwe będzie dodawanie własnych cytatów ponad tę liczbę, ustawienie nie zmienia też treści wysłanych już dotychczas wiadomości. Ustawienie wartości 0 wyłącza całkowicie tę opcję.";
+$l['setting_maxpmquotedepth_desc'] = "Maksymalna liczba zagnieżdżonych zacytowanych poprzednich wiadomości z konwersacji. W przypadku odpowiedzi na PW z zacytowaniem, wszystkie poprzednie zagnieżdżone cytowania przekraczające tę liczbę zostaną automatycznie usunięte. Uwaga - to ograniczenie działa tylko w przypadku automatycznych cytowań w odpowiedzi; nadal możliwe będzie dodawanie własnych cytatów ponad tę liczbę, ustawienie nie zmienia też treści wysłanych już dotychczas wiadomości. Ustawienie wartości 0 wyłącza całkowicie tę opcję.";
 
 $l['setting_portal'] = "Włącz portal";
 $l['setting_portal_desc'] = "Jeśli chcesz wyłączyć portal na swoim forum, ustaw tę opcję na 'Nie'";

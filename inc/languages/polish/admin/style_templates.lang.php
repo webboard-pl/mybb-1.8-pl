@@ -114,7 +114,7 @@ $l['group_stats'] = "Statystyki -";
 $l['group_xmlhttp'] = "XMLHTTP -";
 $l['group_footer'] = "Stopka -";
 $l['group_video'] = "MyCode wideo -";
-$l['group_sendthread'] = "Wyślij wątek";
+$l['group_sendthread'] = "Wyślij wątek -";
 
 $l['expand'] = "Rozwiń";
 $l['collapse'] = "Zwiń";
