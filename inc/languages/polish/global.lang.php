@@ -535,12 +535,12 @@ $l['october'] = "październik";
 $l['november'] = "listopad";
 $l['december'] = "grudzień";
 
-$l['moderation_forum_attachments'] = "Nowe załaczniki z tego działu muszą zostać zaakceptowane przed moderatora.";
-$l['moderation_forum_posts'] = "Nowe posty z tego działu muszą zostać zaakceptowane przed moderatora.";
-$l['moderation_user_posts'] = "Nowe posty twojego autorstwa muszą zostać zaakceptowane przed moderatora.";
-$l['moderation_forum_thread'] = "Nowe wątki z tego działu muszą zostać zaakceptowane przed moderatora.";
-$l['moderation_forum_edits'] = "Edycje postów z tego działu muszą zostać zaakceptowane przed moderatora.";
-$l['moderation_forum_edits_quick'] = "Nowe wątki z tego działu muszą zostać zaakceptowane przed moderatora.";
+$l['moderation_forum_attachments'] = "Nowe załaczniki z tego działu muszą zostać zaakceptowane przez moderatora.";
+$l['moderation_forum_posts'] = "Nowe posty z tego działu muszą zostać zaakceptowane przez moderatora.";
+$l['moderation_user_posts'] = "Nowe posty twojego autorstwa muszą zostać zaakceptowane przez moderatora.";
+$l['moderation_forum_thread'] = "Nowe wątki z tego działu muszą zostać zaakceptowane przez moderatora.";
+$l['moderation_forum_edits'] = "Edycje postów z tego działu muszą zostać zaakceptowane przez moderatora.";
+$l['moderation_forum_edits_quick'] = "Nowe wątki z tego działu muszą zostać zaakceptowane przez moderatora.";
 $l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-users&amp;action=search&amp;results=1&amp;conditions=a%3A1%3A%7Bs%3A9%3A%22usergroup%22%3Bs%3A1%3A%225%22%3B%7D\">Przejdź do panelu administratora</a>.";
 $l['awaiting_message_single'] = "Użytkownik oczekuje na aktywację. Aby przeprowadzić aktywację, przejdź do ACP.";
 $l['awaiting_message_plural'] = "Użytkowników oczekujących na aktywację: {1}. Aby przeprowadzić aktywację, przejdź do ACP.";
