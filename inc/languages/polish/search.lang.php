@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2014 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
  */
@@ -65,6 +65,8 @@ $l['close_threads'] = "Zamknij wątki";
 $l['open_threads'] = "Otwórz wątki";
 $l['stick_threads'] = "Przypnij wątki";
 $l['unstick_threads'] = "Odepnij wątki";
+$l['soft_delete_threads'] = "Usuń wątki w sposób nietrwały";
+$l['restore_threads'] = "Przywróć wątki";
 $l['delete_threads'] = "Usuń wątki";
 $l['move_threads'] = "Przenieś wątki";
 $l['approve_threads'] = "Zatwierdź wątki";
@@ -74,6 +76,7 @@ $l['inline_restore_posts'] = "Przywróć posty";
 $l['inline_delete_posts'] = "Trwale usuń posty";
 $l['inline_merge_posts'] = "Połącz posty";
 $l['inline_split_posts'] = "Wydziel posty";
+$l['inline_move_posts'] = "Przenieś posty";
 $l['inline_approve_posts'] = "Zatwierdź posty";
 $l['inline_unapprove_posts'] = "Ukryj posty";
 $l['inline_post_moderation'] = "Moderacja zbiorowa:";

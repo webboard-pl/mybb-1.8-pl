@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2014 MyBBoard.pl Team
+ * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
  */
@@ -51,6 +51,8 @@ $l['can_manage_group_join_requests'] = "Może zarządzać wnioskami o dołączen
 $l['can_manage_group_join_requests_desc'] = "Jeżeli ten użytkownik ma mieć możliwość zarządzania wnioskami o dołączenie do grupy, wybierz \"Tak\".";
 $l['can_invite_group_members'] = "Może zapraszać członków grupy?";
 $l['can_invite_group_members_desc'] = "Jeżeli ten użytkownik ma mieć możliwość zapraszania innych użytkowników do tej grupy, wybierz \"Tak\".";
+$l['make_user_member'] = "Uczynić użytkownika członkiem grupy?";
+$l['make_user_member_desc'] = "Czy ten użytkownik powinien zostać dodany do wskazanej grupy, jeśli jeszcze się w niej nie znajduje?";
 $l['add_group_leader'] = "Wybierz lidera grupy";
 $l['save_group_leader'] = "Wybierz lidera";
 $l['edit_leader'] = "Edytuj lidera:";

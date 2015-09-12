@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2011 MyBBoard.pl Team
+ * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
  */
@@ -91,6 +91,7 @@ $l['delete_q'] = "Usunąć?";
 $l['delete_1'] = "By usunąć to wydarzenie, zaznacz pole po lewej i kliknij przycisk po prawej.";
 $l['delete_2'] = "<b>Uwaga:</b> ta decyzja będzie nieodwracalna.";
 $l['delete_now'] = "Usuń teraz";
+$l['delete_no_checkbox'] = "Wydarzenie nie zostało usunięte, ponieważ nie zaznaczyłeś pola \"Usunąć?\".";
 $l['jump_to_calendar'] = "Przejdź do kalendarza:";
 $l['select_calendar'] = "Kalendarz:";
 $l['type_single'] = "Jednodniowe wydarzenie";

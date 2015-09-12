@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2014 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
  */
@@ -27,7 +27,8 @@ $l['nav_addsubscription'] = "Dodaj subskrypcję";
 $l['resend_activation'] = "Wyślij ponownie e-mail aktywacyjny";
 $l['away_notice_away'] = "Status niedostępny od {1}";
 $l['away_notice'] = "Ta opcja pozwala umieścić informację o dłuższej nieobecności na forum.";
-$l['already_uploaded_avatar'] = "W tej chwili używasz awatara wysłanego na serwer. Jeśli wyślesz nowy awatar, stary zostanie usunięty.";
+$l['already_uploaded_avatar'] = "W tej chwili używasz obrazka wysłanego na serwer. Jeśli zdecydujesz się na zmianę awatara, stary obrazek zostanie usunięty.";
+$l['using_remote_avatar'] = "W tej chwili używasz obrazka z zewnętrznej strony. Jeśli zdecydujesz się na zmianę awatara, adres URL prowadzący do starego obrazka zostanie wyczyszczony.";
 $l['na_deleted'] = "usunięty";
 $l['user_cp'] = "Panel użytkownika";
 $l['user_cp_welcome'] = "To jest Twój panel użytkownika. Masz tutaj dostęp do swojego profilu, subskrypcji i systemu prywatnych wiadomości.<br />Strona główna zawiera informacje o Tobie.";

@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2011 MyBBoard.pl Team
+ * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
  */
@@ -91,6 +91,8 @@ $l['emailsubject_randompassword'] = "Twoje hasło do {1}";
 $l['emailsubject_activateaccount'] = "Aktywacja konta na forum {1}";
 $l['emailsubject_forumsubscription'] = "Nowy wątek na forum {1}";
 $l['emailsubject_reportpost'] = "Zgłoszony post na forum {1}";
+$l['emailsubject_reportprofile'] = "Zgłoszony użytkownik na forum {1}";
+$l['emailsubject_reportreputation'] = "Zgłoszony punkt reputacji na forum {1}";
 $l['emailsubject_reachedpmquota'] = "Przekroczono limit ({1}) PW";
 $l['emailsubject_changeemail'] = "Zmiana e-maila na forum {1}";
 $l['emailsubject_newpm'] = "Nowa prywatna wiadomość na forum {1} - {2}";
@@ -155,11 +157,35 @@ $l['email_reportpost'] = "{1} z {2} zgłosił post:
 {4}/{5}
 
 Powód zgłoszenia:
-{7}
+{6}
 
 Ta wiadomość została wysłana do wszystkich moderatorów tego działu (jeśli dział nie ma moderatorów - poinformowani zostali globalni moderatorzy i administratorzy).
 
 Sprawdź ten post.";
+
+$l['email_reportprofile'] = "{1} z {2} zgłosił użytkownika:
+
+{3}
+{4}/{5}
+
+Powód zgłoszenia:
+{6}
+
+Ta wiadomość została wysłana do wszystkich moderatorów tego działu (jeśli dział nie ma moderatorów - poinformowani zostali globalni moderatorzy i administratorzy).
+
+Sprawdź tego użytkownika.";
+
+$l['email_reportreputation'] = "{1} z {2} zgłosił punkt reputacji:
+
+{3}
+{4}/{5}
+
+Powód zgłoszenia:
+{6}
+
+Ta wiadomość została wysłana do wszystkich moderatorów tego działu (jeśli dział nie ma moderatorów - poinformowani zostali globalni moderatorzy i administratorzy).
+
+Sprawdź ten punkt reputacji";
 
 $l['email_passwordreset'] = "{1},
 

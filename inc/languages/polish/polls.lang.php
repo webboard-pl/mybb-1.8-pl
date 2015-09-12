@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2014 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
  */
@@ -46,6 +46,7 @@ $l['redirect_unvoted'] = "Twój głos w ankiecie został usunięty.<br />Teraz n
 $l['redirect_polldeleted'] = "Ankieta została usunięta z wątku.<br />Teraz nastąpi przeniesienie do wątku.";
 
 $l['error_polloptiontoolong'] = "Jedna lub więcej odpowiedzi jest za długa. Wróć i skróć je.";
+$l['error_polloptionsequence'] = "Jedna lub więcej odpowiedzi zawiera niedozwolone znaki: <strong>||~|~||</strong>. Wróć do edycji i usuń je.";
 $l['error_noquestionoptions'] = "Musisz wprowadzić pytanie do ankiety lub więcej odpowiedzi. Minimalna liczba odpowiedzi to 2.<br />Wróć i popraw ten błąd.";
 $l['error_pollalready'] = "Ten wątek ma już ankietę!";
 $l['error_nopolloptions'] = "Wybrana odpowiedź ankiety jest nieprawidłowa lub nie istnieje.";

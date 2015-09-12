@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2011 MyBBoard.pl Team
+ * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
  */
@@ -33,6 +33,7 @@ $l['userdata_invalid_birthday_coppa2'] = 'Musisz mieć ukończone 13 lat by zost
 $l['userdata_invalid_birthday_privacy'] = 'Wybierz właściwe ustawienia prywatności dotyczące daty urodzin.';
 $l['userdata_invalid_referrer'] = "Wprowadzony login polecającego nie istnieje. Podaj poprawny login lub pozostaw to pole puste.";
 $l['userdata_invalid_language'] = "Nie ma takiego języka. Wybierz istniejący język.";
+$l['userdata_invalid_style'] = 'Wybrany styl jest nieprawidłowy. Wybierz odpowiedni styl.';
 $l['userdata_missing_returndate'] = "Podana data powrotu jest nieprawidłowa. Wypełnij ponownie pola: dzień, miesiąc, rok.";
 $l['userdata_missing_required_profile_field'] = "Nie wprowadzono prawidłowej wartości do pola \"{1}\". Podaj poprawną wartość.";
 $l['userdata_bad_profile_field_value'] = 'Nie wprowadzono prawidłowej wartości do pola \"{1}\". Podaj poprawną wartość.';
