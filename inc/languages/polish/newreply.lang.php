@@ -36,7 +36,7 @@ $l['multiquote_external_one_quote'] = "Zacytuj ten post teraz";
 $l['multiquote_external_quote'] = "Zacytuj te posty teraz";
 
 $l['redirect_newreply'] = "Post został umieszczony na forum.";
-$l['redirect_newreply_moderation'] = "<br />Twój post przed opublikowaniem zostanie sprawdzony przez moderatora. Teraz nastąpi przeniesienie do wątku.";
+$l['redirect_newreply_moderation'] = "Twój post przed opublikowaniem zostanie sprawdzony przez moderatora. Teraz nastąpi przeniesienie do wątku.";
 $l['redirect_newreply_post'] = "<br />Teraz nastąpi przeniesienie do nowego posta.";
 $l['redirect_newreplyerror'] = "Twoja wiadomość nie zostanie opublikowana, gdyż posiada nieprawidłową zawartość. <br />Teraz nastąpi przeniesienie do wątku.";
 $l['redirect_threadclosed'] = "Nie możesz odpowiedzieć w tym wątku, gdyż został zamknięty przez moderatora.";

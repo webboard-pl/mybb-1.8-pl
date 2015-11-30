@@ -77,7 +77,7 @@ $l['can_restore_threads'] = "Może przywracać nietrwale usunięte wątki?";
 $l['can_delete_threads'] = "Może trwale usuwać wątki?";
 $l['can_view_ips'] = "Może przeglądać IP?";
 $l['can_view_unapprove'] = "Może przeglądać niezatwierdzone wątki i posty?";
-$l['can_view_deleted'] = "Może przeglądać usunięte wątki i posty?y";
+$l['can_view_deleted'] = "Może przeglądać usunięte wątki i posty?";
 $l['can_open_close_threads'] = "Może otwierać / zamykać wątki?";
 $l['can_stick_unstick_threads'] = "Może przypinać / odpinać wątki?";
 $l['can_approve_unapprove_threads'] = "Może zatwierdzać / ukrywać wątki?";
@@ -270,7 +270,7 @@ $l['editing_field_caneditattachments'] = "Może aktualizować własne załączni
 
 $l['moderate_field_modposts'] = "Nowe posty są moderowane?";
 $l['moderate_field_modthreads'] = "Nowe wątki są moderowane?";
-$l['moderate_field_modattachments'] = "Nowe załączniki są moderowane";
+$l['moderate_field_modattachments'] = "Nowe załączniki są moderowane?";
 $l['moderate_field_mod_edit_posts'] = "Posty po edycji są moderowane?";
 
 $l['polls_field_canpostpolls'] = "Może tworzyć ankiety?";
