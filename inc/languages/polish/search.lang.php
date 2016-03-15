@@ -94,7 +94,6 @@ $l['page_selected'] = "Wszystkie <strong>{1}</strong> wyników wyszukiwania zost
 $l['all_selected'] = "Wszystkie <strong>{1}</strong> wyników wyszukiwania zostało zaznaczonych.";
 $l['select_all'] = "Zaznacz wszystkie <strong>{1}</strong> wyniki wyszukiwania.";
 $l['clear_selection'] = "Usuń zaznaczenie";
-$l['search_user'] = "Szukaj użytkownika";  
 
 $l['results'] = "wyniki";
 $l['mod_options'] = "Opcje moderatora";

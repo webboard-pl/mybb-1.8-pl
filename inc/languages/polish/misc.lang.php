@@ -14,7 +14,6 @@ $l['aol_im'] = "AOL IM";
 $l['skype'] = "Skype";
 $l['yahoo_im'] = "Yahoo IM";
 $l['skype_center'] = "Centrum Skype";
-$l['skype_status'] = "Status Skype";
 $l['chat_on_skype'] = "Napisz wiadomość do {1} na Skype";
 $l['call_on_skype'] = "Zadzwoń do {1} na Skype";
 $l['yahoo_center'] = "Centrum Yahoo!";
@@ -90,7 +89,13 @@ $l['redirect_markforumsread'] = "Wybrane działy zostały oznaczone jako przeczy
 $l['redirect_forumpasscleared'] = "Przechowywane hasła zostały wyczyszczone.";
 $l['redirect_cookiescleared'] = "Wszystkie ciasteczka zostały wyczyszczone.";
 
-$l['error_invalidimtype'] = "Ten użytkownik nie określił w profilu swoich danych dla tego komunikatora.";
+$l['error_invalidforum'] = "Nieprawidłowy dział";
 $l['error_invalidhelpdoc'] = "Wybrany dokument pomocy nie istnieje.";
+$l['error_invalidimtype'] = "Ten użytkownik nie określił w profilu swoich danych dla tego komunikatora.";
+$l['error_invalidsearch'] = "Wpisano nieprawidłową frazę do wyszukania. Wróć i spróbuj ponownie.";
+$l['error_no_search_support'] = "Ten silnik bazy danych nie wspiera wyszukiwania.";
+$l['error_searchflooding'] = "Możesz wykonać tylko jedno wyszukiwanie w ciągu {1} sekund. Poczekaj {2} sekund przed następną próbą.";
+$l['error_searchflooding_1'] = "Możesz wykonać tylko jedno wyszukiwanie w ciągu {1} sekund. Poczekaj jeszcze 1 sekundę przed następną próbą.";
+
 
 $l['dst_settings_updated'] = "Ustawienia dotyczące czasu zimowego zostały automatycznie zaktualizowane.<br /><br />Teraz nastąpi przeniesienie na stronę główną forum.";

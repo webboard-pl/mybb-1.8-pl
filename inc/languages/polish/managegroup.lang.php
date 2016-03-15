@@ -45,7 +45,6 @@ $l['group_public_invite'] = "Ta grupa jest publiczna. Dołączenie do niej wymag
 $l['group_private'] = "To jest prywatna grupa. By do niej dołączyć, użytkownik musi zostać dodany przez lidera.";
 $l['group_default'] = "To jest grupa główna.";
 $l['group_leaders'] = "Liderzy grup";
-$l['search_user'] = "Szukaj użytkownika";
 $l['no_users_selected'] = "Nie zaznaczono użytkowników do usunięcia.<br />Wróć i usuń użytkowników do usunięcia z grupy.";
 
 $l['error_alreadyingroup'] = "Wybrany użytkownik już należy do tej grupy.";

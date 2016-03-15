@@ -348,7 +348,7 @@ Ekipa {3}
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych odpowiedziach w tym wątku, przejdź pod adres:
-{6}/usercp2.php?action=removesubscription&tid={8}&key={9}&my_post_key={10}
+{6}/usercp2.php?action=removesubscription&tid={8}&my_post_key={9}
 
 ------------------------------------------";
 $l['email_reachedpmquota'] = "{1},
@@ -494,6 +494,13 @@ Kolejne powiadomienia otrzymasz dopiero po odwiedzeniu forum.
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych odpowiedziach w tym wątku, przejdź pod adres:
-[url]{5}/usercp2.php?action=removesubscription&tid={7}&key={8}&my_post_key={9}[/url]
+[url]{5}/usercp2.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
 
 ------------------------------------------";
+
+$l['email_broken_task_subject'] = "Na forum {1} wystąpił błąd zaplanowanego zadania";
+$l['email_broken_task'] = "Twoja kopia MyBB uruchomiona na stronie {1} ({2}) odnotowała błąd związany z systemem zaplanowanych zadań.
+
+Plik zaplanowanego zadania dla {3} nie został odnaleziony.
+
+To zadanie zostało wyłączone do czasu rozwiązania problemu.";

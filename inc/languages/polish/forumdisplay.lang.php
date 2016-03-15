@@ -9,6 +9,7 @@
 $l['post_thread'] = "Napisz wątek";
 $l['moderated_by'] = "Moderowane przez:";
 $l['nothreads'] = "Aktualnie nie ma wątków spełniających podane warunki.";
+$l['nopermission'] = "Nie masz uprawnień do przeglądania wątków w tym dziale.";
 $l['search_forum'] = "Szukaj w tym dziale:";
 $l['thread'] = "Temat";
 $l['author'] = "Autor";

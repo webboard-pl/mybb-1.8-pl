@@ -393,7 +393,6 @@ $l['icon_no_new'] = "Brak nowych postów.";
 $l['icon_new'] = "Zawiera nowe posty.";
 $l['icon_hot'] = " Gorący wątek.";
 $l['icon_lock'] = " Zamknięty wątek.";
-$l['search_user'] = "Szukaj użytkownika";  
 
 $l['buddylist_error'] = 'Podczas pobierania listy znajomych wystąpił błąd.';
 

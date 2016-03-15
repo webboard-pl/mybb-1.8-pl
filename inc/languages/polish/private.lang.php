@@ -142,7 +142,6 @@ $l['advanced_search'] = "Zaawansowane wyszukiwanie";
 $l['search_pms'] = "Szukaj";
 $l['advanced_private_message_search'] = "Zaawansowane wyszukiwanie prywatnych wiadomości";
 $l['search_criteria'] = "Kryteria wyszukiwania";
-$l['find_users'] = "Szukaj użytkownika";
 $l['keywords'] = "Słowa kluczowe";
 $l['search_in_subject'] = "Wyszukaj w temacie";
 $l['search_in_message'] = "Wyszukaj w treści wiadomości";
@@ -161,7 +160,6 @@ $l['ascending_order'] = "w kolejności rosnącej";
 $l['descending_order'] = "w kolejności malejącej";
 $l['search_private_messages'] = "Szukaj w prywatnych wiadomościach";
 $l['check_all'] = "Zaznacz wszystkie";
-$l['search_user'] = "Szukaj użytkownika";  
 
 $l['error_nopmsarchive'] = "Nie znaleziono prywatnych wiadomości spełniających podane kryteria.";
 $l['error_invalidpmfoldername'] = "Wprowadzona nazwa folderu zawiera niedozwolone znaki.";

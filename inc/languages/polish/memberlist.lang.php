@@ -48,7 +48,6 @@ $l['search_icq'] = "Numer ICQ";
 $l['search_options'] = "Opcje wyszukiwania";
 $l['per_page'] = "Wyników na stronę";
 $l['search'] = "Szukaj";
-$l['search_user'] = "Szukaj użytkownika";
 
 $l['error_no_members'] = "<p>Nie znaleziono żadnych użytkowników spełniających kryteria wyszukiwania.</p><p>Podaj inne kryteria i spróbuj jeszcze raz.</p>";
 

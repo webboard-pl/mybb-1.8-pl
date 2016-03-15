@@ -310,6 +310,8 @@ $l['unread_reports'] = "Notatka dla moderatora: są nowe raportowane posty ({1})
 $l['pending_joinrequest'] = "Notatka dla lidera grupy: jest jedno zgłoszenie do grupy, której jesteś liderem.";
 $l['pending_joinrequests'] = "Notatka dla lidera grupy: jest {1} zgłoszeń do grupy, której jesteś liderem.";
 
+$l['search_user'] = "Szukaj użytkownika";
+
 $l['year'] = "Rok";
 $l['year_short'] = "r";
 $l['years'] = "Lat";
@@ -428,7 +430,6 @@ $l['invalid_captcha_transmit'] = "Wystąpił błąd. Spróbuj ponownie.";
 $l['invalid_nocaptcha_transmit'] = "Wystąpił błąd podczas próby weryfikacji bycia człowiekiem. Spróbuj ponownie.";
 $l['captcha_fetch_failure'] = 'Wystąpił błąd podczas wczytywania nowego kodu.';
 $l['question_fetch_failure'] = 'Wystąpił błąd podczas wczytywania nowego pytania';
-$l['invalid_ayah_result'] = "Test \"Are you Human\" nie został ukończony. Spróbuj ponownie.";
 
 $l['timezone_gmt_minus_1200'] = "(GMT -12:00) Wyspy Marshalla";
 $l['timezone_gmt_minus_1100'] = "(GMT -11:00) Wyspa Midway, Nome";

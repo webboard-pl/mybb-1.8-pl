@@ -40,6 +40,7 @@ $l['multiquote_external_quote'] = "Zacytuj również te posty";
 $l['redirect_newthread'] = "Wątek został umieszczony na forum.";
 $l['redirect_newthread_poll'] = "<br />Teraz nastąpi przeniesienie do ustawień ankiety.";
 $l['redirect_newthread_moderation'] = "<br />Twój wątek przed opublikowaniem zostanie zweryfikowany przez moderatora. Teraz nastąpi przeniesienie do wątku.";
+$l['redirect_newthread_unviewable'] = "<br />Nie masz uprawnień do przeglądania wątków w tym dziale. Teraz nastąpi przeniesienie do działu.";
 $l['redirect_newthread_thread'] = "<br />Teraz nastąpi przeniesienie do nowego wątku.";
 $l['invalidthread'] = "Nie masz uprawnień do edytowania wybranego szkicu.";
 

@@ -327,4 +327,3 @@ $l['you_cannot_moderate_attachments'] = "Nie masz uprawnień do moderacji załą
 $l['you_cannot_use_mod_queue'] = "Nie masz uprawnień do korzystania z kolejki moderacji.";
 
 $l['post'] = 'Post';
-$l['search_user'] = "Szukaj użytkownika";
