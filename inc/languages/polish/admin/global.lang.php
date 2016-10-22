@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['today'] = "Dzisiaj";
@@ -134,6 +134,8 @@ $l['on'] = "Tak";
 $l['off'] = "Nie";
 $l['alt_enabled'] = "Włączone";
 $l['alt_disabled'] = "Wyłączone";
+$l['enable'] = "Włączone";
+$l['disable'] = "Wyłączone";
 $l['saved'] = 'Zapisano';
 
 $l['rel_in'] = "";
@@ -172,6 +174,7 @@ $l['access_denied_desc'] = "Twoje uprawnienia nie pozwalają na dostęp do tej c
 
 // Super Administrator required
 $l['cannot_perform_action_super_admin_general'] = "Wskazana czynność może zostać wykonana tylko i wyłącznie przez super administratora.<br /><br />Jeżeli chcesz zostać super administratorem, dopisz swoje ID użytkownika w odpowiednie miejsce w pliku inc/config.php.";
+
 
 // AJAX
 $l['loading_text'] = "Ładowanie<br />Proszę czekać...";
@@ -226,7 +229,7 @@ $l['all_logs_deleted'] = "Wszystkie wpisy zostały usunięte.";
 $l['delete_selected'] = "Usuń wybrane";
 $l['delete_all'] = "Usuń wszystkie wyświetlone";
 
-// Misc
+//Misc
 $l['encountered_errors'] = "Wystąpiły następujące problemy:";
 $l['invalid_post_verify_key'] = "Wykryto nieprawidłowy kod autoryzacji. Musisz potwierdzić chęć wykonania tej czynności.";
 $l['invalid_post_verify_key2'] = "Wykryto nieprawidłowy kod autoryzacji. Sprawdź czy odwiedzasz tę stronę z poprawnego odnośnika.";
