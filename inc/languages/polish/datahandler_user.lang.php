@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['userdata_missing_username'] = "Nie podano loginu. Wprowadź go.";
@@ -42,3 +42,10 @@ $l['userdata_max_limit_reached'] = 'Wpisałeś nieprawidłową liczbę znaków w
 $l['userdata_invalid_checkfield'] = "Wykryto, że formularz został wypełniony przez \"automat spamujący\". Jeśli nie jesteś \"spambotem\", skontaktuj się z administratorem.";
 $l['userdata_invalid_postnum'] = "Wprowadzona liczba postów jest nieprawidłowa. Podaj prawidłową liczbę postów lub pozostaw to pole puste.";
 $l['userdata_invalid_threadnum'] = "Wprowadzona liczba wątków jest nieprawidłowa. Podaj prawidłową liczbę wątków lub pozostaw to pole puste.";
+
+
+$l['userdata_too_many_sig_images'] = "Przykro nam, ale nie możemy zaktualizować sygnatury, ponieważ zawiera ona zbyt wiele obrazów. Aby kontynuować usuń niektóre obrazy z sygnatury.";
+$l['userdata_too_many_sig_images2'] = "<strong>Uwaga:</strong> Maksymalna ilość obraów w sygnaturze wynosi {1}.";
+$l['userdata_sig_too_long'] = "Nie można zaktualizować sygnatury, ponieważ zawiera zbyt dużą ilość znaków. Maksymalna ilość znaków w sygnaturze wynosi {1}. ";
+$l['userdata_sig_remove_chars_plural'] = "Usuń {1} znaków i spróbuj ponownie.";
+$l['userdata_sig_remove_chars_singular'] = "Usuń 1 znak i spróbuj ponownie.";
