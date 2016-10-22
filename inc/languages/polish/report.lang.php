@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['report_reason'] = "Powód:";
@@ -25,7 +25,10 @@ $l['report_reason_other'] = "Inny powód";
 
 $l['success_report_voted'] = "Dziękujemy za zgłoszenie.<br />Zostanie wkrótce sprawdzone przez któregoś z członków ekipy forum.";
 
+
 $l['error_report_length'] = "Wybierz powód zgłoszenia.";
 $l['error_invalid_report'] = "Zawartość nie istnieje lub nie można jej zgłosić.";
+$l['error_invalid_report_reason'] = "Wybrany powód jest nieprawidłowy.";
+$l['error_comment_required'] = "Dodatkowe uwagi odnośne zgłoszonej zawartości.";
 $l['error_report_duplicate'] = "Ta zawartość została już zgłoszona przez innego użytkownika.<br />Możesz wysłać kolejne zgłoszenie, korzystając z poniższego formularza.";
-$l['report_reason_other_description'] = "Jeżeli wybrano opcję 'Inny powód', podaj powód zgłoszenia.";  
+$l['report_reason_other_description'] = "Jeżeli wybrano opcję 'Inny powód', podaj powód zgłoszenia.";
