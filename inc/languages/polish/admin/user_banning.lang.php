@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 // Tabs
@@ -53,7 +53,7 @@ $l['time_left'] = "Pozostało";
 $l['permenantly'] = "nigdy";
 $l['na'] = "Niedostępne";
 $l['for'] = "na okres:";
-$l['bannedby_x_on_x'] = "<strong>{1}</strong><br /><small>Zbanowany przez {2} w dniu {3} </small>";// Usunięto w celach testowych{4}
+$l['bannedby_x_on_x'] = "<strong>{1}</strong><br /><small>Zbanowany przez {2} w dniu {3} {4} </small>";
 $l['lift'] = "Usuń";
 $l['no_banned_users'] = "W tym momencie nie masz zbanowanych użytkowników.";
 $l['prune_threads_and_posts'] = "Usuń wątki i posty";
