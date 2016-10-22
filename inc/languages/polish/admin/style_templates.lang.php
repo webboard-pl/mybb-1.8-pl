@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['template_sets'] = "Paczki szablonów";
@@ -115,6 +115,7 @@ $l['group_xmlhttp'] = "XMLHTTP -";
 $l['group_footer'] = "Stopka -";
 $l['group_video'] = "MyCode wideo -";
 $l['group_sendthread'] = "Wyślij wątek -";
+$l['group_mycode'] = "MyCode";
 
 $l['expand'] = "Rozwiń";
 $l['collapse'] = "Zwiń";
