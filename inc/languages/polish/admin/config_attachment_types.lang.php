@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['attachment_types'] = "Typy załączników";
@@ -42,3 +42,13 @@ $l['success_attachment_type_updated'] = "Typ załączników został zaktualizowa
 $l['success_attachment_type_deleted'] = "Typ załączników został usunięty.";
 
 $l['confirm_attachment_type_deletion'] = "Czy na pewno chcesz usunąć ten typ załączników?";
+
+$l['success_activated_attachment_type'] = 'Wybrany typ załącznika został pomyślnie aktywowany.';
+$l['success_deactivated_attachment_type'] = 'Wybrany typ załącznika został pomyślnie dezaktywowany.';
+
+$l['enabled'] = "Włączone?";
+$l['avatar_file'] = 'Plik awatara';
+$l['avatar_file_desc'] = 'Chcesz zezwolić temu typowi załącznika na bycie awatarem?';
+
+$l['available_to_groups'] = 'Dostępna dla grup';
+$l['available_in_forums'] = 'Dostępna na forum';
