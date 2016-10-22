@@ -1,11 +1,10 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
-
 
 $l['nav_usercp'] = "Panel użytkownika";
 $l['nav_profile'] = "Edytuj profil";
@@ -240,11 +239,6 @@ $l['delete_drafts'] = "Usuń zaznaczone szkice";
 $l['draft_options'] = "Opcje szkicu";
 $l['selected_drafts_deleted'] = "Zaznaczone szkice zostały usunięte.<br />Teraz nastąpi przeniesienie do listy szkiców.";
 $l['no_drafts_selected'] = "Nie zaznaczono żadnych szkiców do usunięcia";
-$l['too_many_sig_images'] = "Nie możemy przyjąć nowej sygnatury, gdyż zawiera zbyt dużo obrazków. Usuń zbędne obrazki i spróbuj ponownie.";
-$l['too_many_sig_images2'] = "<strong>Uwaga:</strong> Maksymalna liczba obrazków na sygnaturę to {1}.";
-$l['sig_too_long'] = "Nie możesz zaktualizować sygnatury, gdyż jest za długa. Maksymalny rozmiar sygnatury to {1} znaków. ";
-$l['sig_remove_chars_plural'] = "Skróć ją o {1} znaków i spróbuj ponownie.";
-$l['sig_remove_chars_singular'] = "Skróć ją o 1 znak i spróbuj ponownie.";
 $l['group_memberships'] = "Członkostwo";
 $l['not_member_of_group'] = "Nie możesz wykonać tej akcji, gdyż nie jesteś użytkownikiem tej grupy.";
 $l['cannot_set_displaygroup'] = "Ta grupa nie może zostać ustawiona jako domyślna.";
@@ -255,7 +249,7 @@ $l['usergroup_leave'] = "Opuść grupę";
 $l['usergroup_leave_primary'] = "(nie możesz opuścić głównej grupy)";
 $l['usergroup_leave_leader'] = "(jesteś liderem tej grupy)";
 $l['usergroup_joins_moderated'] = "Lider grupy rozpatruje prośby o przyjęcie.";
-$l['usergroup_joins_invite'] = "Aby móc dołączyć do tej grupy, musisz najpierw otrzymać zaproszenie od jej lidera.";  
+$l['usergroup_joins_invite'] = "Aby móc dołączyć do tej grupy, musisz najpierw otrzymać zaproszenie od jej lidera.";
 $l['usergroup_cannot_leave'] = "(nie możesz opuścić tej grupy)";
 $l['usergroup_joins_anyone'] = "Każdy może dołączyć do tej grupy.";
 $l['usergroup_leaders'] = "Liderzy grupy:";
@@ -263,7 +257,7 @@ $l['usergroups_joinable'] = "Grupy, do których możesz dołączyć";
 $l['join_conditions'] = "Warunki dołączenia";
 $l['join_group'] = "Dołącz do grupy";
 $l['join_group_applied'] = "Poproszono o członkostwo w grupie: {1}";
-$l['pending_invitation'] = "Otrzymano zaproszenie do grupy: <a href=\"usercp.php?action=usergroups&amp;acceptinvite={1}&amp;my_post_key={2}\">Zaakceptuj zaproszenie</a>";  
+$l['pending_invitation'] = "Otrzymano zaproszenie do grupy: <a href=\"usercp.php?action=usergroups&amp;acceptinvite={1}&amp;my_post_key={2}\">Zaakceptuj zaproszenie</a>";
 $l['usergroups_leader'] = "Grupy, którym przewodniczysz";
 $l['usergroup_members'] = "Użytkownicy grupy";
 $l['join_requests'] = "Nierozpatrzone prośby o przyjęcie";
@@ -274,9 +268,9 @@ $l['usergroups_usergroup'] = "Grupa użytkownika";
 $l['join_reason'] = "Powód:";
 $l['send_join_request'] = "Wyślij prośbę";
 $l['cannot_join_group'] = "Nie możesz dołączyć do tej grupy, gdyż nie jest ona publiczną grupą.";
-$l['cannot_join_invite_group'] = "Do dołączenia do tej grupy wymagane jest otrzymanie zaproszenia od jej lidera.";  
-$l['no_pending_invitation'] = "Nie masz żadnych oczekujących zaproszeń do tej grupy.";  
-$l['already_accepted_invite'] = "Zaproszenie do tej grupy zostało już zaakceptowane.";  
+$l['cannot_join_invite_group'] = "Do dołączenia do tej grupy wymagane jest otrzymanie zaproszenia od jej lidera.";
+$l['no_pending_invitation'] = "Nie masz żadnych oczekujących zaproszeń do tej grupy.";
+$l['already_accepted_invite'] = "Zaproszenie do tej grupy zostało już zaakceptowane.";
 $l['already_member_of_group'] = "Nie możesz dołączyć do grupy, w której już jesteś.";
 $l['already_sent_join_request'] = "Już wcześniej wysłano prośbę o przyjęcie.";
 $l['group_join_requestsent'] = "Prośba o przyjęcie została wysłana. Gdy zostanie zatwierdzona, automatycznie zostaniesz członkiem tej grupy.<br />Nastąpi teraz przeniesienie do zarządzania grupami.";
@@ -395,6 +389,7 @@ $l['icon_hot'] = " Gorący wątek.";
 $l['icon_lock'] = " Zamknięty wątek.";
 
 $l['buddylist_error'] = 'Podczas pobierania listy znajomych wystąpił błąd.';
+
 
 $l['buddyrequests_sent'] = 'Wysłane zaproszenia do znajomych';  
 $l['buddyrequests_received'] = 'Otrzymane zaproszenia do znajomych';  
