@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 
@@ -44,6 +44,7 @@ $l['note_logs_locked'] = "Ze względów bezpieczeństwa nie można usuwać logó
 $l['admin_log_config_attachment_types_add'] = "Dodano rozszerzenie załączników #{1} ({2})";
 $l['admin_log_config_attachment_types_edit'] = "Edytowano rozszerzenie załączników #{1} ({2})";
 $l['admin_log_config_attachment_types_delete'] = "Usunięto rozszerzenie załączników #{1} ({2})";
+$l['admin_log_config_attachment_types_toggle_status'] = "Przełączono status załączników #{1} ({2})";
 
 $l['admin_log_config_badwords_add'] = "Dodano element do filtra słów #{1} ({2})";
 $l['admin_log_config_badwords_edit'] = "Edytowano element w filtrze słów #{1} ({2})";
@@ -106,6 +107,10 @@ $l['admin_log_config_questions_edit'] = "Edytowano pytanie zabezpieczające #{1}
 $l['admin_log_config_questions_delete'] = "Usunięto pytanie zabezpieczające #{1} ({2})";
 $l['admin_log_config_questions_enable'] = "Włączono pytanie zabezpieczające #{1} ({2})";
 $l['admin_log_config_questions_disable'] = "Wyłączono pytanie zabezpieczające #{1} ({2})";
+
+$l['admin_log_config_report_reasons_add'] = "Dodano powód zgłoszeń #{1} ({2})";
+$l['admin_log_config_report_reasons_edit'] = "Edytowano powód zgłoszeń #{1} ({2})";
+$l['admin_log_config_report_reasons_delete'] = "Usunięto powód zgłoszeń #{1} ({2})";
 
 $l['admin_log_config_settings_delete_duplicates'] = "Usunięto zduplikowane ustawienia i grupy ustawień";
 $l['admin_log_config_settings_addgroup'] = "Dodano właściwości grupy ustawień #{1} ({2})";
