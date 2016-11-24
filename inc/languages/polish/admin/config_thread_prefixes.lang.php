@@ -23,7 +23,7 @@ $l['save_thread_prefix'] = "Zapisz prefiks wątku";
 $l['prefix'] = "Nazwa prefiksu";
 $l['prefix_desc'] = "Podaj nazwę prefiksu, który będzie wyświetlany w rozwijanej liście podczas dodawania nowego wątku.";
 $l['display_style'] = "Styl wyświetlania";
-$l['display_style_desc'] = "Podaj styl w jakim prefiks ma być wyświetlany. Możesz wpisać składnię HTML bądź zwykły tekst tak jak w polu powyżej.";
+$l['display_style_desc'] = "Podaj styl, w jakim prefiks ma być wyświetlany. Możesz wpisać składnię HTML bądź zwykły tekst tak jak w polu powyżej.";
 $l['available_in_forums'] = "Dostępność w działach";
 $l['available_to_groups'] = "Dostępność dla grup";
 
