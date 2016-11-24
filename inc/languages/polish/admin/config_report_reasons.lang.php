@@ -23,7 +23,7 @@ $l['no_report_reasons'] = "Obecnie na Twoim forum nie ma żadnych powodów zgło
 $l['reason_title'] = "Tytuł";
 $l['reason_title_desc'] = "Podaj tytuł powodu zgłaszanej treści.";
 $l['requires_extra'] = "Wymagany dodatkowy komentarz?";
-$l['requires_extra_desc'] = "Wymagać od użytkownika dodatkowego komentarza jeżeli wybierze ten powód?";
+$l['requires_extra_desc'] = "Wymagać od użytkownika dodatkowego komentarza, jeżeli wybierze ten powód?";
 $l['save_reason'] = "Zapisz powód";
 
 $l['content_colon'] = "Zawartość:";
