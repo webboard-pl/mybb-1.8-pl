@@ -16,7 +16,7 @@ $langinfo['author'] = "Polski Support MyBB";
 $langinfo['website'] = "https://www.mybboard.pl/";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1808";
+$langinfo['version'] = "1809";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;
