@@ -23,7 +23,7 @@ $l['name_desc'] = "Wpisz nazwę załączników tego typu";
 $l['file_extension'] = "Rozszerzenie pliku";
 $l['file_extension_desc'] = "Wpisz rozszerzenie plików, na których załączanie chcesz zezwolić. Nie wpisuj kropki przed rozszerzeniem (przykład: txt).";
 $l['mime_type'] = "Typ MIME";
-$l['mime_type_desc'] = "Wpisz typ MIME, który zostanie wysłany przez serwer podczas pobierania pliku (<a href=\"http://www.webmaster-toolkit.com/mime-types.shtml\">Pokaż listę dostępnych typów</a>)";
+$l['mime_type_desc'] = "Wpisz typ MIME, który zostanie wysłany przez serwer podczas pobierania pliku (<a href=\"http://www.freeformatter.com/mime-types-list.html\">Pokaż listę dostępnych typów</a>)";
 $l['maximum_file_size'] = "Maksymalny rozmiar pliku (w kilobajtach)";
 $l['maximum_file_size_desc'] = "Maksymalny rozmiar pliku jaki można załadować dla tego rozszerzenia, rozmiar podaj w kilobajtach (1 MB = 1024 KB)";
 $l['limit_intro'] = "Upewnij się, że rozmiar pliku jest mniejszy niż ustalony w konfiguracji PHP:";
