@@ -36,7 +36,7 @@ $l['edit_group'] = "Edytuj grupę";
 $l['default'] = "Standardowe";
 $l['group'] = "Grupa";
 
-$l['error_super_admin'] = 'Nie możesz wykonać tej operacji na tym użytkowniku, dopóki jest super administratorem.<br /><br />Aby móc ją wykonać, dodaj swój identyfikator użytkownika do pliku inc/config.php.';
+$l['error_super_admin'] = 'Nie możesz wykonać tej operacji na tym użytkowniku, dopóki jest super administratorem.';
 $l['error_delete_no_uid'] = 'Nie wpisano identyfikatora uprawnień użytkownika/grupy';
 $l['error_delete_invalid_uid'] = 'Nie wpisano prawidłowego identyfikatora uprawnień użytkownika/grupy';
 
