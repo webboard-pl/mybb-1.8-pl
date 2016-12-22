@@ -162,7 +162,7 @@ $l['icq_number'] = "Numer ICQ";
 $l['aim_handle'] = "Nazwa użytkownika AIM";
 $l['yahoo_messanger_handle'] = "Identyfikator Yahoo";
 $l['skype_handle'] = "Identyfikator Skyp:";
-$l['google_handle'] = "Identyfikator Google Talk";
+$l['google_handle'] = "Identyfikator Google Hangouts";
 $l['birthday'] = "Data urodzenia";
 
 $l['away_information'] = "Dostępność";
