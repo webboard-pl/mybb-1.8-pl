@@ -82,6 +82,7 @@ $l['post_separator'] = "Separator postów";
 $l['new_line'] = "Wolna linijka";
 $l['horizontal_rule'] = "Pozioma linia";
 $l['resolve_fail'] = "(host nieznany)";
+$l['time'] = "Czas:";
 
 $l['opened'] = "Otwarty";
 $l['closed'] = "Zamknięty";
