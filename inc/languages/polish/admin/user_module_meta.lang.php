@@ -9,6 +9,7 @@
 $l['users_and_groups'] = "Użytkownicy i grupy";
 
 $l['users'] = "Użytkownicy";
+$l['awaiting_activation'] = "Oczekujący na aktywację";
 $l['groups'] = "Grupy";
 $l['user_titles'] = "Tytuły użytkowników";
 $l['banning'] = "Banowanie";
