@@ -1,11 +1,15 @@
 <?php
 /**
+ * MyBB 1.8 English Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
+ *
+/**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
- 
+
 $l['error_no_connection'] = 'Wystąpił błąd w czasie zestawiania połączenia z serwerem: ';
 $l['error_no_message'] = 'Nie podano treści wiadomości.';
 $l['error_no_subject'] = 'Nie podano tematu wiadomości.';

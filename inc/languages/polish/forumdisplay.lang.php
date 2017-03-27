@@ -71,7 +71,7 @@ $l['inline_go'] = "OK";
 $l['clear'] = "Wyczyść";
 $l['sub_forums_in'] = "Poddziały w \"{1}\"";
 $l['forum_rules'] = "{1} - Regulamin";
-$l['subforums'] = "<strong>Poddziały:</strong>";
+$l['subforums'] = "Poddziały:";
 $l['asc'] = "rosn.";
 $l['desc'] = "mal.";
 $l['forum_announcements'] = "Ogłoszenia";
@@ -95,7 +95,9 @@ $l['page_selected'] = "Wybrano wszystkie <strong>{1}</strong> wątki na tej stro
 $l['all_selected'] = "Wybrano wszystkie <strong>{1}</strong> wątki w tym dziale.";
 $l['select_all'] = "Zaznacz wszystkie <strong>{1}</strong> wątki w tym dziale.";
 $l['clear_selection'] = "Wyczyść zaznaczenie.";
+$l['deleted_thread'] = "Wątek usunięty.";
 
 $l['error_containsnoforums'] = "Dział, który aktualnie przeglądasz, nie zawiera poddziałów.";
 
 $l['inline_edit_description'] = '(Kliknij i przytrzymaj, aby edytować)';
+

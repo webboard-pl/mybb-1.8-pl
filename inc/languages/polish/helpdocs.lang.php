@@ -1,10 +1,15 @@
 <?php
 /**
+ * MyBB 1.8 English Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
+ *
+/**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+ 
 
 // Help Document 1
 $l['d1_name'] = "Rejestracja";
@@ -69,3 +74,4 @@ $l['d7_document'] = "Możesz używać MyCode - to uproszczona wersja HTML.
 <p><br/>[list]<br />[*]Punkt #1<br/>[*]Punkt #2<br/>[*]Punkt #3<br/>[/list]<br/><ul><li>Punkt #1</li><li>Punkt #2</li><li>Punkt #3</li>
 </ul>
 <p>Możesz również ustalić typ punktowania - dostępne typy: liczbowy [list=1] i alfabetyczny [list=a].</p>";
+

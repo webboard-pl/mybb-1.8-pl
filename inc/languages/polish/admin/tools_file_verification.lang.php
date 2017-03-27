@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['file_verification'] = "Weryfikacja plików";
@@ -18,3 +18,4 @@ $l['no_problems_found'] = "Nie wykryto żadnych problemów";
 $l['changed'] = "Zmodyfikowany";
 $l['missing'] = "Usunięty";
 $l['status'] = "Status";
+

@@ -23,7 +23,7 @@ $l['use_codemirror_desc'] = "Zaznacz \"Nie\", by wyłączyć Code Mirror (narzę
 
 $l['success_preferences_updated'] = "Ustawienia zostały zaktualizowane.";
 
-$l['use_2fa_desc'] = "Weryfikacja dwuetapowa to metoda zabezpieczenia Twojego konta administratora. Po jej włączeniu zobaczysz poniżej kod QR, który musisz zeskanować korzystając z aplikacji takiej jak <a href=\"http://docs.mybb.com/1.8/administration/security/2fa/\" target=\"_blank\">Google Authenticator czy Authy</a>. Aplikacja ta wygeneruje kod, którego wpisanie będzie wymagane każdorazowo podczas logowania do panelu administratora.";
+$l['use_2fa_desc'] = "Weryfikacja dwuetapowa to metoda zabezpieczenia Twojego konta administratora. Po jej włączeniu zobaczysz poniżej kod QR, który musisz zeskanować korzystając z aplikacji takiej jak <a href=\"https://docs.mybb.com/1.8/administration/security/2fa/\" target=\"_blank\">Google Authenticator czy Authy</a>. Aplikacja ta wygeneruje kod, którego wpisanie będzie wymagane każdorazowo podczas logowania do panelu administratora.";
 $l['my2fa_qr'] = "Kod weryfikacji dwuetapowej";
 $l['recovery_codes_desc'] = "Zobacz swoje <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">kody zapasowe</a>.";
 $l['recovery_codes'] = "Kody zapasowe";

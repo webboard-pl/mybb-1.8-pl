@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['thread_prefixes'] = "Prefiksy wątków";
@@ -11,6 +11,7 @@ $l['thread_prefixes_desc'] = "Prefiksy wątków pozwalają na definiowanie prefi
 
 $l['add_new_thread_prefix'] = "Dodaj prefiks";
 $l['add_new_thread_prefix_desc'] = "Twórz nowe prefiksy i decyduj, gdzie mają być dostępne oraz jakie grupy użytkowników mogą ich używać.";
+
 
 $l['edit_prefix'] = "Edytuj prefiks";
 $l['edit_prefix_desc'] = "Edytuj prefiks i zmieniaj sposób jego wyświatlania oraz działy i grupy użytkowników dla których jest on dostępny.";
@@ -40,3 +41,5 @@ $l['error_missing_display_style'] = "Nie podano stylu wyświetlania dla prefiksu
 $l['error_no_forums_selected'] = "Nie wybrano działów, w których prefiks ma być dostępny.";
 $l['error_no_groups_selected'] = "Nie wybrano grup użytkowników dla których prefiks będzie dostępny.";
 $l['error_invalid_prefix'] = "Wybrany prefiks nie istnieje.";
+
+

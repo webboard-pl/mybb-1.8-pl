@@ -59,6 +59,7 @@ $l['name'] = "Imię";
 $l['abbreviation'] = "Skrót";
 $l['click_to_add'] = "Kliknij w emotikona, by umieścić go w wiadomości.";
 $l['close_window'] = "zamknij okno";
+$l['no_smilies'] = "Żadne emotkikony nie są dostępne.";
 
 $l['who_posted'] = "Kto napisał?";
 $l['total_posts'] = "Razem postów:";

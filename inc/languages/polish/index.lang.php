@@ -18,7 +18,7 @@ $l['forum_unapproved_posts_count'] = "Aktualnie w tym dziale znajduje się {1} u
 $l['forum_unapproved_post_count'] = "Aktualnie w tym dziale znajduje się 1 ukryty post.";
 $l['forum_unapproved_threads_count'] = "Aktualnie w tym dziale znajduje się {1} ukrytych wątków.";
 $l['forum_unapproved_thread_count'] = "Aktualnie w tym dziale znajduje się 1 ukryty wątek.";
-$l['markread'] = "Oznacz wszystkie działy jako przeczytane";
+
 $l['forumteam'] = "Ekipa forum";
 $l['forumstats'] = "Statystyki";
 $l['todays_birthdays'] = "Dzisiaj urodziny obchodzą";
@@ -43,4 +43,4 @@ $l['online_anon_singular'] = "niewidoczny";
 $l['online_guest_plural'] = "gości";
 $l['online_guest_singular'] = "gość";
 $l['online_note'] = "{1} {2} w ciągu ostatnich {3} minut: {4} {5} (w tym {6} {7}) oraz {8} {9}.";
-$l['subforums'] = "<strong>Poddziały:</strong>";
+$l['subforums'] = "Poddziały:";

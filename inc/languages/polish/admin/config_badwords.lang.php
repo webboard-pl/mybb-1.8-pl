@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['bad_words'] = "Cenzura";
@@ -33,3 +33,4 @@ $l['success_deleted_bad_word'] = "Filtr został usunięty.";
 $l['success_updated_bad_word'] = "Filtr został zaktualizowany.";
 
 $l['confirm_bad_word_deletion'] = "Czy na pewno chcesz usunąć ten filtr?";
+

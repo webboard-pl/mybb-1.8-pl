@@ -20,6 +20,7 @@ $l['bottomlinks_contactus'] = "Kontakt";
 $l['bottomlinks_returntop'] = "Wróć do góry";
 $l['bottomlinks_syndication'] = "RSS";
 $l['bottomlinks_litemode'] = "Wersja bez grafiki";
+$l['bottomlinks_markread'] = "Oznacz wszystkie działy jako przeczytane";
 
 $l['welcome_usercp'] = "Panel użytkownika";
 $l['welcome_modcp'] = "MCP";
@@ -270,6 +271,11 @@ $l['postbit_currently_ignoring_user'] = "Zawartość posta została ukryta, poni
 $l['postbit_warning_level'] = "Poziom ostrzeżeń:";
 $l['postbit_warn'] = "Dodaj ostrzeżenie za ten post";
 $l['postbit_purgespammer'] = "Usuń spamera";
+$l['postbit_post_deleted'] = "Ten post został usunięty.";
+$l['postbit_post_unapproved'] = "Ten post oczekuje na zatwierdzenie.";
+$l['postbit_thread_deleted'] = "Ten wątek został usunięty.";
+$l['postbit_thread_unapproved'] = "Wątek oczekuje na zatwierdzenie.";
+$l['postbit_deleted_post_user'] = "Ten post został usunięty przez {1}.";
 
 $l['postbit_button_reputation_add'] = 'Dodaj punkt reputacji';
 $l['postbit_button_website'] = 'Strona WWW';
@@ -305,6 +311,7 @@ $l['smilieinsert'] = "Emotikony";
 $l['smilieinsert_getmore'] = "więcej";
 $l['on'] = "włączone";
 $l['off'] = "wyłączone";
+$l['remote_avatar_disabled_default_avatar'] = "Używasz zdalnego awataru, który został wyłączony. Zastąpimy go domyślnym awatarem.";
 $l['unread_report'] = "Notatka dla moderatora: jest jeden nowy raportowany post.";
 $l['unread_reports'] = "Notatka dla moderatora: są nowe raportowane posty ({1}).";
 $l['pending_joinrequest'] = "Notatka dla lidera grupy: jest jedno zgłoszenie do grupy, której jesteś liderem.";
@@ -431,7 +438,7 @@ $l['invalid_nocaptcha_transmit'] = "Wystąpił błąd podczas próby weryfikacji
 $l['captcha_fetch_failure'] = 'Wystąpił błąd podczas wczytywania nowego kodu.';
 $l['question_fetch_failure'] = 'Wystąpił błąd podczas wczytywania nowego pytania';
 
-$l['timezone_gmt_minus_1200'] = "(GMT -12:00) Wyspy Marshalla";
+$l['timezone_gmt_minus_1200'] = "(GMT -12:00) Wyspy Howland i Baker";
 $l['timezone_gmt_minus_1100'] = "(GMT -11:00) Wyspa Midway, Nome";
 $l['timezone_gmt_minus_1000'] = "(GMT -10:00) Hawaje, Papeete";
 $l['timezone_gmt_minus_950'] = "(GMT -9:30) Markizy";
@@ -460,6 +467,8 @@ $l['timezone_gmt_600'] = "(GMT +6:00) Ałma-ata, Dhakra, Jekaterinburg";
 $l['timezone_gmt_650'] = "(GMT +6:30) Rangun";
 $l['timezone_gmt_700'] = "(GMT +7:00) Bangkok, Hanoi, Dżakarta";
 $l['timezone_gmt_800'] = "(GMT +8:00) Pekin, Hongkong, Perth, Singapur, Taipei";
+$l['timezone_gmt_850'] = "(GMT +8:30) Phenian";
+$l['timezone_gmt_875'] = "(GMT +8:45) Eucla";
 $l['timezone_gmt_900'] = "(GMT +9:00) Osaka, Sapporo, Seul, Tokio, Irkuck";
 $l['timezone_gmt_950'] = "(GMT +9:30) Adelajda, Darwin";
 $l['timezone_gmt_1000'] = "(GMT +10:00) Melbourne, Papua Nowa Gwinea, Sydney, Jakuck";
@@ -542,7 +551,7 @@ $l['moderation_user_posts'] = "Nowe posty twojego autorstwa muszą zostać zaakc
 $l['moderation_forum_thread'] = "Nowe wątki z tego działu muszą zostać zaakceptowane przez moderatora.";
 $l['moderation_forum_edits'] = "Edycje postów z tego działu muszą zostać zaakceptowane przez moderatora.";
 $l['moderation_forum_edits_quick'] = "Nowe wątki z tego działu muszą zostać zaakceptowane przez moderatora.";
-$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-users&amp;action=search&amp;results=1&amp;conditions=a%3A1%3A%7Bs%3A9%3A%22usergroup%22%3Bs%3A1%3A%225%22%3B%7D\">Przejdź do panelu administratora</a>.";
+$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-awaiting_activation\">Przejdź do panelu administratora</a>.";
 $l['awaiting_message_single'] = "Użytkownik oczekuje na aktywację. Aby przeprowadzić aktywację, przejdź do ACP.";
 $l['awaiting_message_plural'] = "Użytkowników oczekujących na aktywację: {1}. Aby przeprowadzić aktywację, przejdź do ACP.";
 

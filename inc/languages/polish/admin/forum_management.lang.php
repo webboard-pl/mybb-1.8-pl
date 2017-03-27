@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['forum_management'] = "Działy";
@@ -82,8 +82,7 @@ $l['can_open_close_threads'] = "Może otwierać / zamykać wątki?";
 $l['can_stick_unstick_threads'] = "Może przypinać / odpinać wątki?";
 $l['can_approve_unapprove_threads'] = "Może zatwierdzać / ukrywać wątki?";
 $l['can_approve_unapprove_posts'] = "Może zatwierdzać / ukrywać posty?";
-$l['can_approve_unapprove_attachments'] = "Może zatwierdzać / ukrywać załączniki?";
-
+$l['can_approve_unapprove_attachments'] = "Może zatwierdzać / ukrywać załączniki?";;
 $l['can_manage_threads'] = "Może zarządzać wątkami (dzielić, przenosić, kopiować, łączyć)?";
 $l['can_manage_polls'] = "Może zarządzać ankietami?";
 $l['can_post_closed_threads'] = "Może pisać posty w zamkniętych wątkach?";
@@ -103,7 +102,7 @@ $l['no_forums'] = "Nie znaleziono działów.";
 $l['no_moderators'] = "Nie znaleziono moderatorów.";
 
 $l['success_forum_disporder_updated'] = "Kolejność wyświetlania działów została zaktualizowana";
-$l['success_forum_deleted'] = "Dział został usunięty.";
+$l['success_forum_deleted'] = "Dział został usunięty. Powinieneś uruchomić narzędzie <a href=\"index.php?module=tools-recount_rebuild\">Przeliczanie i przebudowa</a>";
 $l['success_moderator_deleted'] = "Moderator został usunięty.<br />Pamiętaj jednak, że nie zmienia to uprawnień grupy - ta dalej może posiadać możliwość moderacji.";
 $l['success_forum_permissions_updated'] = "Ustawienia uprawnień zostały zaktualizowane.";
 $l['success_forum_updated'] = "Ustawienia działu zostały zaktualizowane.";
@@ -218,6 +217,7 @@ $l['use_postcounts'] = "Dodawaj posty napisane w tym dziale do liczników postó
 $l['use_threadcounts'] = "Dodawaj wątki napisane w tym dziale do liczników wątków użytkowników";
 $l['require_thread_prefix'] = "Wymagaj posiadania prefiksu przez każdy wątek";
 
+
 $l['use_permissions'] = "Użyj ustawień uprawnień";
 $l['use_permissions_desc'] = "Wybierz ustawienia uprawnień, które mają być używane dla tej grupy - dziedziczone lub własne.";
 $l['inherit_permissions'] = "Użyj ustawień domyślnych lub dziedziczonych z działu nadrzędnego";
@@ -245,6 +245,7 @@ $l['error_new_forum_needs_name'] = "Nie podano nazwy nowego działu.";
 $l['error_invalid_source_forum'] = "Nieprawidłowy dział źródłowy.";
 $l['error_invalid_destination_forum'] = "Nieprawidłowy dział docelowy.";
 
+
 $l['group_viewing'] = "Przeglądanie";
 $l['group_posting_rating'] = "Pisanie i ocenianie";
 $l['group_editing'] = "Edycja";
@@ -267,6 +268,7 @@ $l['editing_field_caneditposts'] = "Może edytować własne posty?";
 $l['editing_field_candeleteposts'] = "Może usuwać własne posty?";
 $l['editing_field_candeletethreads'] = "Może usuwać własne wątki?";
 $l['editing_field_caneditattachments'] = "Może aktualizować własne załączniki?";
+$l['editing_field_canviewdeletionnotice'] = "Może wyświetlać usunięte powiadomienia?";
 
 $l['moderate_field_modposts'] = "Nowe posty są moderowane?";
 $l['moderate_field_modthreads'] = "Nowe wątki są moderowane?";
@@ -278,3 +280,5 @@ $l['polls_field_canvotepolls'] = "Może głosować w ankietach?";
 
 $l['misc_field_cansearch'] = "Może korzystać z wyszukiwarki?";
 
+$l['confirm_proceed_deletion'] = "Kliknij \"kontynuuj\" aby kontynuować usuwanie forum.";
+$l['automatically_redirecting'] = "Automatyczne przekierowanie...";

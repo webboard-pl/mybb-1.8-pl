@@ -1,10 +1,15 @@
 <?php
 /**
+ * MyBB 1.8 English Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
+ *
+/**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 $l['nav_register'] = "Rejestracja";
 $l['nav_activate'] = "Aktywacja";
@@ -62,7 +67,7 @@ $l['icq_number'] = "Numer ICQ:";
 $l['aim_screenname'] = "Nazwa użytkownika AIM:";
 $l['yahoo_id'] = "Identyfikator Yahoo:";
 $l['skype_id'] = "Identyfikator Skype:";
-$l['google_id'] = "Identyfikator Google Talk:";
+$l['google_id'] = "Identyfikator Google Hangouts:";
 $l['avatar'] = "Awatar:";
 $l['warning_level'] = "Poziom ostrzeżeń:";
 $l['warn'] = "Ostrzeż";

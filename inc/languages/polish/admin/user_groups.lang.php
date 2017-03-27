@@ -123,6 +123,7 @@ $l['can_edit_posts'] = "Mogą edytować własne posty?";
 $l['can_delete_posts'] = "Mogą usuwać własne posty?";
 $l['can_delete_threads'] = "Mogą usuwać własne wątki?";
 $l['can_edit_attachments'] = "Mogą aktualizować własne załączniki?";
+$l['can_view_deletion_notices'] = "Może wyświetlać usunięte powiadomienia?";
 $l['account_management'] = "Zarządzanie kontem";
 $l['edit_time_limit'] = "Ograniczenie czasu na edycję";
 $l['edit_time_limit_desc'] = "Jeżeli chcesz ograniczyć czasowo możliwość edytowania postów przez użytkowników z tej grupy (jeśli pozwalają im na to ustawienia grupy) wprowadź tutaj, przez jaki czas mają oni mieć taką możliwość (w minutach). Jeżeli nie chcesz ustalać limitu, wpisz 0.";

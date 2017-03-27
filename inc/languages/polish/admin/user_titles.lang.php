@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['user_titles'] = "Tytuły użytkowników";
@@ -19,6 +19,7 @@ $l['error_invalid_user_title'] = "Wpisano niepoprawny tytuł użytkownika";
 $l['success_user_title_created'] = "Tytuł użytkownika został utworzony";
 $l['success_user_title_updated'] = "Tytuł użytkownika został zaktualizowany.";
 $l['success_user_title_deleted'] = "Tytuł użytkownika został usunięty.";
+
 
 $l['title_to_assign'] = "Przypisywany tytuł";
 $l['title_to_assign_desc'] = "Ten tytuł będzie znajdował się pod loginem użytkownika, jeżeli użytkownik nie ustawi własnego.";

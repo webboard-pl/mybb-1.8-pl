@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['users'] = "Użytkownicy";
@@ -89,6 +89,7 @@ $l['option_6'] = "starsze niż 2 lata";
 
 $l['error_avatartoobig'] = "Wybrany awatar jest zbyt duży. Maksymalne rozmiary to {1}x{2} (szer. x wys.)";
 $l['error_invalidavatarurl'] = "Podano nieprawidłowy adres URL do awatara. Podaj poprawny adres.";
+$l['error_remote_avatar_not_allowed'] = "Zdalne adresy awatar zostały wyłączone przez administratora forum.";
 $l['error_invalid_user'] = "Wybrano niepoprawnego użytkownika.";
 $l['error_no_perms_super_admin'] = "Nie masz uprawnień do edycji tego konta, bo nie jesteś super administratorem.";
 $l['error_invalid_user_source'] = "Podane konto źródłowe nie istnieje";
@@ -181,7 +182,7 @@ $l['login_cookies_privacy'] = "Logowanie, cookies i prywatność";
 $l['recieve_admin_emails'] = "Otrzymuj e-maile od administracji";
 $l['hide_email_from_others'] = "Ukryj adres e-mail przed innymi użytkownikami";
 $l['recieve_pms_from_others'] = "Otrzymuj prywatne wiadomości od innych użytkowników";
-$l['recieve_pms_from_buddy'] = "Otrzymuj prywatne wiadomości tylko od osób z listy znajomych";
+$l['recieve_pms_from_buddy'] = "Otrzymuj prywatne wiadomości tylko od osób z listy znajomych (to ustawienie nie ma żadnego znaczenia, jeśli na liście znajomych jest tylko jeden użytkownik)";
 $l['alert_new_pms'] = "Informuj o nowych prywatnych wiadomościach";
 $l['email_notify_new_pms'] = "Informuj e-mailem o nowych prywatnych wiadomościach";
 $l['buddy_requests_pm'] = "Wysyłaj powiadomienia PW kiedy ktoś będzie chciał dołączyć do Twojej listy znajomcyh.";
@@ -345,7 +346,7 @@ $l['icq_number_contains'] = "Numer ICQ zawiera";
 $l['aim_handle_contains'] = "Identyfikator AIM zawiera";
 $l['yahoo_contains'] = "Identyfikator Yahoo! zawiera";
 $l['skype_contains'] = "Identyfikator Skype zawiera";
-$l['google_contains'] = "Identyfikator Google Talk zawiera";
+$l['google_contains'] = "Identyfikator Google Hangouts zawiera";
 $l['signature_contains'] = "Sygnatura zawiera";
 $l['user_title_contains'] = "Własny tytuł użytkownika zawiera";
 $l['greater_than'] = "większa niż";

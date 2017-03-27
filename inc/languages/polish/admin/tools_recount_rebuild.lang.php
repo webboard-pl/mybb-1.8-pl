@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['recount_rebuild'] = "Przeliczanie i przebudowa";
@@ -29,7 +29,8 @@ $l['rebuild_thread_counters_desc'] = "Po uruchomieniu: posty i ich wyświetlenia
 $l['rebuild_poll_counters'] = "Aktualizacja liczników ankiet";
 $l['rebuild_poll_counters_desc'] = "Po uruchomieniu: głosy w ankietach zostaną przeliczone, a następnie liczniki głosów oddanych zostaną uaktualnione do właściwych wartości.";
 $l['recount_user_posts'] = "Aktualizacja liczników postów użytkowników";
-$l['recount_user_posts_desc'] = "Po uruchomieniu: posty użytkowników zostaną przeliczone, a następnie liczniki postów zostaną uaktualnione do właściwych wartości (zgodnie z ilością postów w bazie danych oraz z pominięciem działów, gdzie licznik postów został wyłączony).";$l['recount_user_threads'] = "Aktualizacja liczników wątków użytkowników";
+$l['recount_user_posts_desc'] = "Po uruchomieniu: posty użytkowników zostaną przeliczone, a następnie liczniki postów zostaną uaktualnione do właściwych wartości (zgodnie z ilością postów w bazie danych oraz z pominięciem działów, gdzie licznik postów został wyłączony).";
+$l['recount_user_threads'] = "Aktualizacja liczników wątków użytkowników";
 $l['recount_user_threads_desc'] = "Po uruchomieniu: wątki użytkowników zostaną przeliczone, a następnie liczniki wątków zostaną uaktualnione do właściwych wartości (zgodnie z ilością wątków w bazie danych oraz z pominięciem działów, gdzie licznik wątków został wyłączony).";
 $l['rebuild_attachment_thumbs'] = "Przebudowa miniatur załączników";
 $l['rebuild_attachment_thumbs_desc'] = "Po uruchomieniu: miniatury załączników zostaną przebudowane i sprawdzone (czy mają odpowiednie rozmiary). Zostaną również odzyskane brakujące miniatury.";
@@ -46,6 +47,7 @@ $l['success_rebuilt_warning'] = "Liczniki punktów ostrzeżeń zostały zaktuali
 $l['success_rebuilt_private_messages'] = "Liczniki prywatnych wiadomości zostały zaktualizowane.";
 $l['success_rebuilt_referral'] = "Liczniki poleconych użytkowników zostały zaktualizowane.";
 $l['success_rebuilt_thread_ratings'] = "Oceny wątków zostały zaktualizowane.";
+
 
 $l['confirm_proceed_rebuild'] = "Kliknij \"Kontynuuj\", aby kontynuować proces przeliczania i przebudowy.";
 $l['automatically_redirecting'] = "Automatyczne przekierowanie...";

@@ -248,6 +248,9 @@ $l['admin_log_tools_tasks_enable'] = "Włączono zadanie #{1} ({2})";
 $l['admin_log_tools_tasks_disable'] = "Wyłączono zadanie #{1} ({2})";
 $l['admin_log_tools_tasks_run'] = "Uruchomiono zadanie #{1} ({2})";
 
+$l['admin_log_user_awaiting_activation_activate_activated'] = "Aktywowano {2} konta użytkowników";
+$l['admin_log_user_awaiting_activation_activate_deleted'] = "Usunięto {2} konta użytkowników";
+
 $l['admin_log_user_admin_permissions_delete_user'] = "Usunięto uprawnienia administratorskie dla użytkownika #{1} ({2})";
 $l['admin_log_user_admin_permissions_delete_group'] = "Usunięto uprawnienia administratorskie dla grupy użytkowników #{1} ({2})";
 $l['admin_log_user_admin_permissions_edit_user'] = "Edytowano uprawnienia administratorskie dla użytkownika #{1} ({2})";

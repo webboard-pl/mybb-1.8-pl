@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['contact'] = 'Kontakt';
@@ -24,3 +24,4 @@ $l['message_too_long'] = 'Treść wiadomości jest zbyt długa. Wpisz treść ni
 
 $l['error_stop_forum_spam_spammer'] = 'Twój {1} znajduje się w bazie znanych spamerów. Z tego powodu próba kontaktu została zablokowana.';
 $l['error_stop_forum_spam_fetching'] = 'Nie mogliśmy upewnić sie, że nie jesteś spamerem. Prawdopodobnie jest to spowodowane problemami z połączeniem z bazą danych. Spróbuj ponownie później.';
+

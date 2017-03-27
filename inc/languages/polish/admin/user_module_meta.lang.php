@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['users_and_groups'] = "Użytkownicy i grupy";
@@ -18,6 +18,7 @@ $l['mass_mail'] = "Masowa korespondencja";
 $l['group_promotions'] = "System awansów";
 
 $l['can_manage_users'] = "Może zarządzać użytkownikami?";
+$l['can_manage_awaiting_activation'] = "Może zarządzać oczekującymi na aktywację?";
 $l['can_manage_user_groups'] = "Może zarządzać grupami użytkowników?";
 $l['can_manage_user_titles'] = "Może zarządzać tytułami użytkowników?";
 $l['can_manage_user_bans'] = "Może zarządzać banami?";

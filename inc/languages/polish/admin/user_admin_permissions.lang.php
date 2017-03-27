@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['admin_permissions'] = "Uprawnienia administratorów";
@@ -44,3 +44,5 @@ $l['success_perms_deleted'] = 'Uprawnienia dla użytkownika/grupy zostały cofni
 
 $l['confirm_perms_deletion'] = "Czy na pewno chcesz cofnąć uprawnienia temu użytkownikowi/tej grupie?";
 $l['confirm_perms_deletion2'] = "Czy na pewno chcesz cofnąć uprawnienia temu użytkownikowi?";
+
+

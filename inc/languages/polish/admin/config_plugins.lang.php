@@ -1,10 +1,11 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 $l['plugins'] = "Pluginy";
 $l['plugins_desc'] = "Aktywuj, dezaktywuj i zarządzaj pluginami, które zostały załadowane do katalogu <strong>inc/plugins</strong> na Twoim forum. Aby nie pokazywać plugina na liście, ale nie utracić żadnych zapisanych przez niego informacji, kliknij na przycisk Dezaktywuj.";
@@ -51,3 +52,4 @@ $l['success_plugin_activated'] = "Plugin został aktywowany.";
 $l['success_plugin_deactivated'] = "Plugin został zdezaktywowany.";
 $l['success_plugin_installed'] = "Plugin został zainstalowany i aktywowany.";
 $l['success_plugin_uninstalled'] = "Plugin został odinstalowany.";
+

@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2015 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['click_no_wait'] = "Kliknij tutaj, jeśli nie chcesz czekać.";
@@ -186,6 +186,8 @@ Powód zgłoszenia:
 Ta wiadomość została wysłana do wszystkich moderatorów tego działu (jeśli dział nie ma moderatorów - poinformowani zostali globalni moderatorzy i administratorzy).
 
 Sprawdź ten punkt reputacji";
+
+$l['email_report_comment_extra'] = "{1}: {2}";
 
 $l['email_passwordreset'] = "{1},
 

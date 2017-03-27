@@ -1,10 +1,11 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2016 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 $l['nav_width'] = "180";
 $l['nav_modcp'] = "Panel moderatora";
@@ -130,7 +131,7 @@ $l['icq_number'] = "Numer ICQ:";
 $l['aim_screenname'] = "Nazwa użytkownika AIM:";
 $l['yahoo_id'] = "Identyfikator Yahoo:";
 $l['skype_id'] = "Identyfikator Skype:";
-$l['google_id'] = "Identyfikator Google Talk:";
+$l['google_id'] = "Identyfikator Google Hangouts:";
 $l['away_notice'] = "Ta opcja pozwala na ustawienie statusu \"Nieobecny\".";
 $l['additional_information'] = "Dodatkowe informacje";
 $l['update_profile'] = "Aktualizuj profil";
