@@ -20,6 +20,7 @@ $l['attachment_stats_desc'] = "Poniżej znajdują się statystyki dla załączni
 $l['error_nothing_selected'] = "Nie zaznaczono załączników do usunięcia.";
 $l['error_no_attachments'] = "Nie ma załączników na forum. Po wysłaniu przez użytkowników przynajmniej jednego pliku uzyskasz dostęp do tej sekcji.";
 $l['error_not_all_removed'] = "Zostały usunięte tylko nieużywane pliki, pozostałe nadal są w katalogu załączników.";
+$l['error_count'] = 'Nie można usunąć {1} załącznika (ów).';
 $l['error_invalid_username'] = "Wpisany login jest nieprawidłowy.";
 $l['error_invalid_forums'] = "Zaznaczono jedno lub więcej nieprawidłowych działów.";
 $l['error_no_results'] = "Nie ma załączników spełniających wybrane kryteria.";
@@ -30,6 +31,7 @@ $l['error_does_not_exist'] = "Wątek lub post połączony z tym załącznikiem j
 // Success
 $l['success_deleted'] = "Wybrane załączniki zostały usunięte.";
 $l['success_orphan_deleted'] = "Wybrane nieużywane załączniki zostały usunięte.";
+$l['success_count'] = 'Pomyślnie usunięto {1} załącznik(ów).';
 $l['success_no_orphans'] = "Nie ma nieużywanych załączników na forum.";
 
 // Confirm

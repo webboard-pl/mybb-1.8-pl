@@ -223,6 +223,8 @@ $l['admin_log_tools_index_utf8_conversion'] = "Skonwertowano tabele {1} do UTF-8
 
 $l['admin_log_tools_mailerrors_prune'] = "Wyczyszczono {1} raportów o błędach e-mail";
 
+$l['admin_log_tools_maillogs_prune'] = "Wyczyszczono {1} logów e-mail";
+
 $l['admin_log_tools_optimizedb_'] = "Zoptymalizowano tabele bazy danych: {1}";
 
 $l['admin_log_tools_php_info_phpinfo'] = "Obejrzano PHP Info";
@@ -240,6 +242,11 @@ $l['admin_log_tools_recount_rebuild_warning'] = "Przeliczono i przebudowano punk
 $l['admin_log_tools_recount_rebuild_privatemessages'] = "Przeliczono i przebudowano prywatne wiadomości";
 $l['admin_log_tools_recount_rebuild_referral'] = "Przeliczono i przebudowano liczniki poleconych użytkowników";
 $l['admin_log_tools_recount_rebuild_threadrating'] = "Przeliczono i przebudowano oceny wątków";
+
+$l['admin_log_tools_spamlog_prune'] = "Wyczyszczono {4} logów spamu starszych niż {1} dni";
+$l['admin_log_tools_spamlog_prune_user'] = "Wyczyszczono {4} logów spamu starszych niż {1} dni, z użytkownikiem {2}";
+$l['admin_log_tools_spamlog_prune_email'] = "Wyczyszczono {4} logów spamu starszych niż {1} dni, z adresem e-mail {3}";
+$l['admin_log_tools_spamlog_prune_user_email'] = "Wyczyszczono {4} logów spamu starszych niż {1} dni, z użytkownikiem {2} i adresem e-mail {3}";
 
 $l['admin_log_tools_tasks_add'] = "Dodano zadanie #{1} ({2})";
 $l['admin_log_tools_tasks_edit'] = "Edytowano zadanie #{1} ({2})";

@@ -45,6 +45,7 @@ $l['test'] = "Testuj MyCode";
 
 $l['error_missing_title'] = "Nie wpisano tytułu.";
 $l['error_missing_regex'] = "Nie wpisano regularnego wyrażenia.";
+$l['error_regex_already_available'] = "Użyłeś regularnego wyrażenia, które jest już zdefiniowane dla innego MyCode. Wprowadź inne regularne wyrażenie dla tego MyCode.";
 $l['error_missing_replacement'] = "Nie wpisano wyrażenia do zamiany.";
 $l['error_invalid_mycode'] = "Podany MyCode nie istnieje.";
 

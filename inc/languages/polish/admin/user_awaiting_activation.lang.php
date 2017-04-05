@@ -33,3 +33,17 @@ $l['no_users_selected'] = "Nie wybrano żadnych użytkowników.";
 
 $l['success_users_deleted'] = "Użytkownik/użytkownicy zostali usunięci.";
 $l['success_users_activated'] = "Użytkownik/użytkownicy zostali aktywowani.";
+
+$l['emailsubject_activateaccount'] = "Twoje konto na {1} zostało aktywowane";
+$l['email_adminactivateaccount'] = "{1},
+
+ Admnistrator aktywował Twoje konto na {2}.
+
+ Aby kontynuować udaj się do:
+
+ {3}
+
+ Będziesz mógł się zalogować używając danych podanych przy rejestracji.
+
+ Dziękujemy,
+ Administracja {2}";
