@@ -33,7 +33,7 @@ $l['logging_in_plain'] = "Loguje się";
 $l['logging_out'] = "Wylogowuje się";
 $l['emailing_user'] = "Pisze e-mail";
 $l['rating_user'] = "Ocenia użytkownika";
-$l['viewing_memberlist'] = "Przegląda <a href="memberlist.php">Listę użytkowników</a>";
+$l['viewing_memberlist'] = "Przegląda <a href=\"memberlist.php\">Listę użytkowników</a>";
 $l['viewing_buddylist'] = 'Przegląda <a href="#" onclick="MyBB.popupWindow(\'/misc.php?action=buddypopup&amp;modal=1\'); return false;">listę znajomych</a>';
 $l['viewing_whoposted'] = "Przegląda \"Kto napisał\"";
 $l['viewing_whoposted2'] = "Przegląda \"Kto napisał\" w wątku <a href=\"showthread.php?tid={1}\">{2}</a>";
