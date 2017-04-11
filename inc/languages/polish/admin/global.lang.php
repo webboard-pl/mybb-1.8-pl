@@ -137,7 +137,7 @@ $l['enable'] = "Włączone";
 $l['disable'] = "Wyłączone";
 $l['saved'] = 'Zapisano';
 
-$l['rel_in'] = "";
+$l['rel_in'] = "w";
 $l['rel_ago'] = "temu";
 $l['rel_less_than'] = "Mniej niż ";
 $l['rel_time'] = "{1}{2} {3} {4}";

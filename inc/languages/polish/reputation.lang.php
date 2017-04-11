@@ -73,7 +73,7 @@ $l['show_negative'] = "Pokaż negatywne oceny";
 $l['sort_updated'] = "posortowane wg daty aktualizacji";
 $l['sort_username'] = "posortowane wg loginu";
 $l['last_updated'] = "Ostatnio zaktualizowano {1}";
-$l['postrep_given'] = "Punkt przyznany za <a href=\"{1}\">post</a> {3}<br />";
+$l['postrep_given'] = "Punkt przyznany za <a href=\"{1}\">post użytkownika {2}</a> {3}<br />";
 $l['postrep_given_nolink'] = "Punkt przyznany za post użytkownika {1}<br />";
 $l['postrep_given_thread'] = "w wątku <a href=\"{1}\">{2}</a>";
 $l['no_reputation_votes'] = "Ten użytkownik w tej chwili nie posiada ocen spełniających podane kryteria.";
