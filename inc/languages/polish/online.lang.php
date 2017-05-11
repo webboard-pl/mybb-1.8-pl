@@ -23,7 +23,7 @@ $l['editing_post'] = "Edytuje post";
 $l['viewing_forum'] = "Przegląda dział";
 $l['viewing_forum2'] = "Przegląda dział <a href=\"{1}\">{2}</a>";
 $l['forum_redirect_to'] = "Jest przekierowywany do: <a href=\"{1}\">{2}</a>";
-$l['viewing_index'] = "{1} <a href=\"index.php\">stronę główną forum</a>";
+$l['viewing_index'] = "{1} <a href=\"index.php\">strona główna forum</a>";
 $l['activating_account'] = "Aktywuje konto";
 $l['viewing_profile'] = "Przegląda profil";
 $l['viewing_profile2'] = "Przegląda profil <a href=\"{1}\">{2}</a>";
