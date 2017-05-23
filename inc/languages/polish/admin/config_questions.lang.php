@@ -15,6 +15,7 @@ $l['edit_question'] = "Edytuj pytanie";
 $l['edit_question_desc'] = "Edytuj pytanie i akceptowane odpowiedzi na nie.";
 
 $l['options'] = "Opcje";
+$l['shown'] = "Pokazane";
 $l['correct'] = "Poprawnie";
 $l['incorrect'] = "Niepoprawnie";
 $l['disable_question'] = "Wyłącz pytanie";

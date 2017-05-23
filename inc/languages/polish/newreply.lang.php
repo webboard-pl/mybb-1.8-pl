@@ -24,7 +24,7 @@ $l['close_thread'] = "<strong>Zamknij wątek</strong>: nikt nie będzie mógł o
 $l['stick_thread'] = "<strong>Przypnij wątek:</strong> wątek będzie widoczny na górze działu.";
 $l['forum_rules'] = "{1} - zasady działu";
 $l['thread_review'] = "Podgląd wątku (od najnowszej odpowiedzi)";
-$l['thread_review_more'] = "Ten wątek ma jeszcze {1} odpowiedzi. <a href=\"{2}\">Przeczytaj całość.</a>";
+$l['thread_review_more'] = "Ten wątek ma jeszcze {1} odpowiedzi. <a href=\"{2}\" target=\"_blank\">Przeczytaj całość.</a>";
 $l['posted_by'] = "Napisane przez";
 $l['draft_saved'] = "Nowy szkic posta został zapisany.<br />Teraz nastąpi przeniesienie do listy Twoich szkiców.";
 $l['error_post_already_submitted'] = "Napisano już wcześniej identyczną odpowiedź.";

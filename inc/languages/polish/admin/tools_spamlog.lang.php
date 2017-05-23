@@ -26,6 +26,8 @@ $l['days'] = "dni";
 $l['filter_spam_logs'] = 'Filtruj logi spamerów';
 $l['asc'] = "Rosnąco";
 $l['desc'] = "Malejąco";
+$l['search_ip_on_sfs'] = "Szukaj tego IP w serwisie Stop Forum Spam";
+$l['search'] = "Szukaj";
 
 $l['in'] = "w";
 $l['order'] = "kolejności";

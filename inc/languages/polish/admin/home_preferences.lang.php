@@ -28,3 +28,4 @@ $l['my2fa_qr'] = "Kod weryfikacji dwuetapowej";
 $l['recovery_codes_desc'] = "Zobacz swoje <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">kody zapasowe</a>.";
 $l['recovery_codes'] = "Kody zapasowe";
 $l['recovery_codes_warning'] = "<b>Uwaga:</b> kody zapasowe są regenerowane przy każdej wizycie na tej stronie i mogą być użyte jedynie raz.";
+$l['print_recovery_codes'] = "Wydrukuj kody zapasowe";

@@ -6,8 +6,8 @@
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
-$l['today'] = "Dzisiaj";
-$l['yesterday'] = "Wczoraj";
+$l['today'] = "<span title=\"{1}\">Dzisiaj</span>";
+$l['yesterday'] = "<span title=\"{1}\">Wczoraj</span>";
 
 $l['size_yb'] = "YB";
 $l['size_zb'] = "ZB";
@@ -140,7 +140,7 @@ $l['saved'] = 'Zapisano';
 $l['rel_in'] = "w";
 $l['rel_ago'] = "temu";
 $l['rel_less_than'] = "Mniej niż ";
-$l['rel_time'] = "{1}{2} {3} {4}";
+$l['rel_time'] = "<span title=\"{5}{6}\">{1}{2} {3} {4}</span>";
 $l['rel_minutes_single'] = "minuta";
 $l['rel_minutes_plural'] = "minut(y)";
 $l['rel_hours_single'] = "godzina";

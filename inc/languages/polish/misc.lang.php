@@ -17,8 +17,6 @@ $l['skype_center'] = "Centrum Skype";
 $l['chat_on_skype'] = "Napisz wiadomość do {1} na Skype";
 $l['call_on_skype'] = "Zadzwoń do {1} na Skype";
 $l['yahoo_center'] = "Centrum Yahoo!";
-$l['send_y_message'] = "Wyślij wiadomość Yahoo! do {1}.";
-$l['view_y_profile'] = "Pokaż profil Yahoo! ({1}).";
 $l['aim_center'] = "Centrum AIM";
 /* tych sześciu kawałków - dot. AIM - nie tłumaczymy */
 $l['download_aim'] = "Download AIM";
@@ -81,7 +79,7 @@ $l['syndication_version_atom1'] = "Atom 1.0";
 $l['syndication_version_rss2'] = "RSS 2.00 (domyślnie)";
 $l['syndication_generate'] = "Generuj link do RSS";
 $l['syndication_limit'] = "Limit:";
-$l['syndication_limit_desc'] = "Liczba wątków do jednoczesnej subskrypcji (zalecana: poniżej 50).";
+$l['syndication_limit_desc'] = "Liczba wątków do jednoczesnej subskrypcji (Limit: 50).";
 $l['syndication_threads_time'] = "wątków naraz";
 $l['syndicate_all_forums'] = "Wszystkie działy";
 
