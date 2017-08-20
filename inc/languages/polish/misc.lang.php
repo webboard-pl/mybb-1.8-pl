@@ -53,7 +53,7 @@ $l['no_help_results'] = "Nic nie znaleziono.";
 $l['error_helpsearchdisabled'] = "Możliwość wyszukiwania w dokumentacji została zablokowana przez administratora.";
 
 $l['smilies_listing'] = "Emotikony";
-$l['name'] = "Imię";
+$l['name'] = "Nazwa";
 $l['abbreviation'] = "Skrót";
 $l['click_to_add'] = "Kliknij w emotikona, by umieścić go w wiadomości.";
 $l['close_window'] = "zamknij okno";
