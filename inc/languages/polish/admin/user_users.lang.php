@@ -162,7 +162,7 @@ $l['website'] = "Strona WWW";
 $l['icq_number'] = "Numer ICQ";
 $l['aim_handle'] = "Nazwa użytkownika AIM";
 $l['yahoo_messanger_handle'] = "Identyfikator Yahoo";
-$l['skype_handle'] = "Identyfikator Skyp:";
+$l['skype_handle'] = "Identyfikator Skype:";
 $l['google_handle'] = "Identyfikator Google Hangouts";
 $l['birthday'] = "Data urodzenia";
 
