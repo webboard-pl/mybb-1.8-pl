@@ -275,7 +275,7 @@ $l['postbit_post_deleted'] = "Ten post został usunięty.";
 $l['postbit_post_unapproved'] = "Ten post oczekuje na zatwierdzenie.";
 $l['postbit_thread_deleted'] = "Ten wątek został usunięty.";
 $l['postbit_thread_unapproved'] = "Wątek oczekuje na zatwierdzenie.";
-$l['postbit_deleted_post_user'] = "Ten post został usunięty przez {1}.";
+$l['postbit_deleted_post_user'] = "Ten post użytkownika {1} został usunięty.";
 
 $l['postbit_button_reputation_add'] = 'Dodaj punkt reputacji';
 $l['postbit_button_website'] = 'Strona WWW';
