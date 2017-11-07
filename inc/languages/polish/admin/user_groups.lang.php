@@ -210,6 +210,8 @@ $l['error_cannot_have_both_types'] = "Nie można dodać grupy, w której dołąc
 
 $l['success_group_created'] = "Nowa grupa użytkowników została utworzona.";
 $l['success_group_updated'] = "Wybrana grupa użytkowników została zaktualizowana.";
+$l['success_group_created_duplicate_title'] = "Nowa grupa użytkowników została stworzona pomyślnie. Pamiętaj, że istnieje już grupa użytkowników o nazwie \"{1}\".";
+$l['success_group_updated_duplicate_title'] = "Wybrana grupa użytkowników została pomyślnie zaktualizowana. Pamiętaj, że istnieje już grupa użytkowników o nazwie \"{1}\".";
 $l['success_group_deleted'] = "Wybrana grupa użytkowników została usunięta.";
 $l['success_groups_disporder_updated'] = "Kolejność grup została zaktualizowana.";
 $l['success_join_request_approved'] = "Wybrany wniosek został przyjęty. Użytkownik został dodany do grupy.";

@@ -84,7 +84,7 @@ $l['error_cannot_edit_default'] = "Domyślne wpisy i grupy ustawień nie mogą z
 $l['error_cannot_edit_php'] = "To jest specjalny typ wpisu ustawień - nie może być edytowany.";
 $l['error_ajax_search'] = "Wystąpił problem podczas wyszukiwania wpisów ustawień:";
 $l['error_ajax_unknown'] = "Wystąpił nieznany błąd podczas wyszukiwania wpisów ustawień.";
-$l['error_chmod_settings_file'] = "Plik ustawień \"./inc/settings.php\" nie posiada praw do zapisu. Nadaj mu uprawnienia CHMOD 777.<br />Aby uzyskać więcej informacji na temat nadawania uprawnień CHMOD, sprawdź href=\"http://docs.mybb.com/HowTo_Chmod.html\" target=\"_blank\">Dokumentację MyBB</a>.";
+$l['error_chmod_settings_file'] = "Plik ustawień \"./inc/settings.php\" nie posiada praw do zapisu. Nadaj mu uprawnienia CHMOD 777.<br />Aby uzyskać więcej informacji na temat nadawania uprawnień CHMOD, sprawdź href=\"http://docs.mybb.com/HowTo_Chmod.html\" target=\"_blank\" rel=\"noopener\">Dokumentację MyBB</a>.";
 
 $l['success_setting_added'] = "Wpis ustawień został utworzony.";
 $l['success_setting_updated'] = "Wpis ustawień został zaktualizowany.";

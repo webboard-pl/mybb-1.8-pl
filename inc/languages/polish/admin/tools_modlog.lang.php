@@ -16,6 +16,7 @@ $l['prune_mod_logs_desc'] = "Usuwaj logi czynności moderatorskich spełniające
 $l['no_modlogs'] = "Nie ma logów spełniających wybrane kryteria.";
 
 $l['username'] = "Użytkownik";
+$l['na_deleted'] = "N/A - został usunięty";
 $l['date'] = "Data";
 $l['action'] = "Polecenie";
 $l['information'] = "Informacja";

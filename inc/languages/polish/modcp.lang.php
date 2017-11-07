@@ -43,10 +43,11 @@ $l['report_time'] = "Zgłoszono";
 $l['mark_read'] = "Oznacz wybrane jako przeczytane";
 $l['no_reports'] = "Nie ma nieprzeczytanych zgłoszeń.";
 $l['no_logs'] = "Dziennik akcji moderatorów jest pusty.";
-$l['error_noselected_reports'] = "Nie wybrano żadnych postów do oznaczenia jako przeczytane, lub ktoś inny w międzyczasie oznaczył je jako przeczytane.";
+$l['error_noselected_reports'] = "Nie wybrano żadnej zgłoszonej treści do zaznaczenia jako przeczytanej.";
 $l['error_missing_ipaddress'] = "Nie podano adresu IP jaki ma być wyszukiwany.";
 $l['error_no_results'] = "Nic nie znaleziono.";
-$l['redirect_reportsmarked'] = "Wybrane posty zostały oznaczone jako przeczytane.";
+$l['redirect_reportsmarked'] = "Wybrane zgłoszone treści zostały oznaczone jako przeczytane.";
++$l['redirect_allreportsmarked'] = "Wszystkie zgłoszone treści zostały oznaczone jako przeczytane.";
 $l['redirect_modnotes'] = "Notatki zostały uaktualnione.";
 
 $l['for'] = "Dla";
@@ -63,6 +64,10 @@ $l['report_info_profile'] = "Profil użytkownika {1}";
 $l['report_info_reputation'] = "<a href=\"{1}\">Punkt reputacji</a> od {2}";
 $l['report_info_rep_profile'] = "<br /><span class=\"smalltext\">Dla użytkownika {1}</span>";
 $l['report_info_lastreporter'] = "{1}<br /> zgłoszony przez {2}";
+$l['page_selected'] = "Wszystkie <strong>{1}</strong> nieprzeczytane raporty zostały zaznaczone na tej stronie.";
+$l['all_selected'] = "Wszystkie <strong>{1}</strong> nieprzeczytane raporty zostały zaznaczone.";
+$l['select_all'] = "Select all <strong>{1}</strong> unread reports.";
+$l['clear_selection'] = "Clear Selection.";
 
 $l['moderator_notes'] = "Notatki moderatorów";
 $l['notes_public_all'] = "Te notatki widzą wszyscy moderatorzy.";

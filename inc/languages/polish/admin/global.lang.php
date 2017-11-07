@@ -6,8 +6,10 @@
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
-$l['today'] = "<span title=\"{1}\">Dzisiaj</span>";
-$l['yesterday'] = "<span title=\"{1}\">Wczoraj</span>";
+$l['today_rel'] = "<span title=\"{1}\">Dzisiaj</span>";
+$l['yesterday_rel'] = "<span title=\"{1}\">Wczoraj</span>";
+$l['today'] = "Dzisiaj";
+$l['yesterday'] = "Wczoraj";
 
 $l['size_yb'] = "YB";
 $l['size_zb'] = "ZB";
@@ -136,6 +138,7 @@ $l['alt_disabled'] = "Wyłączone";
 $l['enable'] = "Włączone";
 $l['disable'] = "Wyłączone";
 $l['saved'] = 'Zapisano';
+$l['guest'] = 'Gość';
 
 $l['rel_in'] = "w";
 $l['rel_ago'] = "temu";

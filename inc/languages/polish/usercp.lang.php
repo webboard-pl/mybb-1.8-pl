@@ -52,7 +52,7 @@ $l['avatar_mine'] = "To jest Twój aktualny awatar";
 $l['change_avatar'] = "Zmień awatar";
 $l['avatar_url'] = "Link do awatara:";
 $l['avatar_url_note'] = "Wprowadź URL awatara.";
-$l['avatar_url_gravatar'] = "Aby skorzystać z <a href=\"https://gravatar.com\" target=\"_blank\">Gravatara</a>, wprowadź tu adres e-mail, jakiego używasz w tym serwisie.";
+$l['avatar_url_gravatar'] = "Aby skorzystać z <a href=\"https://gravatar.com\" target=\"_blank\" rel=\"noopener\>Gravatara</a>, wprowadź tu adres e-mail, jakiego używasz w tym serwisie.";
 $l['avatar_upload'] = "Awatar z dysku:";
 $l['avatar_upload_note'] = "Wybierz awatar ze swojego komputera.";
 $l['no_avatar'] = "Brak awatara";

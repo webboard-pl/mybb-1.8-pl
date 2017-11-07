@@ -93,7 +93,7 @@ $l['agreement_4'] = "Żadne z Twoich danych podanych podczas rejestracji na foru
 $l['agreement_5'] = "Kontynuując rejestrację oświadczasz, że zgadzasz się ze wszystkimi wymienionymi powyżej postanowieniami oraz innymi regułami ustalonymi przez administratorów tego forum. W celu poznania pełnych reguł obowiązujących na forum, skontaktuj się z administratorem.";
 $l['registration'] = "Rejestracja";
 $l['required_fields'] = "Wymagane pola";
-$l['complex_password'] = "<acronym title=\"Hasło, które składa się co najmniej z {1} znaków i zawiera co najmniej jedną dużą literę, jedną małą literę i jedną cyfrę.\">Złożone</acronym> hasło:";
+$l['complex_password'] = "<abbr title=\"Hasło, które składa się co najmniej z {1} znaków i zawiera co najmniej jedną dużą literę, jedną małą literę i jedną cyfrę.\">Złożone</abbr> hasło:";
 $l['confirm_email'] = "Potwierdź e-mail:";
 $l['optional_fields'] = "Opcjonalne pola";
 $l['website_url'] = "Strona WWW:";
@@ -118,7 +118,7 @@ $l['dst_correction_enabled'] = "Zawsze używaj DST";
 $l['dst_correction_disabled'] = "Nigdy nie używaj DST";
 $l['redirect_registered_coppa_activate'] = "Dziękujemy za rejestrację w {1}, {2}. Konto zostało utworzone, ale ponieważ nie spełniasz wymogu ukończenia 13 roku życia, musisz dostarczyć zgodę rodziców na używanie tego konta.<br /><br />Twój rodzic lub prawny opiekun musi pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\">formularza COPPA</a>.<br /><br />Gdy dotrze do nas wypełniony formularz, Twoje konto zostanie aktywowane.";
 $l['coppa_compliance'] = "COPPA";
-$l['coppa_desc'] = "Aby zarejestrować Cię na tym forum, musimy sprawdzić, czy spełniasz warunki <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\">COPPA</a>. Podaj swoją datę urodzenia.<br /><br />Jeżeli masz mniej niż 13 lat, do rejestracji będzie wymagana zgoda rodziców. Twój rodzic lub prawny opiekun będzie musiał pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\">formularza COPPA</a>.";
+$l['coppa_desc'] = "Aby zarejestrować Cię na tym forum, musimy sprawdzić, czy spełniasz warunki <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. Podaj swoją datę urodzenia.<br /><br />Jeżeli masz mniej niż 13 lat, do rejestracji będzie wymagana zgoda rodziców. Twój rodzic lub prawny opiekun będzie musiał pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\" rel=\"noopener\">formularza COPPA</a>.";
 $l['hide_dob'] = "Edytując swój profil po zarejestrowaniu będziesz mieć możliwość ukrycia swojej daty urodzenia.";
 $l['signature'] = "Sygnatura:";
 $l['continue_registration'] = "Kontynuuj rejestrację";
@@ -140,7 +140,7 @@ $l['phone_no'] = "Nr telefonu:";
 $l['coppa_parent_agreement'] = "Potwierdzam prawdziwość podanych przeze mnie informacji. Rozumiem, że będą one mogły być zmienione po podaniu przeze mnie poprawnego hasła, a także że istnieje możliwość usunięcia mojego konta na żądanie.";
 
 $l['coppa_agreement_1'] = "Użytkownicy poniżej 13 roku życia muszą otrzymać zezwolenie rodzica lub prawnego opiekuna na rejestrację w {1}.";
-$l['coppa_agreement_2'] = "Rodzic lub prawny opiekun będzie musiał pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\">formularza COPPA</a> przed dokonaniem rejestracji.";
+$l['coppa_agreement_2'] = "Rodzic lub prawny opiekun będzie musiał pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\" rel=\"noopener\">formularza COPPA</a> przed dokonaniem rejestracji.";
 $l['coppa_agreement_3'] = "Jeżeli chcesz, możesz teraz rozpocząć proces rejestracji, ale konto będzie dostępne dopiero po spełnieniu wyżej wymienionych warunków.";
 
 $l['error_invalid_birthday'] = 'Podana data urodzin jest niepoprawna. Wybierz poprawną datę.';
@@ -229,6 +229,7 @@ $l['js_validator_no_security_question'] = "Musisz odpowiedzieć na powyższe pyt
 $l['js_validator_password_matches'] = "Podane hasła nie zgadzają się";
 $l['js_validator_password_complexity'] = "Sprawdzanie złożoności hasła";
 $l['js_validator_password_length'] = "Hasło musi zawierać przynajmniej {1} znaków";
+$l['js_validator_bad_password_security'] = 'Podane hasło jest podobne do nazwy użytkownika lub adresu e-mail. Wprowadź mocniejsze hasło.';
 $l['js_validator_not_empty'] = "Nie możesz pozostawić tego pola pustego";
 $l['js_validator_checking_username'] = "Sprawdzam czy login jest dostępny...";
 $l['js_validator_username_length'] = "Login musi zawierać od {1} do {2} znaków";

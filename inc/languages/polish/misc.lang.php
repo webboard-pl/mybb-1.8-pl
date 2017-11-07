@@ -70,7 +70,7 @@ $l['error_invalid_limit'] ="Podany limit jest nieprawidłowy. Wpisz poprawny lim
 
 $l['syndication'] = "RSS";
 $l['syndication_generated_url'] = "Twój wygenerowany URL:";
-$l['syndication_note'] = "Poniżej możesz wybrać działy, dla których chcesz wygenerować swój link RSS. Do odczytania nagłówków RSS będzie Ci potrzebny specjalny program, np. <a href=\"http://www.sharpreader.net/\">SharpReader</a>. <i><a href=\"https://pl.wikipedia.org/wiki/RSS\">Dowiedz się więcej o RSS</a></i>";
+$l['syndication_note'] = "Poniżej możesz wybrać działy, dla których chcesz wygenerować swój link RSS. Do odczytania nagłówków RSS będzie Ci potrzebny specjalny program, np. <a href=\"http://www.sharpreader.net/\">SharpReader</a>. <i><a href=\"https://pl.wikipedia.org/wiki/RSS\" rel=\"noopener\">Dowiedz się więcej o RSS</a></i>";
 $l['syndication_forum'] = "Działy do subskrybowania (RSS):";
 $l['syndication_forum_desc'] = "Wybierz działy, które chcesz subskrybować przez RSS. By zaznaczyć kilka działów naraz, przytrzymaj klawisz CTRL i kliknij je.";
 $l['syndication_version'] = "Wersja RSS:";

@@ -72,7 +72,7 @@ $l['success_task_disabled'] = "Zadanie zostało wyłączone.";
 $l['success_task_run'] = "Zadanie zostało wykonane.";
 
 $l['confirm_task_deletion'] = "Czy na pewno chcesz usunąć to zadanie?";
-$l['confirm_task_enable'] = "<strong>UWAGA:</strong> Chcesz aktywować zadanie, które powinno być uruchamiane tylko i wyłącznie za pomocą cron (zobacz <a href=\"https://docs.mybb.com/1.8/administration/task-manager\" target=\"_blank\">Dokumentację MyBB</a> - po angielsku). Kontynuować?";
+$l['confirm_task_enable'] = "<strong>UWAGA:</strong> Chcesz aktywować zadanie, które powinno być uruchamiane tylko i wyłącznie za pomocą cron (zobacz <a href=\"https://docs.mybb.com/1.8/administration/task-manager\" target=\"_blank\" rel=\"noopener\">Dokumentację MyBB</a> - po angielsku). Kontynuować?";
 $l['no_tasks'] = "Nie ma zaplanowanych zadań na tym forum.";
 
 

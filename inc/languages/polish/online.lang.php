@@ -80,7 +80,6 @@ $l['viewing_reputation_report2'] = "Przegląda informacje o reputacji";
 $l['member_resendactivation'] = "Przesyła sobie e-mail aktywujący";
 $l['member_lostpw'] = "Przywraca <a href=\"member.php?action=lostpw\">zapomniane hasło</a>";
 $l['sending_thread'] = "Wysyła wątek znajomemu";
-$l['guest'] = "Gość";
 $l['page'] = "Strona";
 $l['users_online'] = "Kto jest online";
 $l['on_username'] = "Użytkownik";
