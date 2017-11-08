@@ -136,7 +136,7 @@ $l['instant_pm_subscribe'] = "Subskrybuj wątek i wysyłaj powiadomienia poprzez
 $l['today_rel'] = "<span title=\"{1}\">Dzisiaj</span>";
 $l['yesterday_rel'] = "<span title=\"{1}\">Wczoraj</span>";
 $l['today'] = "Dzisiaj";
-+$l['yesterday'] = "Wczoraj";
+$l['yesterday'] = "Wczoraj";
 $l['error'] = "Informacja";
 
 $l['multipage_pages'] = "Strony ({1}):";
