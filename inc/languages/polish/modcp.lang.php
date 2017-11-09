@@ -47,7 +47,7 @@ $l['error_noselected_reports'] = "Nie wybrano żadnej zgłoszonej treści do zaz
 $l['error_missing_ipaddress'] = "Nie podano adresu IP jaki ma być wyszukiwany.";
 $l['error_no_results'] = "Nic nie znaleziono.";
 $l['redirect_reportsmarked'] = "Wybrane zgłoszone treści zostały oznaczone jako przeczytane.";
-+$l['redirect_allreportsmarked'] = "Wszystkie zgłoszone treści zostały oznaczone jako przeczytane.";
+$l['redirect_allreportsmarked'] = "Wszystkie zgłoszone treści zostały oznaczone jako przeczytane.";
 $l['redirect_modnotes'] = "Notatki zostały uaktualnione.";
 
 $l['for'] = "Dla";
