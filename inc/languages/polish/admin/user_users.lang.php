@@ -393,7 +393,7 @@ $l['title'] = "Nazwa";
 
 $l['view_title_1'] = "Wszyscy użytkownicy";
 
-$l['emailsubject_activateaccount'] = "Account Activation at {1}";
+$l['emailsubject_activateaccount'] = "Aktywacja konta na {1}";
 $l['email_adminactivateaccount'] = "{1},
 
 Administrator aktywował Twoje konto na forum \"{2}\".
