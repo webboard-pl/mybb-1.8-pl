@@ -49,6 +49,7 @@ $l['you_voted'] = "*) odpowiedź wybrana przez Ciebie";
 $l['poll_closed'] = "Ankieta jest zamknięta.";
 $l['poll_closes'] = "Ankieta zostanie zamknięta {1}";  
 $l['already_voted'] = "Już głosowano w tej ankiecie.";
+$l['no_voting_permission'] = "Nie posiadasz uprawnień, aby oddać głos w tej ankiecie.";
 $l['undo_vote'] = "Cofnij głos";
 $l['quick_reply'] = "Szybka odpowiedź";
 $l['message_note'] = "Wpisz tutaj swoją odpowiedź.";

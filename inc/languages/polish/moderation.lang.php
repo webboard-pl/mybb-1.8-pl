@@ -172,6 +172,7 @@ $l['error_nosplitposts'] = "Nie możesz wydzielić postów, bo nic nie zaznaczon
 $l['error_movetosameforum'] = "Wskazany wątek istnieje już w tym dziale. Wybierz inny dział.";
 $l['error_mergewithself'] = "Łączenie wątków nie powiodło się.<br />Wróć i wprowadź prawidłowy URL.";
 $l['error_movetoself'] = "Nie można przenieść postów do tego samego wątku.<br />Wróć i wprowadź prawidłowy URL.";
+$l['error_movetononmodforum'] = "Nie możesz przenieść tego tematu do forum, gdzie nie jesteś moderatorem lub nie masz uprawnień, aby je oglądać.";
 $l['error_delayedmoderation_unsupported_type'] = "Nie wybrano prawidłowego typu akcji dla opóźnionej moderacji lub nie masz uprawnień, aby to zrobić.";
 $l['error_delayedmoderation_unsupported_method'] = "Nie wybrano prawidłowej metody przeniesienia dla tej akcji opóźnionej moderacji.";
 $l['error_delayedmoderation_invalid_date_day'] = "Nie wprowadzono prawidłowego dnia dla akcji opóźnionej moderacji.";
