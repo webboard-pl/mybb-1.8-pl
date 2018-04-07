@@ -321,7 +321,7 @@ $l['error_invalid_announcement'] = "Wybrane ogłoszenie jest nieprawidłowe.";
 
 $l['announcement_added'] = "Dodano ogłoszenie";
 $l['announcement_edited'] = "Wyedytowano ogłoszenie";
-$l['announcement_deleted'] = "Usunięto ogłoszenie Deleted";
+$l['announcement_deleted'] = "Usunięto ogłoszenie";
 
 $l['preview'] = 'Podgląd';
 
