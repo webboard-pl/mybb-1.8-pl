@@ -78,6 +78,6 @@ $l['postrep_given_nolink'] = "Punkt przyznany za post użytkownika {1}<br />";
 $l['postrep_given_thread'] = "w wątku <a href=\"{1}\">{2}</a>";
 $l['no_reputation_votes'] = "Ten użytkownik w tej chwili nie posiada ocen spełniających podane kryteria.";
 $l['delete_reputation_confirm'] = "Czy na pewno chcesz usunąć ten punkt reputacji?";
-$l['delete_reputation_log'] = "Punkty reputacji usunięte przez {1} (UID {2}).";
+$l['delete_reputation_log'] = "Usunięto punkty reputacji nadane przez użytkownika {1} (UID {2}).";
 $l['reputations_disabled_group'] = "System reputacji jest wyłączony dla użytkowników tej grupy.";
 $l['rate_user'] = "Oceń użytkownika";
