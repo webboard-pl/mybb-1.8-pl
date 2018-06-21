@@ -1232,7 +1232,7 @@ $l['setting_cdnpath'] = "Ścieżka przechowywania statycznych plików";
 $l['setting_cdnpath_desc'] = "Jeśli włączyłeś powyższą opcję CDN, wpisz (opcjonalnie) pełną ścieżkę do miejsca przechowywania statycznych plików. Jest to użyteczne jedynie w przypadku korzystania z CDN typu \"push\" albo lokalnych subdomen. Adres nie powinien zawierać końcowego ukośnika.";
 
 $l['setting_forcelogin'] = "Zmuś użytkowników do zalogowania";
-$l['setting_forcelogin_desc'] = "Ustawienie opcję na 'Tak' spowoduje konieczność zalogowania lub rejestracji w celu dostępu do forum.";
+$l['setting_forcelogin_desc'] = "Ustawienie opcji na 'Tak' spowoduje konieczność zalogowania lub rejestracji w celu dostępu do forum.";
 $l['setting_securityquestion'] = "Pokazuj pytanie zabezpieczające";
 $l['setting_securityquestion_desc'] = "Czy chcesz, aby użytkownicy podczas rejestracji musieli odpowiadać na pytanie zabezpieczające?";
 
