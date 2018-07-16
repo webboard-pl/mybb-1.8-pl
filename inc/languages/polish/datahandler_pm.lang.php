@@ -10,6 +10,7 @@ $l['pmdata_too_long_subject'] = "Temat prywatnej wiadomości jest za długi. Wpr
 $l['pmdata_code_no_subject'] = "[bez tematu]";
 $l['pmdata_missing_subject'] = "Nie podano tematu wiadomości. Uzupełnij go.";
 $l['pmdata_missing_message'] = "Nie podano treści wiadomości. Uzupełnij ją.";
+$l['pmdata_message_too_long'] = 'Wiadomość jest zbyt długa. Skróć ją, powinna zawierać {1} znaków (obecnie {2}).';
 $l['pmdata_invalid_recipients'] = "Jeden lub więcej użytkowników, do których chcesz wysłać PW, nie istnieje. Lista błędnie podanych loginów: {1}";
 $l['pmdata_no_recipients'] = "Nie podano żadnego odbiorcy tej wiadomości. Wpisz przynajmniej jeden login w polu \"Do\".";
 $l['pmdata_too_many_recipients'] = "Możesz wysłać wiadomość do maksymalnie {1} użytkowników naraz.";

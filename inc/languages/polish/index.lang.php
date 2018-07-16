@@ -13,7 +13,7 @@
 $l['boardstats'] = "Statystyki";
 $l['new_posts'] = "Dział zawiera nowe posty";
 $l['no_new_posts'] = "Dział nie zawiera nowych postów";
-$l['forum_locked'] = "Dział jest zablokowany";
+$l['forum_closed'] = "Dział jest zamknięty";
 $l['forum_unapproved_posts_count'] = "Aktualnie w tym dziale znajduje się {1} ukrytych postów.";
 $l['forum_unapproved_post_count'] = "Aktualnie w tym dziale znajduje się 1 ukryty post.";
 $l['forum_unapproved_threads_count'] = "Aktualnie w tym dziale znajduje się {1} ukrytych wątków.";
@@ -44,3 +44,4 @@ $l['online_guest_plural'] = "gości";
 $l['online_guest_singular'] = "gość";
 $l['online_note'] = "{1} {2} w ciągu ostatnich {3} minut: {4} {5} (w tym {6} {7}) oraz {8} {9}.";
 $l['subforums'] = "Poddziały:";
+$l['board_stats_link_separator'] = ' | ';

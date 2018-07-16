@@ -10,21 +10,16 @@ $l['nav_helpdocs'] = "Dokumentacja";
 $l['nav_smilies'] = "Emotikony";
 $l['nav_syndication'] = "RSS";
 
-$l['aol_im'] = "AOL IM";
 $l['skype'] = "Skype";
 $l['yahoo_im'] = "Yahoo IM";
 $l['skype_center'] = "Centrum Skype";
 $l['chat_on_skype'] = "Napisz wiadomość do {1} na Skype";
 $l['call_on_skype'] = "Zadzwoń do {1} na Skype";
 $l['yahoo_center'] = "Centrum Yahoo!";
-$l['aim_center'] = "Centrum AIM";
 /* tych sześciu kawałków - dot. AIM - nie tłumaczymy */
-$l['download_aim'] = "Download AIM";
-$l['aim_remote'] = "AIM Remote";
 $l['send_me_instant'] = "Send me an Instant Message";
 $l['add_me_buddy_list'] = "Add me to Your Buddy List";
 $l['add_remote_to_page'] = "Add Remote to Your Page";
-$l['download_aol_im'] = "Download AOL Instant Messenger";
 
 $l['buddy_list'] = "Lista znajomych";
 $l['online'] = "Online";

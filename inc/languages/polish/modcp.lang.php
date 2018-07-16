@@ -134,7 +134,6 @@ $l['profile_optional'] = "Dodatkowe pola";
 $l['website_url'] = "Strona domowa:";
 $l['birthdate'] = "Urodziny:";
 $l['icq_number'] = "Numer ICQ:";
-$l['aim_screenname'] = "Nazwa użytkownika AIM:";
 $l['yahoo_id'] = "Identyfikator Yahoo:";
 $l['skype_id'] = "Identyfikator Skype:";
 $l['google_id'] = "Identyfikator Google Hangouts:";
@@ -321,7 +320,7 @@ $l['error_invalid_announcement'] = "Wybrane ogłoszenie jest nieprawidłowe.";
 
 $l['announcement_added'] = "Dodano ogłoszenie";
 $l['announcement_edited'] = "Wyedytowano ogłoszenie";
-$l['announcement_deleted'] = "Usunięto ogłoszenie";
+$l['announcement_deleted'] = "Usunięto ogłoszenie Deleted";
 
 $l['preview'] = 'Podgląd';
 

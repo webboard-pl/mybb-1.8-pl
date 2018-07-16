@@ -44,7 +44,6 @@ $l['search_criteria'] = "Kryteria wyszukiwania";
 $l['begins_with'] = "zaczyna się na";
 $l['username_contains'] = "zawiera";
 $l['search_website'] = "Strona domowa";
-$l['search_aim'] = "Nazwa użytkownika AIM";
 $l['search_skype'] = "Nazwa użytkownika Skype";
 $l['search_google'] = "Adres Google Hangouts";
 $l['search_yahoo'] = "Nazwa użytkownika Yahoo! Messenger";

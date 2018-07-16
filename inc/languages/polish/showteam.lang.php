@@ -14,14 +14,17 @@ $l['lastvisit'] = "Ostatnia wizyta";
 $l['email'] = "E-mail";
 $l['pm'] = "PW";
 $l['mod_forums'] = "Działy";
+$l['mod_groups'] = "Grupy";
+
 $l['online'] = "Online";
 $l['offline'] = "Offline";
 $l['away'] = "Niedostępny";
 
-$l['group_leaders'] = "Liderzy";
+$l['group_leaders'] = "Liderzy grupy";
 $l['group_members'] = "Członkowie";
 
 $l['no_members'] = "W tej grupie nie ma użytkowników.";
+$l['showteam_disabled'] = "Włączenie podglądu ekipy forum została wyłączona przez administratora.";
 
 $l['error_noteamstoshow'] = "Nie ma nikogo do wyświetlenia.";
 

@@ -123,7 +123,7 @@ $l['success_view_deleted'] = "Widok został usunięty";
 
 $l['confirm_view_deletion'] = "Czy na pewno usunąć ten widok?";
 
-$l['warning_coppa_user'] = "<p class=\"alert\"><strong>Ostrzeżenie: </strong> Ten użytkownik wymaga weryfikacji COPAA. <a href=\"index.php?module=user-users&amp;action=activate_user&amp;uid={1}\">Kliknij, by aktywować konto</a></p>";
+$l['warning_coppa_user'] = "<p class=\"alert\"><strong>Ostrzeżenie: </strong> Ten użytkownik wymaga weryfikacji COPAA. <a href=\"index.php?module=user-users&amp;action=activate_user&amp;uid={1}&amp;my_post_key={2}\">Kliknij, by aktywować konto</a></p>";
 
 $l['required_profile_info'] = "Wymagane informacje";
 $l['password'] = "Hasło";
@@ -160,7 +160,6 @@ $l['custom_user_title'] = "Własny tytuł użytkownika";
 $l['custom_user_title_desc'] = "Jeżeli to pole pozostanie puste, użyty zostanie domyślny tytuł grupy";
 $l['website'] = "Strona WWW";
 $l['icq_number'] = "Numer ICQ";
-$l['aim_handle'] = "Nazwa użytkownika AIM";
 $l['yahoo_messanger_handle'] = "Identyfikator Yahoo";
 $l['skype_handle'] = "Identyfikator Skype:";
 $l['google_handle'] = "Identyfikator Google Hangouts";
@@ -189,8 +188,9 @@ $l['buddy_requests_pm'] = "Wysyłaj powiadomienia PW kiedy ktoś będzie chciał
 $l['buddy_requests_auto'] = "Automatycznie akceptuj zaproszenia do listy znajomych (jeżeli powyższe pole będzie zaznaczone, będziesz otrzymywał powiadomienia PW o nowych osobach na Twojej liście znajomych)";
 $l['default_thread_subscription_mode'] = "Domyślny sposób subskrypcji tematów";
 $l['do_not_subscribe'] = "Nie subskrybuj";
-$l['no_email_notification'] = "Bez powiadamiania e-mailem";
+$l['no_notification'] = "Bez powiadamiania";
 $l['instant_email_notification'] = "Powiadomienie e-mail";
+$l['instant_pm_notification'] = "Powiadomienie wiadomością prywatną";
 $l['messaging_and_notification'] = "Prywatne wiadomości i e-maile";
 $l['use_default'] = "Użyj domyślnego";
 $l['date_format'] = "Formatowanie daty";
@@ -343,7 +343,6 @@ $l['email_address_contains'] = "Adres e-mail zawiera";
 $l['is_member_of_groups'] = "Grupa użytkowników to";
 $l['website_contains'] = "Strona WWW zawiera";
 $l['icq_number_contains'] = "Numer ICQ zawiera";
-$l['aim_handle_contains'] = "Identyfikator AIM zawiera";
 $l['yahoo_contains'] = "Identyfikator Yahoo! zawiera";
 $l['skype_contains'] = "Identyfikator Skype zawiera";
 $l['google_contains'] = "Identyfikator Google Hangouts zawiera";

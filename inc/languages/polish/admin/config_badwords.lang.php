@@ -17,6 +17,8 @@ $l['bad_word_desc'] = "Podaj słowo lub wyrażenie, które ma zostać zamienione
 $l['bad_word_max'] = "Słowo do zmiany nie może być dłuższe niż 100 znaków.";
 $l['replacement'] = "Zamiennik";
 $l['replacement_desc'] = "Wpisz ciąg znaków, na jaki zamienione zostanie niechciane słowo (jeżeli pozostawisz to pole puste, słowo zostanie zamienione na gwiazdki)";
+$l['regex'] = "Wyrażenie regularne";
+$l['regex_desc'] = "Traktuj pole \"Słowo\" jako wyrażenie regularne.";
 $l['replacement_word_max'] = "Zamiennik nie może być dłuższy niż 100 znaków.";
 $l['error_replacement_word_invalid'] = "Zamiennik nie może być taki sam jak cenzurowane słowo.";
 

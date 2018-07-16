@@ -274,7 +274,7 @@ Ekipa {4}
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych wątkach, przejdź pod adres:
-{7}/usercp2.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
+{7}/usercp.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
 
 ------------------------------------------";
 
@@ -350,7 +350,7 @@ Ekipa {3}
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych odpowiedziach w tym wątku, przejdź pod adres:
-{6}/usercp2.php?action=removesubscription&tid={8}&my_post_key={9}
+{6}/usercp.php?action=removesubscription&tid={8}&my_post_key={9}
 
 ------------------------------------------";
 $l['email_reachedpmquota'] = "{1},
@@ -496,7 +496,7 @@ Kolejne powiadomienia otrzymasz dopiero po odwiedzeniu forum.
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych odpowiedziach w tym wątku, przejdź pod adres:
-[url]{5}/usercp2.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
+[url]{5}/usercp.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
 
 ------------------------------------------";
 
