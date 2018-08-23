@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * MyBB 1.8 English Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
+ *
 /**
  * MyBB 1.8 Polish Language Pack
  * * Copyright © 2008-2018 MyBBoard.pl Team

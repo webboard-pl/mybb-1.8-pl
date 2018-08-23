@@ -88,6 +88,7 @@ $l['opened'] = "Otwarty";
 $l['closed'] = "Zamknięty";
 $l['stuck'] = "Przypięty";
 $l['unstuck'] = "Odpięty";
+$l['error'] = "Błąd!";
 $l['mod_process'] = "Wątek {1}";
 $l['redirects_removed'] = "Usunięto przekierowanie";
 $l['thread_deleted'] = "Usunięto wątek: {1}";
@@ -178,6 +179,8 @@ $l['error_delayedmoderation_unsupported_method'] = "Nie wybrano prawidłowej met
 $l['error_delayedmoderation_invalid_date_day'] = "Nie wprowadzono prawidłowego dnia dla akcji opóźnionej moderacji.";
 $l['error_delayedmoderation_invalid_date_month'] = "Nie wprowadzono prawidłowego miesiąca dla akcji opóźnionej moderacji.";
 $l['error_delayedmoderation_invalid_date_year'] = "Nie wprowadzono prawidłowego roku dla akcji opóźnionej moderacji.";
+$l['error_thread_deleted'] = "Wątek docelony został usunięty w sposób nietrwały. Aby wykonać tę akcję, musisz najpierw przywrócić wątek.";
+
 
 $l['redirect_pollnotdeleted'] = "Ankieta nie została usunięta, gdyż nie zaznaczono pola \"Usuń\".<br />Teraz nastąpi przeniesienie do wątku.";
 $l['redirect_polldeleted'] = "Ankieta została usunięta.<br />Teraz nastąpi przeniesienie do wątku.";

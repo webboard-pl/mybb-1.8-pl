@@ -293,6 +293,7 @@ $l['date_uploaded'] = "Dodano";
 $l['no_attachments_selected'] = "Nie zaznaczono żadnych załączników do usunięcia.";
 $l['attachments_deleted'] = "Zaznaczone załączniki zostały usunięte.<br />Teraz nastąpi przeniesienie do menadżera załączników.";
 $l['attachments_usage_quota'] = "- Używasz {1} z {2} w ({3}) załączników";
+$l['attachments_usage_percent'] = " ({1}%)";
 $l['attachments_usage'] = "- {1} z {2} załączników";
 $l['attachments_stats'] = "Statystyki załączników";
 $l['attachstats_attachs'] = "Liczba załączników";

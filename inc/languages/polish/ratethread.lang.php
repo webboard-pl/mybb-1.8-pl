@@ -11,6 +11,8 @@ $l['redirect_threadrated'] = "Wątek został oceniony. Teraz nastąpi przeniesie
 $l['error_invalidrating'] = "Wybrano nieprawidłową ocenę. Wróć i spróbuj ponownie.";
 $l['error_alreadyratedthread'] = "Oceniono już ten wątek wcześniej.";
 $l['error_cannotrateownthread'] = "Nie możesz ocenić własnego wątku.";
+$l['thread_doesnt_exist'] = "Nie możesz ocenić wątku, który nie istnieje.";
+
 
 $l['rating_votes_average'] = "{1} głosów - średnia ocena: {2} na 5 gwiazdek";
 $l['one_star'] = "1 na 5 gwiazdek";

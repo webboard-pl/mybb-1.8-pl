@@ -69,6 +69,12 @@ $l['settings_search'] = "Wyszukaj wpisy";
 $l['confirm_setting_group_deletion'] = "Czy na pewno chcesz usunąć tę grupę ustawień?";
 $l['confirm_setting_deletion'] = "Czy na pewno chcesz usunąć ten wpis ustawień?";
 
+$l['error_format_dimension'] = "Określony format {1} jest nieprawidłowy.";
+$l['error_field_postmaxavatarsize'] = "Maksymalne wymiary awatara";
+$l['error_field_useravatardims'] = "Domyślne wymiary awatara";
+$l['error_field_maxavatardims'] = "Maksymalne wymiary awatara";
+$l['error_field_memberlistmaxavatarsize'] = "Maksymalne wymiary wyświetlonego awatara";
+
 $l['error_missing_title'] = "Nie podano tytułu dla tego wpisu ustawień.";
 $l['error_missing_group_title'] = "Nie podano tytułu dla tej grupy ustawień.";
 $l['error_invalid_gid'] = "Nie wybrano poprawnej grupy, w której wpis miałby zostać umieszczony.";
