@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2018 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
@@ -333,9 +333,9 @@ $l['months'] = "miesięcy";
 $l['months_short'] = "m-cy";
 $l['week'] = "tydzień";
 $l['week_short'] = "tydz";
-$l['weeks'] = "tygodni";
+$l['weeks'] = "Tygodni";
 $l['weeks_short'] = "tyg";
-$l['day'] = "dzień";
+$l['day'] = "Dzień";
 $l['day_short'] = "d";
 $l['days'] = "dni";
 $l['days_short'] = "d";
@@ -370,7 +370,7 @@ $l['banned_warning2'] = "Powód bana";
 $l['banned_warning3'] = "Ban zostanie zniesiony";
 $l['banned_lifted_never'] = "nigdy";
 $l['banned_email_warning'] = "Używasz adresu email, który nie został dozwolony na tym forum. Zmień adres email, aby móc kontynuować.";
-$l['powered_by'] = "Polskie tłumaczenie &copy; 2007-".date("Y")." <a href=\"http://www.mybboard.pl\">Polski Support MyBB</a> <br/>Silnik forum";
+$l['powered_by'] = "Polskie tłumaczenie &copy; 2007-".date("Y")." <a href=\"https://webboard.pl\">Polski Support MyBB</a> <br/>Silnik forum";
 $l['copyright'] = "Copyright";
 $l['attach_quota'] = "Pojemość, która jest przeznaczona na załączniki wynosi {1}.";
 $l['attach_usage'] = "Aktualnie wykorzystujesz <strong>{1}</strong>.";

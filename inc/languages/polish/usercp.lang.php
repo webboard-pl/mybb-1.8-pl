@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2018 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
@@ -289,7 +289,7 @@ $l['delete_attachments'] = "Usuń zaznaczone załączniki";
 $l['attachment_size_downloads'] = "({1}, {2} pobrań)";
 $l['attachment_thread'] = "wątek:";
 $l['no_attachments'] = "Aktualnie nie posiadasz żadnych załączników.";
-$l['date_uploaded'] = "Dodano";
+$l['date_uploaded'] = "Dodano w";
 $l['no_attachments_selected'] = "Nie zaznaczono żadnych załączników do usunięcia.";
 $l['attachments_deleted'] = "Zaznaczone załączniki zostały usunięte.<br />Teraz nastąpi przeniesienie do menadżera załączników.";
 $l['attachments_usage_quota'] = "- Używasz {1} z {2} w ({3}) załączników";
