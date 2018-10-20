@@ -1,4 +1,4 @@
-)<?php
+<?php
 /**
  * MyBB 1.8 Polish Language Pack
  * * Copyright © 2008-2018 Webboard.pl Team
