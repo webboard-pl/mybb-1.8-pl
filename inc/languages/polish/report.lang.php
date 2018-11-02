@@ -27,7 +27,7 @@ $l['success_report_voted'] = "Dziękujemy za zgłoszenie.<br />Zostanie wkrótce
 
 
 $l['error_report_length'] = "Wybierz powód zgłoszenia.";
-$l['error_invalid_report'] = "{1} nie istnieje lub nie można jej zgłosić.";
+$l['error_invalid_report'] = "{1} nie istnieje lub nie można go zgłosić";
 $l['error_invalid_report_reason'] = "Wybrany powód jest nieprawidłowy.";
 $l['error_comment_required'] = "Dodatkowe uwagi odnośne zgłoszonej zawartości.";
 $l['error_report_duplicate'] = "Ta zawartość została już zgłoszona przez innego użytkownika.<br />Możesz wysłać kolejne zgłoszenie, korzystając z poniższego formularza.";
