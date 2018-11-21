@@ -1,10 +1,11 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 $l['user_email_log'] = "Logi e-maili";
 $l['user_email_log_desc'] = "Wszystkie wiadomości e-mail wysyłane przez użytkowników są logowane i zamieszczane na poniższej liście. Dzięki temu możesz odnaleźć osoby nadużywające funkcji wysyłania wiadomości e-mail.";
@@ -35,3 +36,4 @@ $l['subject_contains'] = "Temat zawiera";
 $l['find_emails_to_user'] = "Znajdź wszystkie e-maile wysłane temu użytkownikowi"; 
 
 $l['error_invalid_user'] = "Nie ma takiego użytkownika.";
+

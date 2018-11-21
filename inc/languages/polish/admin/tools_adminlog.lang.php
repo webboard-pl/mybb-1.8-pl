@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 
@@ -44,6 +44,7 @@ $l['note_logs_locked'] = "Ze względów bezpieczeństwa nie można usuwać logó
 $l['admin_log_config_attachment_types_add'] = "Dodano rozszerzenie załączników #{1} ({2})";
 $l['admin_log_config_attachment_types_edit'] = "Edytowano rozszerzenie załączników #{1} ({2})";
 $l['admin_log_config_attachment_types_delete'] = "Usunięto rozszerzenie załączników #{1} ({2})";
+$l['admin_log_config_attachment_types_toggle_status'] = "Przełączono status załączników #{1} ({2})";
 
 $l['admin_log_config_badwords_add'] = "Dodano element do filtra słów #{1} ({2})";
 $l['admin_log_config_badwords_edit'] = "Edytowano element w filtrze słów #{1} ({2})";
@@ -106,6 +107,10 @@ $l['admin_log_config_questions_edit'] = "Edytowano pytanie zabezpieczające #{1}
 $l['admin_log_config_questions_delete'] = "Usunięto pytanie zabezpieczające #{1} ({2})";
 $l['admin_log_config_questions_enable'] = "Włączono pytanie zabezpieczające #{1} ({2})";
 $l['admin_log_config_questions_disable'] = "Wyłączono pytanie zabezpieczające #{1} ({2})";
+
+$l['admin_log_config_report_reasons_add'] = "Dodano powód zgłoszeń #{1} ({2})";
+$l['admin_log_config_report_reasons_edit'] = "Edytowano powód zgłoszeń #{1} ({2})";
+$l['admin_log_config_report_reasons_delete'] = "Usunięto powód zgłoszeń #{1} ({2})";
 
 $l['admin_log_config_settings_delete_duplicates'] = "Usunięto zduplikowane ustawienia i grupy ustawień";
 $l['admin_log_config_settings_addgroup'] = "Dodano właściwości grupy ustawień #{1} ({2})";
@@ -218,6 +223,8 @@ $l['admin_log_tools_index_utf8_conversion'] = "Skonwertowano tabele {1} do UTF-8
 
 $l['admin_log_tools_mailerrors_prune'] = "Wyczyszczono {1} raportów o błędach e-mail";
 
+$l['admin_log_tools_maillogs_prune'] = "Wyczyszczono {1} logów e-mail";
+
 $l['admin_log_tools_optimizedb_'] = "Zoptymalizowano tabele bazy danych: {1}";
 
 $l['admin_log_tools_php_info_phpinfo'] = "Obejrzano PHP Info";
@@ -236,12 +243,20 @@ $l['admin_log_tools_recount_rebuild_privatemessages'] = "Przeliczono i przebudow
 $l['admin_log_tools_recount_rebuild_referral'] = "Przeliczono i przebudowano liczniki poleconych użytkowników";
 $l['admin_log_tools_recount_rebuild_threadrating'] = "Przeliczono i przebudowano oceny wątków";
 
+$l['admin_log_tools_spamlog_prune'] = "Wyczyszczono {4} logów spamu starszych niż {1} dni";
+$l['admin_log_tools_spamlog_prune_user'] = "Wyczyszczono {4} logów spamu starszych niż {1} dni, z użytkownikiem {2}";
+$l['admin_log_tools_spamlog_prune_email'] = "Wyczyszczono {4} logów spamu starszych niż {1} dni, z adresem e-mail {3}";
+$l['admin_log_tools_spamlog_prune_user_email'] = "Wyczyszczono {4} logów spamu starszych niż {1} dni, z użytkownikiem {2} i adresem e-mail {3}";
+
 $l['admin_log_tools_tasks_add'] = "Dodano zadanie #{1} ({2})";
 $l['admin_log_tools_tasks_edit'] = "Edytowano zadanie #{1} ({2})";
 $l['admin_log_tools_tasks_delete'] = "Usunięto zadanie #{1} ({2})";
 $l['admin_log_tools_tasks_enable'] = "Włączono zadanie #{1} ({2})";
 $l['admin_log_tools_tasks_disable'] = "Wyłączono zadanie #{1} ({2})";
 $l['admin_log_tools_tasks_run'] = "Uruchomiono zadanie #{1} ({2})";
+
+$l['admin_log_user_awaiting_activation_activate_activated'] = "Aktywowano {2} konta użytkowników";
+$l['admin_log_user_awaiting_activation_activate_deleted'] = "Usunięto {2} konta użytkowników";
 
 $l['admin_log_user_admin_permissions_delete_user'] = "Usunięto uprawnienia administratorskie dla użytkownika #{1} ({2})";
 $l['admin_log_user_admin_permissions_delete_group'] = "Usunięto uprawnienia administratorskie dla grupy użytkowników #{1} ({2})";

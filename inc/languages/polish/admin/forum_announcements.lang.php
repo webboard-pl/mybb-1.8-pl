@@ -1,10 +1,11 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 $l['forum_announcements'] = "Ogłoszenia";
 $l['forum_announcements_desc'] = "Zarządzaj ogłoszeniami na swoim forum. Ogłoszenia globalne będą widoczne w każdym dziale, zaś te, które przypiszesz do konkretnego działu będą widoczne tylko w nim i jego poddziałach.";
@@ -53,3 +54,4 @@ $l['time'] = "Godzina:";
 $l['set_time'] = "Ustaw datę";
 
 $l['announcement_preview'] = 'Podgląd ogłoszenia';
+

@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['nav_portal'] = "Portal";
@@ -28,7 +28,6 @@ $l['num_threads'] = "Wątków na forum:";
 $l['num_posts'] = "Postów na forum:";
 $l['full_stats'] = "Pełne statystyki";
 $l['welcome'] = "Witaj, {1}";
-$l['guest'] = "Gość";
 $l['guest_welcome_registration'] = "Musisz się <a href=\"{1}\">zarejestrować</a> przed napisaniem posta.";
 $l['username'] = "Użytkownik";
 $l['password'] = "Hasło";

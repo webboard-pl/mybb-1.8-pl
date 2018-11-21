@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['delete_poll'] = "Usuń ankietę";
@@ -47,8 +47,9 @@ $l['vote'] = "Zagłosuj";
 $l['total_votes'] = "{1} głosów";
 $l['you_voted'] = "*) odpowiedź wybrana przez Ciebie";
 $l['poll_closed'] = "Ankieta jest zamknięta.";
-$l['poll_closes'] = "Ankieta zostanie zamknięta {1}";  
+$l['poll_closes'] = "Ankieta zostanie zamknięta {1}";
 $l['already_voted'] = "Już głosowano w tej ankiecie.";
+$l['no_voting_permission'] = "Nie posiadasz uprawnień, aby oddać głos w tej ankiecie.";
 $l['undo_vote'] = "Cofnij głos";
 $l['quick_reply'] = "Szybka odpowiedź";
 $l['message_note'] = "Wpisz tutaj swoją odpowiedź.";
@@ -107,3 +108,5 @@ $l['quick_delete_success'] = 'Post został usunięty.';
 $l['quick_delete_thread_success'] = 'Wątek został usunięty.';  
 $l['quick_restore_error'] = 'Podczas przywracania odpowiedzi wystąpił błąd:';  
 $l['quick_restore_success'] = 'Post został przywrócony.';  
+
+$l['post_deleted_error'] = 'Nie możesz wykonać tej czynności w usuniętym poście.'; 

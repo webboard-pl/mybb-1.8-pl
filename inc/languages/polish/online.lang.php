@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['nav_online'] = "Kto jest online";
@@ -23,7 +23,7 @@ $l['editing_post'] = "Edytuje post";
 $l['viewing_forum'] = "Przegląda dział";
 $l['viewing_forum2'] = "Przegląda dział <a href=\"{1}\">{2}</a>";
 $l['forum_redirect_to'] = "Jest przekierowywany do: <a href=\"{1}\">{2}</a>";
-$l['viewing_index'] = "Przegląda <a href=\"index.php\">stronę główną forum</a>";
+$l['viewing_index'] = "{1} <a href=\"index.php\">strona główna forum</a>";
 $l['activating_account'] = "Aktywuje konto";
 $l['viewing_profile'] = "Przegląda profil";
 $l['viewing_profile2'] = "Przegląda profil <a href=\"{1}\">{2}</a>";
@@ -33,6 +33,7 @@ $l['logging_in_plain'] = "Loguje się";
 $l['logging_out'] = "Wylogowuje się";
 $l['emailing_user'] = "Pisze e-mail";
 $l['rating_user'] = "Ocenia użytkownika";
+$l['viewing_memberlist'] = "Przegląda <a href=\"memberlist.php\">Listę użytkowników</a>";
 $l['viewing_buddylist'] = 'Przegląda <a href="#" onclick="MyBB.popupWindow(\'/misc.php?action=buddypopup&amp;modal=1\'); return false;">listę znajomych</a>';
 $l['viewing_whoposted'] = "Przegląda \"Kto napisał\"";
 $l['viewing_whoposted2'] = "Przegląda \"Kto napisał\" w wątku <a href=\"showthread.php?tid={1}\">{2}</a>";
@@ -79,7 +80,6 @@ $l['viewing_reputation_report2'] = "Przegląda informacje o reputacji";
 $l['member_resendactivation'] = "Przesyła sobie e-mail aktywujący";
 $l['member_lostpw'] = "Przywraca <a href=\"member.php?action=lostpw\">zapomniane hasło</a>";
 $l['sending_thread'] = "Wysyła wątek znajomemu";
-$l['guest'] = "Gość";
 $l['page'] = "Strona";
 $l['users_online'] = "Kto jest online";
 $l['on_username'] = "Użytkownik";
@@ -99,7 +99,7 @@ $l['online_count'] = "{1} {2} w ciągu ostatnich {3} minut ({4} {5}, {6} {7} i {
 $l['ip'] = "IP:";
 $l['resolves_to'] = "Nazwa hosta:";
 $l['if_resolvable'] = "(jeśli możliwe)";
-$l['admin_options'] = "Opcje administratora:";
+$l['admin_options'] = "Opcje administratora";
 $l['search_regip_users'] = "Szukaj użytkowników, którzy rejestrowali się z tego IP";
 $l['search_postip_users'] = "Szukaj użytkowników, którzy pisali z tego IP";
 $l['lookup'] = "[więcej]";
@@ -133,4 +133,3 @@ $l['changing_dst'] = "Zmienia ustawienia czasu letniego";
 $l['printing_thread'] = "Drukuje wątek";
 $l['printing_thread2'] = "Drukuje wątek <a href=\"{1}\">{2}</a>";
 $l['managing_buddyignorelist'] = "Zarządza listą znajomych/ignorowanych";
-$l['viewing_memberlist'] = 'Przegląda <a href="memberlist.php">listę użytkowników</a>';

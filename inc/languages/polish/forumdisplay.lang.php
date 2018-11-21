@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['post_thread'] = "Napisz wątek";
@@ -48,7 +48,7 @@ $l['new_hot_thread'] = "Popularny wątek (nowe)";
 $l['posts_by_you'] = "Zawiera Twoje posty";
 $l['no_new_thread'] = "Brak nowych postów";
 $l['hot_thread'] = "Popularny wątek (brak nowych)";
-$l['locked_thread'] = "Zamknięty wątek";
+$l['closed_thread'] = "Zamknięty wątek";
 $l['goto_first_unread'] = "Idź do pierwszego nieprzeczytanego postu";
 $l['pages'] = "Stron:";
 $l['pages_last'] = "ostatnia";
@@ -71,7 +71,7 @@ $l['inline_go'] = "OK";
 $l['clear'] = "Wyczyść";
 $l['sub_forums_in'] = "Poddziały w \"{1}\"";
 $l['forum_rules'] = "{1} - Regulamin";
-$l['subforums'] = "<strong>Poddziały:</strong>";
+$l['subforums'] = "Poddziały:";
 $l['asc'] = "rosn.";
 $l['desc'] = "mal.";
 $l['forum_announcements'] = "Ogłoszenia";
@@ -81,7 +81,7 @@ $l['icon_dot'] = "Zawiera posty napisane przez Ciebie.";
 $l['icon_no_new'] = "Brak nowych postów.";
 $l['icon_new'] = "Nowe posty.";
 $l['icon_hot'] = " Popularny wątek";
-$l['icon_lock'] = " Zamknięty wątek";
+$l['icon_close'] = " Zamknięty wątek";
 $l['attachment_count'] = "Ten wątek zawiera 1 załącznik.";
 $l['attachment_count_multiple'] = "Ten wątek zawiera {1} załączników.";
 $l['rss_discovery_forum'] = "Ostatnie wątki w {1}";
@@ -95,7 +95,9 @@ $l['page_selected'] = "Wybrano wszystkie <strong>{1}</strong> wątki na tej stro
 $l['all_selected'] = "Wybrano wszystkie <strong>{1}</strong> wątki w tym dziale.";
 $l['select_all'] = "Zaznacz wszystkie <strong>{1}</strong> wątki w tym dziale.";
 $l['clear_selection'] = "Wyczyść zaznaczenie.";
+$l['deleted_thread'] = "Wątek usunięty.";
 
 $l['error_containsnoforums'] = "Dział, który aktualnie przeglądasz, nie zawiera poddziałów.";
 
 $l['inline_edit_description'] = '(Kliknij i przytrzymaj, aby edytować)';
+

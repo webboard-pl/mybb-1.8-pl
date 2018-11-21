@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['nav_newreply'] = "Odpowiedź";
@@ -24,7 +24,7 @@ $l['close_thread'] = "<strong>Zamknij wątek</strong>: nikt nie będzie mógł o
 $l['stick_thread'] = "<strong>Przypnij wątek:</strong> wątek będzie widoczny na górze działu.";
 $l['forum_rules'] = "{1} - zasady działu";
 $l['thread_review'] = "Podgląd wątku (od najnowszej odpowiedzi)";
-$l['thread_review_more'] = "Ten wątek ma jeszcze {1} odpowiedzi. <a href=\"{2}\">Przeczytaj całość.</a>";
+$l['thread_review_more'] = "Ten wątek ma jeszcze {1} odpowiedzi. <a href=\"{2}\" target=\"_blank\">Przeczytaj całość.</a>";
 $l['posted_by'] = "Napisane przez";
 $l['draft_saved'] = "Nowy szkic posta został zapisany.<br />Teraz nastąpi przeniesienie do listy Twoich szkiców.";
 $l['error_post_already_submitted'] = "Napisano już wcześniej identyczną odpowiedź.";

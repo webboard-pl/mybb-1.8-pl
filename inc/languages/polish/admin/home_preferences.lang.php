@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['preferences_and_personal_notes'] = "Ustawienia ACP i prywatne notatki";
@@ -23,8 +23,9 @@ $l['use_codemirror_desc'] = "Zaznacz \"Nie\", by wyłączyć Code Mirror (narzę
 
 $l['success_preferences_updated'] = "Ustawienia zostały zaktualizowane.";
 
-$l['use_2fa_desc'] = "Weryfikacja dwuetapowa to metoda zabezpieczenia Twojego konta administratora. Po jej włączeniu zobaczysz poniżej kod QR, który musisz zeskanować korzystając z aplikacji takiej jak <a href=\"http://docs.mybb.com/1.8/administration/security/2fa/\" target=\"_blank\">Google Authenticator czy Authy</a>. Aplikacja ta wygeneruje kod, którego wpisanie będzie wymagane każdorazowo podczas logowania do panelu administratora.";
+$l['use_2fa_desc'] = "Weryfikacja dwuetapowa to metoda zabezpieczenia Twojego konta administratora. Po jej włączeniu zobaczysz poniżej kod QR, który musisz zeskanować korzystając z aplikacji takiej jak <a href=\"https://docs.mybb.com/1.8/administration/security/2fa/\" target=\"_blank\" rel=\"noopener\">Google Authenticator czy Authy</a>. Aplikacja ta wygeneruje kod, którego wpisanie będzie wymagane każdorazowo podczas logowania do panelu administratora.";
 $l['my2fa_qr'] = "Kod weryfikacji dwuetapowej";
 $l['recovery_codes_desc'] = "Zobacz swoje <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">kody zapasowe</a>.";
 $l['recovery_codes'] = "Kody zapasowe";
 $l['recovery_codes_warning'] = "<b>Uwaga:</b> kody zapasowe są regenerowane przy każdej wizycie na tej stronie i mogą być użyte jedynie raz.";
+$l['print_recovery_codes'] = "Wydrukuj kody zapasowe";

@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['nav_deletethread'] = "Usuwanie wątku";
@@ -82,11 +82,13 @@ $l['post_separator'] = "Separator postów";
 $l['new_line'] = "Wolna linijka";
 $l['horizontal_rule'] = "Pozioma linia";
 $l['resolve_fail'] = "(host nieznany)";
+$l['time'] = "Czas:";
 
 $l['opened'] = "Otwarty";
 $l['closed'] = "Zamknięty";
 $l['stuck'] = "Przypięty";
 $l['unstuck'] = "Odpięty";
+$l['error'] = "Błąd!";
 $l['mod_process'] = "Wątek {1}";
 $l['redirects_removed'] = "Usunięto przekierowanie";
 $l['thread_deleted'] = "Usunięto wątek: {1}";
@@ -171,11 +173,14 @@ $l['error_nosplitposts'] = "Nie możesz wydzielić postów, bo nic nie zaznaczon
 $l['error_movetosameforum'] = "Wskazany wątek istnieje już w tym dziale. Wybierz inny dział.";
 $l['error_mergewithself'] = "Łączenie wątków nie powiodło się.<br />Wróć i wprowadź prawidłowy URL.";
 $l['error_movetoself'] = "Nie można przenieść postów do tego samego wątku.<br />Wróć i wprowadź prawidłowy URL.";
-$l['error_delayedmoderation_unsupported_type'] = "Nie wybrano prawidłowego typu akcji dla opóźnionej moderacji.";
+$l['error_movetononmodforum'] = "Nie możesz przenieś tego tematu do forum, gdzie nie jesteś moderatorem lub nie masz uprawnień, aby je oglądać.";
+$l['error_delayedmoderation_unsupported_type'] = "Nie wybrano prawidłowego typu akcji dla opóźnionej moderacji lub nie masz uprawnień, aby to zrobić.";
 $l['error_delayedmoderation_unsupported_method'] = "Nie wybrano prawidłowej metody przeniesienia dla tej akcji opóźnionej moderacji.";
 $l['error_delayedmoderation_invalid_date_day'] = "Nie wprowadzono prawidłowego dnia dla akcji opóźnionej moderacji.";
 $l['error_delayedmoderation_invalid_date_month'] = "Nie wprowadzono prawidłowego miesiąca dla akcji opóźnionej moderacji.";
 $l['error_delayedmoderation_invalid_date_year'] = "Nie wprowadzono prawidłowego roku dla akcji opóźnionej moderacji.";
+$l['error_thread_deleted'] = "Wątek docelony został usunięty w sposób nietrwały. Aby wykonać tę akcję, musisz najpierw przywrócić wątek.";
+
 
 $l['redirect_pollnotdeleted'] = "Ankieta nie została usunięta, gdyż nie zaznaczono pola \"Usuń\".<br />Teraz nastąpi przeniesienie do wątku.";
 $l['redirect_polldeleted'] = "Ankieta została usunięta.<br />Teraz nastąpi przeniesienie do wątku.";

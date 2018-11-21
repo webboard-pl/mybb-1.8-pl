@@ -1,9 +1,13 @@
 <?php
 /**
+ * MyBB 1.8 English Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
+ *
+/**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['nav_group_management'] = "Zarządzanie grupą {1}";
@@ -61,4 +65,6 @@ $l['invite_pm_message_expires'] = "Masz nowe zaproszenie do dołączenia do grup
 
 Aby do niej dołączyć, przejdź do sekcji [url={2}/usercp.php?action=usergroups]Grupy użytkowników[/url] w panelu użytkownika i kliknij \"Akceptuj\".
 
+
 To zaproszenie wygaśnie za {3} dni.";
+

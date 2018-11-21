@@ -1,10 +1,15 @@
 <?php
 /**
+ * MyBB 1.8 English Language Pack
+ * Copyright 2014 MyBB Group, All Rights Reserved
+ *
+/**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 $l['nav_register'] = "Rejestracja";
 $l['nav_activate'] = "Aktywacja";
@@ -54,15 +59,14 @@ $l['find_posts'] = "Znajdź wszystkie posty";
 $l['find_threads'] = "Znajdź wszystkie wątki";
 $l['members_referred'] = "Poleconych użytkowników:";
 $l['rating'] = "Ocena:";
-$l['users_contact_details'] = "Dane kontaktowe";
+$l['users_contact_details'] = "Dane kontaktowe użytkownika {1}";
 $l['homepage'] = "Strona domowa:";
 $l['pm'] = "Prywatna wiadomość:";
-$l['send_pm'] = "Wyślij prywatną wiadomość.";
+$l['send_pm'] = "Wyślij prywatną wiadomość do użytkownika {1}";
 $l['icq_number'] = "Numer ICQ:";
-$l['aim_screenname'] = "Nazwa użytkownika AIM:";
 $l['yahoo_id'] = "Identyfikator Yahoo:";
 $l['skype_id'] = "Identyfikator Skype:";
-$l['google_id'] = "Identyfikator Google Talk:";
+$l['google_id'] = "Identyfikator Google Hangouts:";
 $l['avatar'] = "Awatar:";
 $l['warning_level'] = "Poziom ostrzeżeń:";
 $l['warn'] = "Ostrzeż";
@@ -78,8 +82,8 @@ $l['ban_remaining'] = "pozostały";
 
 $l['users_additional_info'] = "Dodatkowe informacje o {1}";
 $l['email'] = "E-mail:";
-$l['send_user_email'] = "E-mail.";
-$l['users_signature'] = "Sygnatura";
+$l['send_user_email'] = "Wyślij e-mail do użytkownika {1}";
+$l['users_signature'] = "Sygnatura użytkownika {1}";
 $l['agreement'] = "Regulamin forum";
 $l['agreement_1'] = "Na forum zabrania się publikowania treści prowokacyjnych, obraźliwych, erotycznych, rasistowskich, faszystowskich itp. Zabrania się również pisania zbędnych, nie wnoszących nic do tematu wypowiedzi.";
 $l['agreement_2'] = "Rejestrując się na tym forum dyskusyjnym oświadczasz, że masz świadomość iż <b>NIE WOLNO</b> Ci pisać postów łamiących te zasady.";
@@ -88,7 +92,7 @@ $l['agreement_4'] = "Żadne z Twoich danych podanych podczas rejestracji na foru
 $l['agreement_5'] = "Kontynuując rejestrację oświadczasz, że zgadzasz się ze wszystkimi wymienionymi powyżej postanowieniami oraz innymi regułami ustalonymi przez administratorów tego forum. W celu poznania pełnych reguł obowiązujących na forum, skontaktuj się z administratorem.";
 $l['registration'] = "Rejestracja";
 $l['required_fields'] = "Wymagane pola";
-$l['complex_password'] = "<acronym title=\"Hasło, które składa się co najmniej z {1} znaków i zawiera co najmniej jedną dużą literę, jedną małą literę i jedną cyfrę.\">Złożone</acronym> hasło:";
+$l['complex_password'] = "<abbr title=\"Hasło, które składa się co najmniej z {1} znaków i zawiera co najmniej jedną dużą literę, jedną małą literę i jedną cyfrę.\">Złożone</abbr> hasło:";
 $l['confirm_email'] = "Potwierdź e-mail:";
 $l['optional_fields'] = "Opcjonalne pola";
 $l['website_url'] = "Strona WWW:";
@@ -113,7 +117,8 @@ $l['dst_correction_enabled'] = "Zawsze używaj DST";
 $l['dst_correction_disabled'] = "Nigdy nie używaj DST";
 $l['redirect_registered_coppa_activate'] = "Dziękujemy za rejestrację w {1}, {2}. Konto zostało utworzone, ale ponieważ nie spełniasz wymogu ukończenia 13 roku życia, musisz dostarczyć zgodę rodziców na używanie tego konta.<br /><br />Twój rodzic lub prawny opiekun musi pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\">formularza COPPA</a>.<br /><br />Gdy dotrze do nas wypełniony formularz, Twoje konto zostanie aktywowane.";
 $l['coppa_compliance'] = "COPPA";
-$l['coppa_desc'] = "Aby zarejestrować Cię na tym forum, musimy sprawdzić, czy spełniasz warunki <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\">COPPA</a>. Podaj swoją datę urodzenia.<br /><br />Jeżeli masz mniej niż 13 lat, do rejestracji będzie wymagana zgoda rodziców. Twój rodzic lub prawny opiekun będzie musiał pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\">formularza COPPA</a>.";
+$l['coppa_desc'] = "Aby zarejestrować Cię na tym forum, musimy sprawdzić, czy spełniasz warunki <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. Podaj swoją datę urodzenia.<br /><br />Jeżeli masz mniej niż 13 lat, do rejestracji będzie wymagana zgoda rodziców. Twój rodzic lub prawny opiekun będzie musiał pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\" rel=\"noopener\">formularza COPPA</a>.";
+$l['coppa_desc_for_deny'] = "Aby zarejestrować Cię na tym forum, wymagamy weryfikacji wieku zgodnej z <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. Podaj swoją datę urodzenia.";
 $l['hide_dob'] = "Edytując swój profil po zarejestrowaniu będziesz mieć możliwość ukrycia swojej daty urodzenia.";
 $l['signature'] = "Sygnatura:";
 $l['continue_registration'] = "Kontynuuj rejestrację";
@@ -135,7 +140,7 @@ $l['phone_no'] = "Nr telefonu:";
 $l['coppa_parent_agreement'] = "Potwierdzam prawdziwość podanych przeze mnie informacji. Rozumiem, że będą one mogły być zmienione po podaniu przeze mnie poprawnego hasła, a także że istnieje możliwość usunięcia mojego konta na żądanie.";
 
 $l['coppa_agreement_1'] = "Użytkownicy poniżej 13 roku życia muszą otrzymać zezwolenie rodzica lub prawnego opiekuna na rejestrację w {1}.";
-$l['coppa_agreement_2'] = "Rodzic lub prawny opiekun będzie musiał pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\">formularza COPPA</a> przed dokonaniem rejestracji.";
+$l['coppa_agreement_2'] = "Rodzic lub prawny opiekun będzie musiał pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\" rel=\"noopener\">formularza COPPA</a> przed dokonaniem rejestracji.";
 $l['coppa_agreement_3'] = "Jeżeli chcesz, możesz teraz rozpocząć proces rejestracji, ale konto będzie dostępne dopiero po spełnieniu wyżej wymienionych warunków.";
 
 $l['error_invalid_birthday'] = 'Podana data urodzin jest niepoprawna. Wybierz poprawną datę.';
@@ -176,6 +181,8 @@ $l['edit_usernotes'] = "Edytuj notatki o użytkowniku w panelu moderatora";
 $l['no_usernotes'] = "Nie ma notatek o tym użytkowniku";
 $l['view_all_notes'] = "Przeglądaj wszystkie notatki";
 $l['view_notes_for'] = "Przeglądaj notatki o użytkowniku {1}";
+$l['registration_ip'] = "IP rejestracji:";
+$l['last_known_ip'] = "Ostatnie znane IP:";
 $l['reputation'] = "Reputacja:";
 $l['reputation_vote'] = "Oceń";
 $l['reputation_details'] = "Szczegóły";
@@ -222,6 +229,7 @@ $l['js_validator_no_security_question'] = "Musisz odpowiedzieć na powyższe pyt
 $l['js_validator_password_matches'] = "Podane hasła nie zgadzają się";
 $l['js_validator_password_complexity'] = "Sprawdzanie złożoności hasła";
 $l['js_validator_password_length'] = "Hasło musi zawierać przynajmniej {1} znaków";
+$l['js_validator_bad_password_security'] = 'Podane hasło jest podobne do nazwy użytkownika lub adresu e-mail. Wprowadź mocniejsze hasło.';
 $l['js_validator_not_empty'] = "Nie możesz pozostawić tego pola pustego";
 $l['js_validator_checking_username'] = "Sprawdzam czy login jest dostępny...";
 $l['js_validator_username_length'] = "Login musi zawierać od {1} do {2} znaków";

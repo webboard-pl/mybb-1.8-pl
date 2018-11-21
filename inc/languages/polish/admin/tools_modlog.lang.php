@@ -1,10 +1,11 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 
 $l['mod_logs'] = "Logi moderacji";
@@ -15,6 +16,7 @@ $l['prune_mod_logs_desc'] = "Usuwaj logi czynności moderatorskich spełniające
 $l['no_modlogs'] = "Nie ma logów spełniających wybrane kryteria.";
 
 $l['username'] = "Użytkownik";
+$l['na_deleted'] = "N/A - został usunięty";
 $l['date'] = "Data";
 $l['action'] = "Polecenie";
 $l['information'] = "Informacja";

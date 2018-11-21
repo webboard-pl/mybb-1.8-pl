@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['nav_memberlist'] = "Użytkownicy";
@@ -40,9 +40,8 @@ $l['search_criteria'] = "Kryteria wyszukiwania";
 $l['begins_with'] = "zaczyna się na";
 $l['username_contains'] = "zawiera";
 $l['search_website'] = "Strona domowa";
-$l['search_aim'] = "Nazwa użytkownika AIM";
 $l['search_skype'] = "Nazwa użytkownika Skype";
-$l['search_google'] = "Adres Google Talk";
+$l['search_google'] = "Adres Google Hangouts";
 $l['search_yahoo'] = "Nazwa użytkownika Yahoo! Messenger";
 $l['search_icq'] = "Numer ICQ";
 $l['search_options'] = "Opcje wyszukiwania";

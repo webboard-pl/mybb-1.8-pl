@@ -1,10 +1,12 @@
 <?php
+
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+ 
 
 // Help Document 1
 $l['d1_name'] = "Rejestracja";
@@ -59,8 +61,8 @@ $l['d7_document'] = "Możesz używać MyCode - to uproszczona wersja HTML.
 <p>[email=mojemail@serwer.pl?subject=temat]e-mail z tematem[/email]<br/>&#160;&#160;&#160;<a href=\"mailto:mojemail@serwer.pl?subject=temat\">email z tematem</a>
 <p><br/>[quote]Cytat[/quote]<br/>&#160;&#160;&#160;<quote>Cytat</quote>
 <p>[code]kod[/code]<br/>&#160;&#160;&#160;<code>kod</code>
-<p><br/>[img]http://www.php.net/images/php.gif[/img]<br/>&#160;&#160;&#160;<img src=\"http://www.php.net/images/php.gif\">
-<p>[img=50x50]http://www.php.net/images/php.gif[/img]<br/>&#160;&#160;&#160;<img src=\"http://www.php.net/images/php.gif\" width=\"50\" height=\"50\">
+<p><br/>[img]https://secure.php.net/images/php.gif[/img]<br/>&#160;&#160;&#160;<img src=\"https://secure.php.net/images/php.gif\">
+<p>[img=50x50]https://secure.php.net/images/php.gif[/img]<br/>&#160;&#160;&#160;<img src=\"https://secure.php.net/images/php.gif\" width=\"50\" height=\"50\">
 <p><br/>[color=red]Czerwony kolor[/color]<br/>&#160;&#160;&#160;<font color=\"red\">Czerwony kolor</font>
 <p>[size=medium]Rozmiar medium[/size]<br/>&#160;&#160;&#160;<span style='font-size: medium;'>Rozmiar medium</span>
 <p>[font=Tahoma]Czcionka Tahoma[/font]<br/>&#160;&#160;&#160;<font face=\"Tahoma\">Czcionka Tahoma</font>
@@ -69,3 +71,4 @@ $l['d7_document'] = "Możesz używać MyCode - to uproszczona wersja HTML.
 <p><br/>[list]<br />[*]Punkt #1<br/>[*]Punkt #2<br/>[*]Punkt #3<br/>[/list]<br/><ul><li>Punkt #1</li><li>Punkt #2</li><li>Punkt #3</li>
 </ul>
 <p>Możesz również ustalić typ punktowania - dostępne typy: liczbowy [list=1] i alfabetyczny [list=a].</p>";
+

@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['nav_profile'] = "Profil: {1}";
@@ -16,7 +16,7 @@ $l['already_expired'] = "Przedawnione";
 $l['details_username'] = "Użytkownik";
 $l['warning_active'] = "Aktywne";
 $l['warning_revoked'] = "Cofnięte";
-$l['warning_log'] = "Log ostrzeżeń";
+$l['warning_log'] = "Logi ostrzeżeń";
 $l['warning'] = "Ostrzeżenie";
 $l['issued_by'] = "Wystawione przez";
 $l['date_issued'] = "Data wystawienia";
@@ -59,16 +59,8 @@ $l['redirect_warned_moderate'] = "<br /><br />Wszystkie posty tego użytkownika 
 $l['redirect_warned_pmerror'] = "<br /><br />Wiadomość nie została wysłana.";
 $l['redirect_warned'] = "Poziom ostrzeżeń użytkownika {1} został podniesiony do {2}%.{3}<br /><br />Teraz nastąpi przeniesienie do poprzedniej lokalizacji.";
 $l['error_warning_system_disabled'] = "Nie możesz używać systemu ostrzeżeń, bo został on wyłączony przez administratora.";
-//$l['reached_max_warnings_day'] = "Nie możesz ostrzec żadnego użytkownika, bo przekroczono już dzienny limit dodanych ostrzeżeń.<br /><br />Możesz dodać maksymalnie {1} ostrzeżeń dziennie.";
-//$l['user_reached_max_warning'] = "Nie możesz ostrzec tego użytkownika, bo osiągnął on już maksymalny poziom ostrzeżeń.";
-$l['error_cant_warn_group'] = "Nie masz uprawnień do udzielania ostrzeżeń członkom tej grupy.";
-//$l['error_no_note'] = "Nie wpisano notatki administracyjnej dla tego ostrzeżenia.";
-//$l['error_invalid_type'] = "Wybrany typ ostrzeżenia jest nieprawidłowy.";
+$l['error_cant_warn_group'] = "Nie masz uprawnień do udzielania ostrzeżeń członkom tej grupy..";
 $l['error_invalid_user'] = "Wybrany użytkownik nie istnieje.";
-//$l['error_invalid_post'] = "Wybrany post nie istnieje.";
-//$l['error_cant_custom_warn'] = "Twoje uprawnienia pozwalają na dodawanie ostrzeżeń tylko typu ustalonego przez administratora. Wybierz typ ostrzeżenia z listy.";
-//$l['error_no_custom_reason'] = "Nie podano powodu ostrzeżenia.";
-//$l['error_invalid_custom_points'] = "Wpisana liczba punktów ostrzeżenia jest niepoprawna. Powinna ona być większa niż 0, ale nie większa niż {1}.";
 $l['details'] = "Szczegóły";
 $l['view'] = "Zobacz";
 $l['current_warning_level'] = "Aktualny poziom ostrzeżeń: <strong>{1}%</strong> ({2}/{3})";
@@ -93,6 +85,5 @@ $l['week_or_weeks'] = "tygodni";
 $l['month_or_months'] = "miesięcy";
 $l['expires'] = "Przedawni się:";
 $l['new_warning_level'] = "Nowy poziom ostrzeżeń:";
-//$l['cannot_warn_self'] = "Nie możesz zwiększyć własnego poziomu ostrzeżeń.";
 $l['error_cant_warn_user'] = "Nie masz uprawnień do dodawania ostrzeżeń temu użytkownikowi.";
 $l['existing_post_warnings'] = "Ostrzeżenia za ten post";

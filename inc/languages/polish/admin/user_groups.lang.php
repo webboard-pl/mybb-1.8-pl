@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['user_groups'] = "Grupy użytkowników";
@@ -123,10 +123,11 @@ $l['can_edit_posts'] = "Mogą edytować własne posty?";
 $l['can_delete_posts'] = "Mogą usuwać własne posty?";
 $l['can_delete_threads'] = "Mogą usuwać własne wątki?";
 $l['can_edit_attachments'] = "Mogą aktualizować własne załączniki?";
+$l['can_view_deletion_notices'] = "Może wyświetlać usunięte powiadomienia?";
 $l['account_management'] = "Zarządzanie kontem";
 $l['edit_time_limit'] = "Ograniczenie czasu na edycję";
 $l['edit_time_limit_desc'] = "Jeżeli chcesz ograniczyć czasowo możliwość edytowania postów przez użytkowników z tej grupy (jeśli pozwalają im na to ustawienia grupy) wprowadź tutaj, przez jaki czas mają oni mieć taką możliwość (w minutach). Jeżeli nie chcesz ustalać limitu, wpisz 0.";
-$l['can_be_reported'] = "Mogą być zgłaszani przez innych?";
+$l['can_be_reported'] = "Mogą być zgłaszani przez innych (profil, posty i reputacja)?";
 $l['can_access_usercp'] = "Mają dostęp do paneli użytkowników?";
 $l['can_change_username'] = "Mogą zmieniać swoje loginy?";
 $l['can_change_website'] = "Mogą zmieniać swoją stronę WWW?";
@@ -209,6 +210,8 @@ $l['error_cannot_have_both_types'] = "Nie można dodać grupy, w której dołąc
 
 $l['success_group_created'] = "Nowa grupa użytkowników została utworzona.";
 $l['success_group_updated'] = "Wybrana grupa użytkowników została zaktualizowana.";
+$l['success_group_created_duplicate_title'] = "Nowa grupa użytkowników została stworzona pomyślnie. Pamiętaj, że istnieje już grupa użytkowników o nazwie \"{1}\".";
+$l['success_group_updated_duplicate_title'] = "Wybrana grupa użytkowników została pomyślnie zaktualizowana. Pamiętaj, że istnieje już grupa użytkowników o nazwie \"{1}\".";
 $l['success_group_deleted'] = "Wybrana grupa użytkowników została usunięta.";
 $l['success_groups_disporder_updated'] = "Kolejność grup została zaktualizowana.";
 $l['success_join_request_approved'] = "Wybrany wniosek został przyjęty. Użytkownik został dodany do grupy.";

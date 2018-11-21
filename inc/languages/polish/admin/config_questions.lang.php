@@ -1,10 +1,11 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 $l['security_questions'] = "Pytania zabezpieczające";
 $l['security_questions_desc'] = "Dodawaj i zarządzaj pytaniami zabezpieczającymi, które będą losowo pokazywane podczas rejestracji.";
@@ -14,6 +15,7 @@ $l['edit_question'] = "Edytuj pytanie";
 $l['edit_question_desc'] = "Edytuj pytanie i akceptowane odpowiedzi na nie.";
 
 $l['options'] = "Opcje";
+$l['shown'] = "Pokazane";
 $l['correct'] = "Poprawnie";
 $l['incorrect'] = "Niepoprawnie";
 $l['disable_question'] = "Wyłącz pytanie";

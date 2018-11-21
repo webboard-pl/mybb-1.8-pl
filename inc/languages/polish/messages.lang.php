@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['click_no_wait'] = "Kliknij tutaj, jeśli nie chcesz czekać.";
@@ -15,7 +15,7 @@ $l['error_invalidpworusername']  = "Wprowadzono nieprawidłowy login i/lub hasł
 $l['error_invalidpworusername1'] = "Wprowadzono nieprawidłowy adres e-mail i/lub hasło.<br /><br />Jeżeli nie pamiętasz swojego hasła, <a href=\"member.php?action=lostpw\">kliknij tutaj</a>, aby wygenerować nowe.";
 $l['error_invalidpworusername2'] = "Wprowadzono nieprawidłowy login lub adres e-mail i/lub hasło.<br /><br />Jeżeli nie pamiętasz swojego hasła, <a href=\"member.php?action=lostpw\">kliknij tutaj</a>, aby wygenerować nowe.";
 $l['error_incompletefields'] = "Nie wypełniono któregoś z wymaganych pól. Wróć i wypełnij wszystkie wymagane pola.";
-$l['error_alreadyuploaded'] = "Plik o takiej nazwie został już raz wysłany. Zmień nazwę pliku i spróbuj ponownie. Alternatywnie możesz kliknąć na przycisk \"Aktualizuj załącznik\".";
+$l['error_alreadyuploaded'] = "Plik o nazwie \"{1}\" został już raz wysłany. Zmień nazwę pliku i spróbuj ponownie. Alternatywnie możesz kliknąć na przycisk \"Aktualizuj załącznik\".";
 $l['error_alreadyuploaded_perm'] = "Ten post zawiera już plik o takiej samej nazwie. Usuń poprzedni plik lub zmień nazwę pliku, który próbujesz wysłać, i spróbuj ponownie.";
 $l['error_nomessage'] = "Nie podano treści wiadomości. Wróć i wpisz wiadomość.";
 $l['error_invalidemail'] = "Musisz wprowadzić prawidłowy adres e-mail.";
@@ -29,8 +29,8 @@ $l['error_invalidattachment'] = "Załącznik nie istnieje.";
 $l['error_invalidforum'] = "Nieprawidłowy dział";
 $l['error_closedinvalidforum'] = "Nie możesz napisać wątku w zamkniętym dziale ani w zamkniętej kategorii.";
 $l['error_attachtype'] = "Typ pliku, który załączono, nie jest obsługiwany. Usuń załącznik i spróbuj ponownie.";
-$l['error_attachsize'] = "Plik załącznika jest za duży. Maksymalny rozmiar pliku to {1} kilobajtów.";
-$l['error_uploadempty'] = "Wybrany plik jest pusty.";
+$l['error_attachsize'] = "Plik załącznika \"{1}\" jest za duży. Maksymalny rozmiar pliku to {2} kilobajtów.";
+$l['error_uploadempty'] = "Plik \"{1}\" jest pusty.";
 $l['error_uploadsize'] = "Plik, który próbujesz załączyć jest za duży.";
 $l['error_uploadfailed'] = "Plik nie został załadowany. Wybierz prawidłowy plik i spróbuj ponownie. ";
 $l['error_uploadfailed_detail'] = "Szczegóły błędu: ";
@@ -187,6 +187,8 @@ Ta wiadomość została wysłana do wszystkich moderatorów tego działu (jeśli
 
 Sprawdź ten punkt reputacji";
 
+$l['email_report_comment_extra'] = "{1}: {2}";
+
 $l['email_passwordreset'] = "{1},
 
 Hasło na forum {2} zostało zresetowane.
@@ -272,7 +274,7 @@ Ekipa {4}
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych wątkach, przejdź pod adres:
-{7}/usercp2.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
+{7}/usercp.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
 
 ------------------------------------------";
 
@@ -348,7 +350,7 @@ Ekipa {3}
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych odpowiedziach w tym wątku, przejdź pod adres:
-{6}/usercp2.php?action=removesubscription&tid={8}&my_post_key={9}
+{6}/usercp.php?action=removesubscription&tid={8}&my_post_key={9}
 
 ------------------------------------------";
 $l['email_reachedpmquota'] = "{1},
@@ -494,7 +496,7 @@ Kolejne powiadomienia otrzymasz dopiero po odwiedzeniu forum.
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych odpowiedziach w tym wątku, przejdź pod adres:
-[url]{5}/usercp2.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
+[url]{5}/usercp.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
 
 ------------------------------------------";
 

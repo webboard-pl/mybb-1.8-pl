@@ -1,11 +1,13 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
+$l['today_rel'] = "<span title=\"{1}\">Dzisiaj</span>";
+$l['yesterday_rel'] = "<span title=\"{1}\">Wczoraj</span>";
 $l['today'] = "Dzisiaj";
 $l['yesterday'] = "Wczoraj";
 
@@ -51,7 +53,6 @@ $l['error_admin_session_expired'] = "Sesja wygasła";
 $l['error_invalid_ip'] = "Twój adres IP nie pasuje do tej sesji";
 $l['error_mybb_admin_lockedout'] = "To konto zostało zablokowane";
 $l['error_mybb_admin_lockedout_message'] = "Konto zostało zablokowane po {1} nieudanych próbach logowania. Na Twój adres e-mail została wysłana wiadomość z instrukcjami jak odblokować swoje konto.";
-$l['error_invalid_secret_pin'] = 'Wpisałeś niepoprawny numer PIN.';
 
 $l['error_invalid_username'] = "Podany login jest niepoprawny.";
 $l['error_invalid_uid'] = "Podany ID użytkownika jest niepoprawny.";
@@ -134,12 +135,15 @@ $l['on'] = "Tak";
 $l['off'] = "Nie";
 $l['alt_enabled'] = "Włączone";
 $l['alt_disabled'] = "Wyłączone";
+$l['enable'] = "Włączone";
+$l['disable'] = "Wyłączone";
 $l['saved'] = 'Zapisano';
+$l['guest'] = 'Gość';
 
-$l['rel_in'] = "";
+$l['rel_in'] = "w";
 $l['rel_ago'] = "temu";
 $l['rel_less_than'] = "Mniej niż ";
-$l['rel_time'] = "{1}{2} {3} {4}";
+$l['rel_time'] = "<span title=\"{5}{6}\">{1}{2} {3} {4}</span>";
 $l['rel_minutes_single'] = "minuta";
 $l['rel_minutes_plural'] = "minut(y)";
 $l['rel_hours_single'] = "godzina";
@@ -173,6 +177,7 @@ $l['access_denied_desc'] = "Twoje uprawnienia nie pozwalają na dostęp do tej c
 // Super Administrator required
 $l['cannot_perform_action_super_admin_general'] = "Wskazana czynność może zostać wykonana tylko i wyłącznie przez super administratora.<br /><br />Jeżeli chcesz zostać super administratorem, dopisz swoje ID użytkownika w odpowiednie miejsce w pliku inc/config.php.";
 
+
 // AJAX
 $l['loading_text'] = "Ładowanie<br />Proszę czekać...";
 
@@ -193,19 +198,21 @@ $l['timezone_gmt_minus_300'] = "(GMT -3:00) Brazylia, Buenos Aires, Georgetown";
 $l['timezone_gmt_minus_200'] = "(GMT -2:00) Środkowy Atlantyk, Georgia Południowa i Sandwich Południowy";
 $l['timezone_gmt_minus_100'] = "(GMT -1:00) Azory, Wyspy Zielonego Przylądka";
 $l['timezone_gmt'] = "(GMT) Casablanca, Dublin, Edinburgh, Londyn, Lizbona, Monrovia";
-$l['timezone_gmt_100'] = "(GMT +1:00) Berlin, Bruksela, Kopenhaga, Madryt, Paryż, Rzym, Warszawa";
+$l['timezone_gmt_100'] = "(GMT +1:00) Berlin, Bratysława, Kopenhaga, Madryt, Paryż, Praga, Rzym, Warszawa";
 $l['timezone_gmt_200'] = "(GMT +2:00) Ateny, Stambuł, Kair, Jerozolima, Południowa Afryka";
 $l['timezone_gmt_300'] = "(GMT +3:00) Kaliningrad, Mińsk, Bagdad, Riad, Moskwa, Nairobi";
 $l['timezone_gmt_350'] = "(GMT +3:30) Teheran";
 $l['timezone_gmt_400'] = "(GMT +4:00) Moskwa, Abu Dhabi, Baku, Maskat, Tbilisi";
 $l['timezone_gmt_450'] = "(GMT +4:30) Kabul";
 $l['timezone_gmt_500'] = "(GMT +5:00) Islamabad, Karaczi, Taszkient";
-$l['timezone_gmt_550'] = "(GMT +5:30) Bombaj, Kalkuta, Madras, Nowe Delhi";
+$l['timezone_gmt_550'] = "(GMT +5:30) Bombaj, Kalkuta, Chennai, Nowe Delhi";
 $l['timezone_gmt_575'] = "(GMT +5:45) Katmandu";
-$l['timezone_gmt_600'] = "(GMT +6:00) Ałma-ata, Dhakra, Jekaterinburg";
+$l['timezone_gmt_600'] = "(GMT +6:00) Ałma-ata, Dhaka, Jekaterinburg";
 $l['timezone_gmt_650'] = "(GMT +6:30) Rangun";
 $l['timezone_gmt_700'] = "(GMT +7:00) Bangkok, Hanoi, Dżakarta";
 $l['timezone_gmt_800'] = "(GMT +8:00) Pekin, Hongkong, Perth, Singapur, Taipei";
+$l['timezone_gmt_850'] = "(GMT +8:30) Pyongyang";
+$l['timezone_gmt_875'] = "(GMT +8:45) Eucla";
 $l['timezone_gmt_900'] = "(GMT +9:00) Osaka, Sapporo, Seul, Tokio, Irkuck";
 $l['timezone_gmt_950'] = "(GMT +9:30) Adelajda, Darwin";
 $l['timezone_gmt_1000'] = "(GMT +10:00) Melbourne, Papua Nowa Gwinea, Sydney, Jakuck";
@@ -226,7 +233,7 @@ $l['all_logs_deleted'] = "Wszystkie wpisy zostały usunięte.";
 $l['delete_selected'] = "Usuń wybrane";
 $l['delete_all'] = "Usuń wszystkie wyświetlone";
 
-// Misc
+//Misc
 $l['encountered_errors'] = "Wystąpiły następujące problemy:";
 $l['invalid_post_verify_key'] = "Wykryto nieprawidłowy kod autoryzacji. Musisz potwierdzić chęć wykonania tej czynności.";
 $l['invalid_post_verify_key2'] = "Wykryto nieprawidłowy kod autoryzacji. Sprawdź czy odwiedzasz tę stronę z poprawnego odnośnika.";
@@ -293,10 +300,11 @@ $l['editor_insertquote'] = "Wstaw cytat";
 $l['editor_invalidyoutube'] = "Nieprawidłowe wideo";
 $l['editor_dailymotion'] = "Dailymotion";
 $l['editor_metacafe'] = "MetaCafe";
-$l['editor_veoh'] = "Veoh";
+$l['editor_mixer'] = "Mixer";
 $l['editor_vimeo'] = "Vimeo";
 $l['editor_youtube'] = "Youtube";
 $l['editor_facebook'] = "Facebook";
+$l['editor_twitch'] = "Twitch";
 $l['editor_liveleak'] = "LiveLeak";
 $l['editor_insertvideo'] = "Wstaw wideo";
 $l['editor_maximize'] = "Maksymalizuj";

@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['cache'] = "Pamięć podręczna:";
@@ -17,6 +17,7 @@ $l['error_cannot_rebuild'] = "Przebudowa pamięci podręcznej nie powiodła się
 $l['error_empty_cache'] = "Pamięć podręczna jest pusta.";
 $l['error_incorrect_cache'] = "Wybrano nieprawidłowy dział pamięci podręcznej.";
 $l['error_no_cache_specified'] = "Nie wybrano działu pamięci podręcznej.";
+
 
 $l['success_cache_rebuilt'] = "Pamięć podręczna została przebudowana.";
 $l['success_cache_reloaded'] = "Pamięć podręczna została przeładowana.";

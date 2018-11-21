@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['nav_reputation'] = "Reputacja";
@@ -20,7 +20,7 @@ $l['add_invalidpower'] = "Wybrano nieprawidłową ocenę.";
 $l['add_maxperday'] = "Wykorzystano już dzienny limit punktów reputacji do przyznania.";
 $l['add_maxperuser'] = "Ten użytkownik otrzymał od Ciebie maksymalną liczbę punktów jaką można przyznać w dniu dzisiejszym.";
 $l['add_maxperthread'] = "Ten użytkownik otrzymał od Ciebie maksymalną liczbę punktów (w jednym wątku) jaką można przyznać w dniu dzisiejszym.";
-$l['add_no_comment'] = "Musisz wprowadzić powód (komentarz), aby dać punkt reputacji temu użytkownikowi.";
+$l['add_no_comment'] = "Musisz wprowadzić powód (komentarz) o długości co najmniej {1} znaków, aby dać punkt reputacji temu użytkownikowi.";
 $l['add_toolong'] = "Powód (komentarz) musi być krótszy niż {1} znaków.";
 $l['add_negative_disabled'] = "Przyznawanie negatywnych punktów reputacji zostało wyłączone przez administratora.";
 $l['add_neutral_disabled'] = "Przyznawanie neutralnych punktów reputacji zostało wyłączone przez administratora.";
@@ -73,11 +73,11 @@ $l['show_negative'] = "Pokaż negatywne oceny";
 $l['sort_updated'] = "posortowane wg daty aktualizacji";
 $l['sort_username'] = "posortowane wg loginu";
 $l['last_updated'] = "Ostatnio zaktualizowano {1}";
-$l['postrep_given'] = "Punkt przyznany za <a href=\"{1}\">post</a> {3}<br />";
+$l['postrep_given'] = "Punkt przyznany za <a href=\"{1}\">post użytkownika {2}</a> {3}<br />";
 $l['postrep_given_nolink'] = "Punkt przyznany za post użytkownika {1}<br />";
 $l['postrep_given_thread'] = "w wątku <a href=\"{1}\">{2}</a>";
 $l['no_reputation_votes'] = "Ten użytkownik w tej chwili nie posiada ocen spełniających podane kryteria.";
 $l['delete_reputation_confirm'] = "Czy na pewno chcesz usunąć ten punkt reputacji?";
-$l['delete_reputation_log'] = "Punkty reputacji usunięte przez {1} (UID {2}).";
+$l['delete_reputation_log'] = "Usunięto punkty reputacji nadane przez użytkownika {1} (UID {2}).";
 $l['reputations_disabled_group'] = "System reputacji jest wyłączony dla użytkowników tej grupy.";
 $l['rate_user'] = "Oceń użytkownika";

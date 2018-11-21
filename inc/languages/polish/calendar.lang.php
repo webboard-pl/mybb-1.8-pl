@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['nav_calendar'] = "Kalendarz";
@@ -119,7 +119,7 @@ $l['day_of_every'] = "dzień co";
 $l['repeats_on'] = "Powtarza się ";
 $l['every'] = "co";
 $l['year_or_years'] = "lat";
-$l['of'] = "";
+$l['of'] = "z";
 $l['move_to_calendar'] = "Przenieś do kalendarza:";
 $l['weekly_overview'] = "Podgląd tygodnia";
 $l['previous_week'] = "Poprzedni tydzień";

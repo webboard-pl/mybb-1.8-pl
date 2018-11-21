@@ -1,10 +1,11 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 $l['nav_width'] = "180";
 $l['nav_modcp'] = "Panel moderatora";
@@ -42,10 +43,11 @@ $l['report_time'] = "Zgłoszono";
 $l['mark_read'] = "Oznacz wybrane jako przeczytane";
 $l['no_reports'] = "Nie ma nieprzeczytanych zgłoszeń.";
 $l['no_logs'] = "Dziennik akcji moderatorów jest pusty.";
-$l['error_noselected_reports'] = "Nie wybrano żadnych postów do oznaczenia jako przeczytane, lub ktoś inny w międzyczasie oznaczył je jako przeczytane.";
+$l['error_noselected_reports'] = "Nie wybrano żadnej zgłoszonej treści do zaznaczenia jako przeczytanej.";
 $l['error_missing_ipaddress'] = "Nie podano adresu IP jaki ma być wyszukiwany.";
 $l['error_no_results'] = "Nic nie znaleziono.";
-$l['redirect_reportsmarked'] = "Wybrane posty zostały oznaczone jako przeczytane.";
+$l['redirect_reportsmarked'] = "Wybrane zgłoszone treści zostały oznaczone jako przeczytane.";
+$l['redirect_allreportsmarked'] = "Wszystkie zgłoszone treści zostały oznaczone jako przeczytane.";
 $l['redirect_modnotes'] = "Notatki zostały uaktualnione.";
 
 $l['for'] = "Dla";
@@ -62,6 +64,10 @@ $l['report_info_profile'] = "Profil użytkownika {1}";
 $l['report_info_reputation'] = "<a href=\"{1}\">Punkt reputacji</a> od {2}";
 $l['report_info_rep_profile'] = "<br /><span class=\"smalltext\">Dla użytkownika {1}</span>";
 $l['report_info_lastreporter'] = "{1}<br /> zgłoszony przez {2}";
+$l['page_selected'] = "Wszystkie <strong>{1}</strong> nieprzeczytane raporty zostały zaznaczone na tej stronie.";
+$l['all_selected'] = "Wszystkie <strong>{1}</strong> nieprzeczytane raporty zostały zaznaczone.";
+$l['select_all'] = "Select all <strong>{1}</strong> unread reports.";
+$l['clear_selection'] = "Clear Selection.";
 
 $l['moderator_notes'] = "Notatki moderatorów";
 $l['notes_public_all'] = "Te notatki widzą wszyscy moderatorzy.";
@@ -95,6 +101,7 @@ $l['action'] = "Akcja";
 $l['all_moderators'] = "Wszyscy moderatorzy";
 $l['ip'] = "Adres IP";
 $l['info_on_ip'] = "Informacje dla tego adresu IP";
+$l['search_ip_sfs']  = "Szukaj tego adresu IP w serwisie Stop Forum Spam";
 $l['information']  = "Informacja";
 $l['filter_modlogs'] = "Filtruj logi moderatorów";
 $l['forum'] = "Dział";
@@ -127,10 +134,9 @@ $l['profile_optional'] = "Dodatkowe pola";
 $l['website_url'] = "Strona domowa:";
 $l['birthdate'] = "Urodziny:";
 $l['icq_number'] = "Numer ICQ:";
-$l['aim_screenname'] = "Nazwa użytkownika AIM:";
 $l['yahoo_id'] = "Identyfikator Yahoo:";
 $l['skype_id'] = "Identyfikator Skype:";
-$l['google_id'] = "Identyfikator Google Talk:";
+$l['google_id'] = "Identyfikator Google Hangouts:";
 $l['away_notice'] = "Ta opcja pozwala na ustawienie statusu \"Nieobecny\".";
 $l['additional_information'] = "Dodatkowe informacje";
 $l['update_profile'] = "Aktualizuj profil";

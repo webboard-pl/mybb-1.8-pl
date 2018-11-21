@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['task_manager'] = "Menadżer zadań";
@@ -72,5 +72,7 @@ $l['success_task_disabled'] = "Zadanie zostało wyłączone.";
 $l['success_task_run'] = "Zadanie zostało wykonane.";
 
 $l['confirm_task_deletion'] = "Czy na pewno chcesz usunąć to zadanie?";
-$l['confirm_task_enable'] = "<strong>UWAGA:</strong> Chcesz aktywować zadanie, które powinno być uruchamiane tylko i wyłącznie za pomocą cron (zobacz <a href=\"http://docs.mybb.com/Help-Task_System.html\" target=\"_blank\">Dokumentację MyBB</a> - po angielsku). Kontynuować?";
+$l['confirm_task_enable'] = "<strong>UWAGA:</strong> Chcesz aktywować zadanie, które powinno być uruchamiane tylko i wyłącznie za pomocą cron (zobacz <a href=\"https://docs.mybb.com/1.8/administration/task-manager\" target=\"_blank\" rel=\"noopener\">Dokumentację MyBB</a> - po angielsku). Kontynuować?";
 $l['no_tasks'] = "Nie ma zaplanowanych zadań na tym forum.";
+
+

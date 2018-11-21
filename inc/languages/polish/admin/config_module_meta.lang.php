@@ -1,11 +1,11 @@
 <?php
 /**
- * MyBB 1.6.13 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * MyBB 1.8 Polish Language Pack
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
-
+ 
 $l['configuration'] = "Konfiguracja";
 
 $l['bbsettings'] = "Ustawienia";
@@ -25,6 +25,7 @@ $l['calendars'] = "Kalendarze";
 $l['warning_system'] = "System ostrzeżeń";
 $l['thread_prefixes'] = "Prefiksy wątków";
 $l['security_questions'] = "Pytania zabezpieczające";
+$l['report_reasons'] = "Powody raportów";
 
 $l['can_manage_settings'] = "Może zarządzać ustawieniami?";
 $l['can_manage_banned_accounts'] = "Może zarządzać zbanowanymi kontami?";
@@ -43,3 +44,4 @@ $l['can_manage_warning_system'] = "Może zarządzać systemem ostrzeżeń?";
 $l['can_manage_mod_tools'] = "Może zarządzać narzędziami moderatorów?";
 $l['can_manage_thread_prefixes'] = "Może zarządzać prefiksami wątków?";
 $l['can_manage_security_questions'] = "Może zarządzać pytaniami zabezpieczającymi?";
+$l['can_manage_report_reasons'] = "Może zarządzać powodami raportów?";

@@ -1,10 +1,11 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 $l['custom_mycode'] = "Dodatkowe tagi MyCode";
 $l['mycode'] = "MyCode";
@@ -44,6 +45,7 @@ $l['test'] = "Testuj MyCode";
 
 $l['error_missing_title'] = "Nie wpisano tytułu.";
 $l['error_missing_regex'] = "Nie wpisano regularnego wyrażenia.";
+$l['error_regex_already_available'] = "Użyłeś regularnego wyrażenia, które jest już zdefiniowane dla innego MyCode. Wprowadź inne regularne wyrażenie dla tego MyCode.";
 $l['error_missing_replacement'] = "Nie wpisano wyrażenia do zamiany.";
 $l['error_invalid_mycode'] = "Podany MyCode nie istnieje.";
 

@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 
@@ -16,7 +16,7 @@ $l['spam_email']      = 'Adres e-mail';
 $l['spam_ip']         = 'Adres IP';
 $l['spam_date']       = 'Data';
 $l['spam_confidence'] = 'Stopień pewności';
-$l['no_spam_logs'] = 'Filtry antyspamowe nie zablokowały jeszcze żadnego użytkowika.';
+$l['no_spam_logs'] = 'Filtry antyspamowe nie zablokowały jeszcze żadnego użytkownika.';
 $l['success_pruned_spam_logs'] = 'Wyczyszczono logi spamerów.';
 $l['note_logs_locked'] = "Ze względów bezpieczeństwa nie można usuwać logów z ostatnich 24 godzin.";
 $l['all_usernames'] = 'Wszystkie nazwy użytkowników';
@@ -26,6 +26,8 @@ $l['days'] = "dni";
 $l['filter_spam_logs'] = 'Filtruj logi spamerów';
 $l['asc'] = "Rosnąco";
 $l['desc'] = "Malejąco";
+$l['search_ip_on_sfs'] = "Szukaj tego IP w serwisie Stop Forum Spam";
+$l['search'] = "Szukaj";
 
 $l['in'] = "w";
 $l['order'] = "kolejności";

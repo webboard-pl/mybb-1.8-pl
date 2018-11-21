@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 // Tabs
@@ -20,6 +20,7 @@ $l['attachment_stats_desc'] = "Poniżej znajdują się statystyki dla załączni
 $l['error_nothing_selected'] = "Nie zaznaczono załączników do usunięcia.";
 $l['error_no_attachments'] = "Nie ma załączników na forum. Po wysłaniu przez użytkowników przynajmniej jednego pliku uzyskasz dostęp do tej sekcji.";
 $l['error_not_all_removed'] = "Zostały usunięte tylko nieużywane pliki, pozostałe nadal są w katalogu załączników.";
+$l['error_count'] = 'Nie można usunąć {1} załącznika (ów).';
 $l['error_invalid_username'] = "Wpisany login jest nieprawidłowy.";
 $l['error_invalid_forums'] = "Zaznaczono jedno lub więcej nieprawidłowych działów.";
 $l['error_no_results'] = "Nie ma załączników spełniających wybrane kryteria.";
@@ -30,6 +31,7 @@ $l['error_does_not_exist'] = "Wątek lub post połączony z tym załącznikiem j
 // Success
 $l['success_deleted'] = "Wybrane załączniki zostały usunięte.";
 $l['success_orphan_deleted'] = "Wybrane nieużywane załączniki zostały usunięte.";
+$l['success_count'] = 'Pomyślnie usunięto {1} załącznik(ów).';
 $l['success_no_orphans'] = "Nie ma nieużywanych załączników na forum.";
 
 // Confirm
@@ -81,6 +83,10 @@ $l['name_contains_desc'] = "Użyj \"*\", by zastąpić dowolny ciąg znaków. Pr
 $l['type_contains'] = "Typ pliku zawiera";
 $l['forum_is'] = "Kategoria, dział, poddział";
 $l['username_is'] = "Użytkownik";
+$l['poster_is'] = "Wstawione przez";
+$l['poster_is_either'] = "Użytkownika lub gościa";
+$l['poster_is_user'] = "Tylko użytkowników";
+$l['poster_is_guest'] = "Tylko gości";
 $l['more_than'] = "większa niż";
 $l['greater_than'] = "większa niż";
 $l['is_exactly'] = "równa";

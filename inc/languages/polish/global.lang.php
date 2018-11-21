@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['redirect_width'] = "50%";
@@ -20,6 +20,7 @@ $l['bottomlinks_contactus'] = "Kontakt";
 $l['bottomlinks_returntop'] = "Wróć do góry";
 $l['bottomlinks_syndication'] = "RSS";
 $l['bottomlinks_litemode'] = "Wersja bez grafiki";
+$l['bottomlinks_markread'] = "Oznacz wszystkie działy jako przeczytane";
 
 $l['welcome_usercp'] = "Panel użytkownika";
 $l['welcome_modcp'] = "MCP";
@@ -49,7 +50,7 @@ $l['forumbit_moderated_by'] = "Moderowane przez:";
 $l['new_posts'] = "Dział zawiera nowe posty";
 $l['no_new_posts'] = "Dział nie zawiera nowych postów";
 $l['click_mark_read'] = "Kliknij, aby zaznaczyć ten dział jako przeczytany";
-$l['forum_locked'] = "Dział jest zablokowany";
+$l['forum_closed'] = "Dział jest zamknięty";
 $l['forum_redirect'] = "Dział zawierający przekierowanie";
 $l['lastpost_never'] = "Nigdy";
 $l['viewing_one'] = " (1 przeglądający)";
@@ -121,6 +122,8 @@ $l['insert_attachment_post'] = "Wstaw do posta";
 $l['new_attachment'] = "Nowy załącznik:";
 $l['add_attachment'] = "Dodaj załącznik";
 $l['update_attachment'] = "Aktualizuj załącznik";
+$l['attachment_too_many_files'] = "Możesz przesłać maksymalnie {1} załączników naraz.";
+$l['attachment_too_big_upload'] = "Możesz przesłać maksymalnie {1} bajtów naraz.";
 $l['post_preview'] = "Podgląd posta";
 $l['change_user'] = "zmień użytkownika";
 $l['post_icon'] = "Ikona posta";
@@ -132,6 +135,8 @@ $l['no_subscribe_notification'] = "Subskrybuj wątek, ale nie wysyłaj powiadomi
 $l['instant_email_subscribe'] = "Subskrybuj wątek i wysyłaj powiadomienia e-mail o nowej odpowiedzi";
 $l['instant_pm_subscribe'] = "Subskrybuj wątek i wysyłaj powiadomienia poprzez prywatną wiadomość o nowej odpowiedzi";
 
+$l['today_rel'] = "<span title=\"{1}\">Dzisiaj</span>";
+$l['yesterday_rel'] = "<span title=\"{1}\">Wczoraj</span>";
 $l['today'] = "Dzisiaj";
 $l['yesterday'] = "Wczoraj";
 $l['error'] = "Informacja";
@@ -198,21 +203,21 @@ $l['editor_viewsource'] = "Pokaż źródło";
 $l['editor_description'] = "Opis (opcjonalnie):";
 $l['editor_enterimgurl'] = "Wprowadź adres URL obrazka:";
 $l['editor_enteremail'] = "Wprowadź adres e-mail:";
-$l['editor_enterdisplayedtext'] = "Wpisz tekst z obrazka:";
+$l['editor_enterdisplayedtext'] = "Wpisz tekst do wyświetlenia:";
 $l['editor_enterurl'] = "Wprowadź adres URL:";
 $l['editor_enteryoutubeurl'] = "Wprowadź adres URL wideo lub jego ID:";
 $l['editor_insertquote'] = "Wstaw cytat";
 $l['editor_invalidyoutube'] = "Nieprawidłowe wideo";
 $l['editor_dailymotion'] = "Dailymotion";
 $l['editor_metacafe'] = "MetaCafe";
-$l['editor_veoh'] = "Veoh";
+$l['editor_mixer'] = "Mixer";
 $l['editor_vimeo'] = "Vimeo";
 $l['editor_youtube'] = "Youtube";
+$l['editor_twitch'] = "Twitch";
 $l['editor_facebook'] = "Facebook";
 $l['editor_liveleak'] = "LiveLeak";
 $l['editor_insertvideo'] = "Wstaw wideo";
 $l['editor_maximize'] = "Maksymalizuj";
-
 
 $l['quote'] = "Cytat:";
 $l['wrote'] = "napisał(a):";
@@ -225,7 +230,7 @@ $l['linkback'] = "Cytowany post";
 $l['at'] = "na";
 $l['na'] = "N/A";
 $l['guest'] = "Gość";
-$l['unknown'] = "Nieznany";
+$l['unknown'] = "Nie określono";
 $l['never'] = "Nigdy";
 $l['postbit_posts'] = "Liczba postów:";
 $l['postbit_threads'] = "Liczba wątków:";
@@ -270,6 +275,11 @@ $l['postbit_currently_ignoring_user'] = "Zawartość posta została ukryta, poni
 $l['postbit_warning_level'] = "Poziom ostrzeżeń:";
 $l['postbit_warn'] = "Dodaj ostrzeżenie za ten post";
 $l['postbit_purgespammer'] = "Usuń spamera";
+$l['postbit_post_deleted'] = "Ten post został usunięty.";
+$l['postbit_post_unapproved'] = "Ten post oczekuje na zatwierdzenie.";
+$l['postbit_thread_deleted'] = "Ten wątek został usunięty.";
+$l['postbit_thread_unapproved'] = "Wątek oczekuje na zatwierdzenie.";
+$l['postbit_deleted_post_user'] = "Ten post użytkownika {1} został usunięty.";
 
 $l['postbit_button_reputation_add'] = 'Dodaj punkt reputacji';
 $l['postbit_button_website'] = 'Strona WWW';
@@ -305,6 +315,7 @@ $l['smilieinsert'] = "Emotikony";
 $l['smilieinsert_getmore'] = "więcej";
 $l['on'] = "włączone";
 $l['off'] = "wyłączone";
+$l['remote_avatar_disabled_default_avatar'] = "Używasz zdalnego awataru, który został wyłączony. Zastąpimy go domyślnym awatarem.";
 $l['unread_report'] = "Notatka dla moderatora: jest jeden nowy raportowany post.";
 $l['unread_reports'] = "Notatka dla moderatora: są nowe raportowane posty ({1}).";
 $l['pending_joinrequest'] = "Notatka dla lidera grupy: jest jedno zgłoszenie do grupy, której jesteś liderem.";
@@ -318,15 +329,15 @@ $l['years'] = "Lat";
 $l['years_short'] = "l";
 $l['month'] = "Miesiąc";
 $l['month_short'] = "m-c";
-$l['months'] = "Miesięcy";
+$l['months'] = "miesięcy";
 $l['months_short'] = "m-cy";
-$l['week'] = "Tydzień";
+$l['week'] = "tydzień";
 $l['week_short'] = "tydz";
 $l['weeks'] = "Tygodni";
 $l['weeks_short'] = "tyg";
 $l['day'] = "Dzień";
 $l['day_short'] = "d";
-$l['days'] = "Dni";
+$l['days'] = "dni";
 $l['days_short'] = "d";
 $l['hour'] = "Godzina";
 $l['hour_short'] = "godz";
@@ -343,8 +354,8 @@ $l['seconds_short'] = "s";
 
 $l['rel_in'] = "W ciągu ";
 $l['rel_ago'] = "temu";
-$l['rel_less_than'] = "Mniej niż ";
-$l['rel_time'] = "{1} {2} {3} {4}";
+$l['rel_less_than'] = "mniej niż ";
+$l['rel_time'] = "<span title=\"{5}{6}\">{1} {2} {3} {4}</span>";
 $l['rel_minutes_single'] = "minutę";
 $l['rel_minutes_plural'] = "minut(y)";
 $l['rel_hours_single'] = "godzinę";
@@ -359,9 +370,10 @@ $l['banned_warning2'] = "Powód bana";
 $l['banned_warning3'] = "Ban zostanie zniesiony";
 $l['banned_lifted_never'] = "nigdy";
 $l['banned_email_warning'] = "Używasz adresu email, który nie został dozwolony na tym forum. Zmień adres email, aby móc kontynuować.";
-$l['powered_by'] = "Polskie tłumaczenie &copy; 2007-".date("Y")." <a href=\"http://www.mybboard.pl\">Polski Support MyBB</a> <br/>Silnik forum";
+$l['powered_by'] = "Polskie tłumaczenie &copy; 2007-".date("Y")." <a href=\"https://webboard.pl\">Polski Support MyBB</a> <br/>Silnik forum";
 $l['copyright'] = "Copyright";
-$l['attach_quota'] = "Aktualnie używasz <strong>{1}</strong> (przydzielone miejsce: {2})";
+$l['attach_quota'] = "Pojemość, która jest przeznaczona na załączniki wynosi {1}.";
+$l['attach_usage'] = "Aktualnie wykorzystujesz <strong>{1}</strong>.";
 $l['view_attachments'] = "[Pokaż moje załączniki]";
 $l['unlimited'] = "nieograniczone";
 
@@ -406,6 +418,8 @@ $l['error_loadlimit'] = "Serwer jest zbyt obciążony. Wróć później, gdy ser
 $l['error_boardclosed'] = "Forum jest aktualnie zamknięte. Poniżej znajduje się powód podany przez administratora.";
 $l['error_banned'] = "Twoje konto zostało zbanowane. Nie możesz pisać postów ani czytać wątków. Skontaktuj się z administratorem.";
 $l['error_cannot_upload_php_post'] = "Wysyłanie pliku nie powiodło się - rozmiar pliku przekracza limit określony w konfiguracji PHP (post_max_size). Kliknij przycisk \"Wstecz\".";
+$l['error_empty_post_input'] = "Wystąpił błąd z powodu pustego posta. Może to być spowodowane odświeżeniem strony przeglądarki lub bezpośrednim dostępem do tej strony. Zalecamy naciśnięcie przycisku wstecz przeglądarki i rozpoczęcie od nowa.";
+
 $l['error_database_repair'] = "MyBB automatycznie naprawia uszkodzoną tabelę bazy danych.";
 
 $l['unknown_user_trigger'] = "Wystąpił nieznany błąd.";
@@ -418,7 +432,6 @@ $l['select_language'] = "Wybierz język";
 $l['select_theme'] = "Wybierz styl";
 
 $l['invalid_post_code'] = "Niepoprawny kod autoryzacji. Czy na pewno próbujesz uruchomić tę funkcję w poprawny sposób? Spróbuj ponownie.";
-$l['invalid_captcha'] = "Aby kontynuować, przepisz dokładnie kod z obrazka.";
 $l['invalid_nocaptcha'] = "Przepisz kod z obrazka aby udowodnić, że nie jesteś botem.";
 $l['invalid_captcha_verify'] = "Wprowadzony kod z obrazka jest nieprawidłowy. Spróbuj ponownie.";
 $l['image_verification'] = "Weryfikacja obrazkowa";
@@ -426,12 +439,11 @@ $l['human_verification'] = "Weryfikacja przeciw botom";
 $l['verification_note'] = "Wpisz tekst znajdujący się na obrazku w pole poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
 $l['verification_note_nocaptcha'] = "Zaznacz pole wyboru znajdujące się poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
 $l['verification_subnote'] = "(wielkość znaków nie ma znaczenia)";
-$l['invalid_captcha_transmit'] = "Wystąpił błąd. Spróbuj ponownie.";
 $l['invalid_nocaptcha_transmit'] = "Wystąpił błąd podczas próby weryfikacji bycia człowiekiem. Spróbuj ponownie.";
 $l['captcha_fetch_failure'] = 'Wystąpił błąd podczas wczytywania nowego kodu.';
 $l['question_fetch_failure'] = 'Wystąpił błąd podczas wczytywania nowego pytania';
 
-$l['timezone_gmt_minus_1200'] = "(GMT -12:00) Wyspy Marshalla";
+$l['timezone_gmt_minus_1200'] = "(GMT -12:00) Wyspy Howland i Baker";
 $l['timezone_gmt_minus_1100'] = "(GMT -11:00) Wyspa Midway, Nome";
 $l['timezone_gmt_minus_1000'] = "(GMT -10:00) Hawaje, Papeete";
 $l['timezone_gmt_minus_950'] = "(GMT -9:30) Markizy";
@@ -447,19 +459,21 @@ $l['timezone_gmt_minus_300'] = "(GMT -3:00) Brazylia, Buenos Aires, Georgetown";
 $l['timezone_gmt_minus_200'] = "(GMT -2:00) Środkowy Atlantyk, Georgia Południowa i Sandwich Południowy";
 $l['timezone_gmt_minus_100'] = "(GMT -1:00) Azory, Wyspy Zielonego Przylądka";
 $l['timezone_gmt'] = "(GMT) Casablanca, Dublin, Edinburgh, Londyn, Lizbona, Monrovia";
-$l['timezone_gmt_100'] = "(GMT +1:00) Berlin, Bruksela, Kopenhaga, Madryt, Paryż, Rzym, Warszawa";
+$l['timezone_gmt_100'] = "(GMT +1:00) Berlin, Bruksela, Bratysława, Kopenhaga, Madryt, Paryż, Praga, Rzym, Warszawa";
 $l['timezone_gmt_200'] = "(GMT +2:00) Ateny, Stambuł, Kair, Jerozolima, Południowa Afryka";
 $l['timezone_gmt_300'] = "(GMT +3:00) Kaliningrad, Mińsk, Bagdad, Riad, Moskwa, Nairobi";
 $l['timezone_gmt_350'] = "(GMT +3:30) Teheran";
 $l['timezone_gmt_400'] = "(GMT +4:00) Moskwa, Abu Dhabi, Baku, Maskat, Tbilisi";
 $l['timezone_gmt_450'] = "(GMT +4:30) Kabul";
 $l['timezone_gmt_500'] = "(GMT +5:00) Islamabad, Karaczi, Taszkient";
-$l['timezone_gmt_550'] = "(GMT +5:30) Bombaj, Kalkuta, Madras, Nowe Delhi";
+$l['timezone_gmt_550'] = "(GMT +5:30) Bombaj, Kolkata, Chennai, Nowe Delhi";
 $l['timezone_gmt_575'] = "(GMT +5:45) Katmandu";
-$l['timezone_gmt_600'] = "(GMT +6:00) Ałma-ata, Dhakra, Jekaterinburg";
+$l['timezone_gmt_600'] = "(GMT +6:00) Ałma-ata, Dhaka, Jekaterinburg";
 $l['timezone_gmt_650'] = "(GMT +6:30) Rangun";
 $l['timezone_gmt_700'] = "(GMT +7:00) Bangkok, Hanoi, Dżakarta";
 $l['timezone_gmt_800'] = "(GMT +8:00) Pekin, Hongkong, Perth, Singapur, Taipei";
+$l['timezone_gmt_850'] = "(GMT +8:30) Phenian";
+$l['timezone_gmt_875'] = "(GMT +8:45) Eucla";
 $l['timezone_gmt_900'] = "(GMT +9:00) Osaka, Sapporo, Seul, Tokio, Irkuck";
 $l['timezone_gmt_950'] = "(GMT +9:30) Adelajda, Darwin";
 $l['timezone_gmt_1000'] = "(GMT +10:00) Melbourne, Papua Nowa Gwinea, Sydney, Jakuck";
@@ -542,7 +556,7 @@ $l['moderation_user_posts'] = "Nowe posty twojego autorstwa muszą zostać zaakc
 $l['moderation_forum_thread'] = "Nowe wątki z tego działu muszą zostać zaakceptowane przez moderatora.";
 $l['moderation_forum_edits'] = "Edycje postów z tego działu muszą zostać zaakceptowane przez moderatora.";
 $l['moderation_forum_edits_quick'] = "Nowe wątki z tego działu muszą zostać zaakceptowane przez moderatora.";
-$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-users&amp;action=search&amp;results=1&amp;conditions=a%3A1%3A%7Bs%3A9%3A%22usergroup%22%3Bs%3A1%3A%225%22%3B%7D\">Przejdź do panelu administratora</a>.";
+$l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-awaiting_activation\">Przejdź do panelu administratora</a>.";
 $l['awaiting_message_single'] = "Użytkownik oczekuje na aktywację. Aby przeprowadzić aktywację, przejdź do ACP.";
 $l['awaiting_message_plural'] = "Użytkowników oczekujących na aktywację: {1}. Aby przeprowadzić aktywację, przejdź do ACP.";
 
@@ -553,13 +567,15 @@ $l['select2_inputtooshort_single'] = "Wpisz co najmniej jeden znak";
 $l['select2_inputtooshort_plural'] = "Wpisz {1} lub więcej znaków";
 $l['select2_inputtoolong_single'] = "Usuń jeden znak";
 $l['select2_inputtoolong_plural'] = "Usuń {1} znaki/znaków";
-$l['select2_selectiontoobig_single'] = "Możesz wybrać tylko jednen wynik";
+$l['select2_selectiontoobig_single'] = "Możesz wybrać tylko jeden wynik";
 $l['select2_selectiontoobig_plural'] = "Możesz wybrać tylko {1} wyniki/wyników";
 $l['select2_loadmore'] = "Wczytywanie większej ilości wyników";
 $l['select2_searching'] = "Wyszukiwanie";
 
 $l['stopforumspam_error_decoding'] = 'Wystąpił błąd podczas przetwarzania danych z StopForumSpam.com.';
 $l['stopforumspam_error_retrieving'] = 'Wystąpił błąd podczas pobierania danych z StopForumSpam.com.';
+$l['stopforumspam_invalid_email'] = 'Nieprawidłowy adres e-mail podczas sprawdzania na liście StopForumSpam.com.';
+$l['stopforumspam_invalid_ip_address'] = 'Nieprawidłowy adres IP podczas sprawdzania na liście StopForumSpam.com.';
 
 $l['sfs_error_username'] = 'login';
 $l['sfs_error_ip'] = 'adres IP';

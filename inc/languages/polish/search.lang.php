@@ -1,10 +1,11 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
+
 
 $l['nav_search'] = "Szukaj";
 $l['nav_results'] = "Wyniki";
@@ -35,10 +36,10 @@ $l['sorting_options'] = "Opcje sortowania";
 $l['sort_lastpost'] = "Uporządkuj według daty ostatniego posta";
 $l['sort_author'] = "Uporządkuj według loginu autora";
 $l['sort_forum'] = "Uporządkuj według działu";
-$l['sort_in'] = "";
-$l['sort_asc'] = "rosnąco";
-$l['sort_desc'] = "malejąco";
-$l['sort_order'] = "";
+$l['sort_in'] = "w";
+$l['sort_asc'] = "rosnącej";
+$l['sort_desc'] = "malejącej";
+$l['sort_order'] = "kolejności";
 $l['asc'] = "rosn.";
 $l['desc'] = "mal.";
 $l['display_options'] = "Opcje wyświetlania";
@@ -86,7 +87,7 @@ $l['icon_dot'] = "Zawiera posty napisane przez Ciebie. "; // The spaces for the 
 $l['icon_no_new'] = "Brak nowych postów.";
 $l['icon_new'] = "Zawiera nowe posty.";
 $l['icon_hot'] = " Gorący wątek.";
-$l['icon_lock'] = " Zamknięty wątek.";
+$l['icon_close'] = " Zamknięty wątek.";
 $l['attachment_count'] = "Ten wątek zawiera 1 załącznik.";
 $l['attachment_count_multiple'] = "Ten wątek zawiera {1} załączników.";
 $l['goto_first_unread'] = "Przejdź do pierwszego nieprzeczytanego posta";

@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['themes'] = "Style";
@@ -126,7 +126,7 @@ $l['attached_to'] = "Dołączane do";
 $l['attached_to_nothing'] = "Niedołączane do żadnego pliku";
 $l['attached_to_desc'] = "Możesz sprawić, by arkusze były dołączane tylko do wybranych plików, czy nawet tylko podczas konkretnych czynności wykonywanych w tych plikach.";
 $l['actions'] = "czynności";
-$l['of'] = "";
+$l['of'] = "z";
 $l['attached_to_all_pages'] = "Dołączany do wszystkich stron";
 $l['properties'] = "Właściwości";
 $l['edit_style'] = "Edytuj styl";
@@ -189,6 +189,7 @@ $l['error_missing_stylesheet_name'] = "Podaj nazwę dla tego arkusza.";
 $l['error_missing_stylesheet_extension'] = "Arkusz stylów musi mieć poprawne rozszerzenie, na przykład {1}<em>.css</em>";
 $l['error_invalid_parent_theme'] = "Wybrany styl nadrzędny nie istnieje. Wybierz prawidłowy styl.";
 $l['error_invalid_templateset'] = "Wybrana paczka szablonów nie istnieje. Wybierz prawidłową paczkę.";
+$l['error_invalid_color'] = "Wybrany zestaw koloru \"{1}\" zawiera nieprawidłowe znaki lub nie ma określonego formatu. Dozwolone są tylko znaki alfanumeryczne dla nazw oddzielonych '='.";
 $l['error_invalid_editortheme'] = "Wybrany wygląd edytora nie istnieje. Wybierz prawidłowy wygląd.";
 $l['error_inheriting_stylesheets'] = "Nie możesz usunąć tego stylu, bo niektóre spośród innych stylów dziedziczą od niego arkusze CSS.";
 $l['error_cannot_parse'] = "MyBB nie potrafi przystosować tego arkusza CSS do edycji w trybie uproszczonym. Dostępny jest jedynie tryb zaawansowany.";

@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['mass_mail'] = "Masowa korespondencja";
@@ -118,3 +118,4 @@ $l['success_mass_mail_resent'] = "Masowa korespondencja została skopiowana. Mo�
 $l['success_mass_mail_canceled'] = "Dostarczanie tej korespondencji zostało anulowane.";
 
 $l['mass_mail_deletion_confirmation'] = "Czy na pewno chcesz usunąć tę masową korespondencję?";
+

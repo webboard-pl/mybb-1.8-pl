@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['template_sets'] = "Paczki szablonów";
@@ -115,6 +115,7 @@ $l['group_xmlhttp'] = "XMLHTTP -";
 $l['group_footer'] = "Stopka -";
 $l['group_video'] = "MyCode wideo -";
 $l['group_sendthread'] = "Wyślij wątek -";
+$l['group_mycode'] = "MyCode";
 
 $l['expand'] = "Rozwiń";
 $l['collapse'] = "Zwiń";
@@ -164,6 +165,7 @@ $l['error_invalid_set'] = "Wybierz poprawną paczkę.";
 $l['error_invalid_template_set'] = "Wybrano niepoprawną paczkę.";
 $l['error_themes_attached_template_set'] = "Ta paczka nie może zostać usunięta - znajdują się w niej szablony, które są aktualnie w użyciu.";
 $l['error_missing_group_prefix'] = "Podaj prefiks dla grupy szablonów.";
+$l['error_invalid_group_title'] = "Podkreślenia  (_) są stosowane jako separator i są zakazane w prefiksie grupy szablonów. Proszę wybrać inny prefiks.";
 $l['error_missing_group_title'] = "Podaj nazwę dla tej grupy szablonów.";
 $l['error_duplicate_group_prefix'] = "Podany prefiks jest już w użyciu. Podaj inny prefiks.";
 $l['error_missing_template_group'] = "Nie znaleziono grupy szablonów o podanej nazwie.";

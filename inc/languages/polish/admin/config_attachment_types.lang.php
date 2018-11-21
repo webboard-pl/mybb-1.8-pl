@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['attachment_types'] = "Typy załączników";
@@ -23,7 +23,7 @@ $l['name_desc'] = "Wpisz nazwę załączników tego typu";
 $l['file_extension'] = "Rozszerzenie pliku";
 $l['file_extension_desc'] = "Wpisz rozszerzenie plików, na których załączanie chcesz zezwolić. Nie wpisuj kropki przed rozszerzeniem (przykład: txt).";
 $l['mime_type'] = "Typ MIME";
-$l['mime_type_desc'] = "Wpisz typ MIME, który zostanie wysłany przez serwer podczas pobierania pliku (<a href=\"http://www.webmaster-toolkit.com/mime-types.shtml\">Pokaż listę dostępnych typów</a>)";
+$l['mime_type_desc'] = "Wpisz typ MIME, który zostanie wysłany przez serwer podczas pobierania pliku (<a href=\"http://www.freeformatter.com/mime-types-list.html\">Pokaż listę dostępnych typów</a>)";
 $l['maximum_file_size'] = "Maksymalny rozmiar pliku (w kilobajtach)";
 $l['maximum_file_size_desc'] = "Maksymalny rozmiar pliku jaki można załadować dla tego rozszerzenia, rozmiar podaj w kilobajtach (1 MB = 1024 KB)";
 $l['limit_intro'] = "Upewnij się, że rozmiar pliku jest mniejszy niż ustalony w konfiguracji PHP:";
@@ -42,3 +42,13 @@ $l['success_attachment_type_updated'] = "Typ załączników został zaktualizowa
 $l['success_attachment_type_deleted'] = "Typ załączników został usunięty.";
 
 $l['confirm_attachment_type_deletion'] = "Czy na pewno chcesz usunąć ten typ załączników?";
+
+$l['success_activated_attachment_type'] = 'Wybrany typ załącznika został pomyślnie aktywowany.';
+$l['success_deactivated_attachment_type'] = 'Wybrany typ załącznika został pomyślnie dezaktywowany.';
+
+$l['enabled'] = "Włączone?";
+$l['avatar_file'] = 'Plik awatara';
+$l['avatar_file_desc'] = 'Chcesz zezwolić temu typowi załącznika na bycie awatarem?';
+
+$l['available_to_groups'] = 'Dostępna dla grup';
+$l['available_in_forums'] = 'Dostępna na forum';

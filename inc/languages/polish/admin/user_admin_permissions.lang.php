@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['admin_permissions'] = "Uprawnienia administratorów";
@@ -36,7 +36,7 @@ $l['edit_group'] = "Edytuj grupę";
 $l['default'] = "Standardowe";
 $l['group'] = "Grupa";
 
-$l['error_super_admin'] = 'Nie możesz wykonać tej operacji na tym użytkowniku, dopóki jest super administratorem.<br /><br />Aby móc ją wykonać, dodaj swój identyfikator użytkownika do pliku inc/config.php.';
+$l['error_super_admin'] = 'Nie możesz wykonać tej operacji na tym użytkowniku, dopóki jest super administratorem.';
 $l['error_delete_no_uid'] = 'Nie wpisano identyfikatora uprawnień użytkownika/grupy';
 $l['error_delete_invalid_uid'] = 'Nie wpisano prawidłowego identyfikatora uprawnień użytkownika/grupy';
 
@@ -44,3 +44,5 @@ $l['success_perms_deleted'] = 'Uprawnienia dla użytkownika/grupy zostały cofni
 
 $l['confirm_perms_deletion'] = "Czy na pewno chcesz cofnąć uprawnienia temu użytkownikowi/tej grupie?";
 $l['confirm_perms_deletion2'] = "Czy na pewno chcesz cofnąć uprawnienia temu użytkownikowi?";
+
+

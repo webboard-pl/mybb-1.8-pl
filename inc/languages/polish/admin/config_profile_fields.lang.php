@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * * Copyright © 2008-2018 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 $l['custom_profile_fields'] = "Pola w profilu";
@@ -41,7 +41,6 @@ $l['show_on_registration'] = "Pokazywać podczas rejestracji?";
 $l['show_on_registration_desc'] = "Czy pole powinno być widoczne w formularzu rejestracyjnym? To ustawienie nie ma zastosowania, jeśli edycja pola została zablokowana. Ponadto, pola oznaczone jako wymagane zawsze będą wyświetlane w formularzu rejestracyjnym.";
 $l['display_on_profile'] = "Pokazywać w profilu użytkownika?";
 $l['display_on_profile_desc'] = "Czy zawartość tego pola powinna być wyświetlana w profilu użytkownika? To ustawienie nie ma zastosowania do administratorów i moderatorów.";
-
 $l['display_on_postbit'] = "Wyświetlać w opisie posta?";
 $l['display_on_postbit_desc'] = "Czy to pole powinno być wyświetlane w opisie posta? To ustawienie nie zadziała, jeśli to pole jest ukryte lub jest polem tekstowym.";
 $l['viewableby'] = 'Widoczne dla';

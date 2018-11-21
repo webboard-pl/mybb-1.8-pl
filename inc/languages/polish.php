@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * Copyright © 2008-2015 MyBBoard.pl Team
+ * Copyright © 2008-2018 MyBBoard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir | Testerzy: hippie
  */
 
 // The friendly name of the language
@@ -13,10 +13,10 @@ $langinfo['name'] = "Polski";
 $langinfo['author'] = "Polski Support MyBB";
 
 // The language authors website
-$langinfo['website'] = "http://www.mybboard.pl/";
+$langinfo['website'] = "https://webboard.pl/";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1807";
+$langinfo['version'] = "1818";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;
