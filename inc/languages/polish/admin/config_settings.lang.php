@@ -1170,7 +1170,7 @@ $l['setting_group_attachments'] = "System załączników";
 $l['setting_group_attachments_desc'] = "Ustawienia związane z systemem załączników.";
 
 $l['setting_contact_guests'] = "Wyłączyć formularz kontaktowy dla gości?";
-$l['setting_contact_guests_desc'] = "Czy chcesz, aby niezalogowani użytkownicy mogli uzyskiwać dostęp do formularza kontaktowego?";
+$l['setting_contact_guests_desc'] = "Czy chcesz, aby niezalogowani użytkownicy nie mieli dostępu do formularza kontaktowego?";
 $l['setting_soft_delete'] = "Włączyć nietrwałe usuwanie?";
 $l['setting_soft_delete_desc'] = "Włączenie tej opcji pozwoli na przywracanie postów i wątków usuniętych przez użytkowników. W innym wypadku posty i wątki będą bezpowrotnie usuwane.";
 $l['setting_showthemeselect'] = "Pokazywać pole wyboru stylu w stopce?";

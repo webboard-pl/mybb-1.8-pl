@@ -1,4 +1,3 @@
-# POLISH VERSION
 ## INFORMACJE
 Niniejsza paczka językowa jest przeznaczona dla **MyBB 1.8.19**. Zawiera ona pełne, polskie tłumaczenie silnika MyBB. Autorem tłumaczenia jest Polski Support MyBB - https://webboard.pl/
 ## Wgrywanie spolszczenia
