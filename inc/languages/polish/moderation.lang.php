@@ -151,7 +151,7 @@ $l['view_notes_for'] = "Przegląda notatki użytkownika {1}";
 
 $l['purgespammer'] = "Usuń spamera";
 $l['purgespammer_purge'] = "Usuń spamera {1}";
-$l['purgespammer_purge_desc'] = "Wybranie opcji spowoduje usunięcie całej aktywności (postów, prywatnych wiadomości, wydarzeń, itp.) spamera oraz samego użytkownika {1}.";
+$l['purgespammer_purge_desc'] = "Wybranie opcji spowoduje usunięcie całej aktywności spamera (postów, prywatnych wiadomości, wydarzeń, itp.) oraz samego użytkownika.";
 $l['purgespammer_ban'] = "zbanuj";
 $l['purgespammer_delete'] = "usuń";
 $l['purgespammer_submit'] = "Usuń spamera";  
