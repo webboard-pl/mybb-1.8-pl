@@ -24,7 +24,7 @@ $l['group_leaders'] = "Liderzy grupy";
 $l['group_members'] = "Członkowie";
 
 $l['no_members'] = "W tej grupie nie ma użytkowników.";
-$l['showteam_disabled'] = "Włączenie podglądu ekipy forum została wyłączona przez administratora.";
+$l['showteam_disabled'] = "Podgląd ekipy forum został wyłączony przez administratora.";
 
 $l['error_noteamstoshow'] = "Nie ma nikogo do wyświetlenia.";
 
