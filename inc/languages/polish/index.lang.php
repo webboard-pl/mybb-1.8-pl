@@ -16,7 +16,6 @@ $l['forum_unapproved_post_count'] = "Aktualnie w tym dziale znajduje się 1 ukry
 $l['forum_unapproved_threads_count'] = "Aktualnie w tym dziale znajduje się {1} ukrytych wątków.";
 $l['forum_unapproved_thread_count'] = "Aktualnie w tym dziale znajduje się 1 ukryty wątek.";
 
-$l['forumteam'] = "Ekipa forum";
 $l['forumstats'] = "Statystyki";
 $l['todays_birthdays'] = "Dzisiaj urodziny obchodzą";
 $l['birthdayhidden'] = "Ukryto";

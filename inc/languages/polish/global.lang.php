@@ -16,6 +16,7 @@ $l['toplinks_search'] = "Szukaj";
 $l['toplinks_calendar'] = "Kalendarz";
 $l['toplinks_help'] = "Pomoc";
 $l['toplinks_portal'] = "Portal";
+$l['bottomlinks_forumteam'] = "Ekipa forum";
 $l['bottomlinks_contactus'] = "Kontakt";
 $l['bottomlinks_returntop'] = "Wróć do góry";
 $l['bottomlinks_syndication'] = "RSS";
@@ -272,6 +273,7 @@ $l['postbit_quick_edit'] = "Szybka edycja";
 $l['postbit_full_edit'] = "Pełna edycja";
 $l['postbit_show_ignored_post'] = "Pokaż post";
 $l['postbit_currently_ignoring_user'] = "Zawartość posta została ukryta, ponieważ {1} jest na <a href=\"usercp.php?action=editlists\">liście ignorowanych</a>.";
+$l['postbit_post_under_moderation'] = "Napisany przez Ciebie post jest obecnie w kolejce do zaakceptowania i obecnie nie jest widoczny publicznie. Post będzie widoczny dla wszystkich po zaakceptowaniu go przez moderatora.";
 $l['postbit_warning_level'] = "Poziom ostrzeżeń:";
 $l['postbit_warn'] = "Dodaj ostrzeżenie za ten post";
 $l['postbit_purgespammer'] = "Usuń spamera";
@@ -316,8 +318,16 @@ $l['smilieinsert_getmore'] = "więcej";
 $l['on'] = "włączone";
 $l['off'] = "wyłączone";
 $l['remote_avatar_disabled_default_avatar'] = "Używasz zdalnego awataru, który został wyłączony. Zastąpimy go domyślnym awatarem.";
-$l['unread_report'] = "Notatka dla moderatora: jest jeden nowy raportowany post.";
-$l['unread_reports'] = "Notatka dla moderatora: są nowe raportowane posty ({1}).";
+$l['mod_notice'] = "Czekających na moderację: {1}.";
+$l['unapproved_thread'] = "1 niezatwierdzony wątek";
+$l['unapproved_threads'] = "{1} niezatwierdzonych wątków";
+$l['unapproved_post'] = "1 niezatwierdzony post";
+$l['unapproved_posts'] = "{1} niezatwierdzonych postów";
+$l['unapproved_attachment'] = "1 niezatwierdzony załącznik";
+$l['unapproved_attachments'] = "{1} niezatwierdzonych załączników";
+$l['unread_report'] = "1 nieprzeczytane zgłoszenie";
+$l['unread_reports'] = "{1} nieprzeczytane zgłoszenia";
+
 $l['pending_joinrequest'] = "Notatka dla lidera grupy: jest jedno zgłoszenie do grupy, której jesteś liderem.";
 $l['pending_joinrequests'] = "Notatka dla lidera grupy: jest {1} zgłoszeń do grupy, której jesteś liderem.";
 
@@ -405,7 +415,9 @@ $l['removeattach_confirm'] = "Czy na pewno chcesz usunąć zaznaczone załączni
 
 $l['latest_threads'] = "Najnowsze wątki";
 
+
 $l['folder_inbox'] = "Odebrane";
+$l['folder_unread'] = "Nieprzeczytane";
 $l['folder_sent_items'] = "Wysłane";
 $l['folder_drafts'] = "Szkice";
 $l['folder_trash'] = "Usunięte";

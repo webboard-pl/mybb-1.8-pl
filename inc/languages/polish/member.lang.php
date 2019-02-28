@@ -18,7 +18,13 @@ $l['nav_lostpw'] = "Przywracanie zapomnianego hasła";
 $l['nav_resetpassword'] = "Resetuj hasło";
 $l['nav_login'] = "Logowanie";
 $l['nav_emailuser'] = "Pisanie e-maila";
+$l['nav_referrals'] = "Użytkownicy poleceni przez {1}";
 $l['nav_profile'] = "Profil: {1}";
+
+$l['referrals'] = 'Poleceni';
+$l['referral_date'] = 'Polecono:';
+$l['referrals_no_user_specified'] = 'Nieznany.';
+$l['member_no_referrals'] = 'Nie znaleziono poleconych przez tego użytkownika.';
 
 $l['tpp_option'] = "Pokaż {1} wątków na stronę";
 $l['ppp_option'] = "Pokaż {1} postów na stronę";
@@ -176,6 +182,8 @@ $l['membdayage'] = "({1} lat)";
 $l['mod_options'] = "Opcje moderatora";
 $l['edit_in_mcp'] = "Edytuj tego użytkownika w panelu moderatora";
 $l['ban_in_mcp'] = "Zbanuj tego użytkownika w panelu moderatora";
+$l['edit_ban_in_mcp'] = "Edytuj bana użytkownika w panelu moderatora";
+$l['lift_ban_in_mcp'] = "Zbanuj w sposób nietrwałt tego użytkownika w panelu moderatora";
 $l['purgespammer'] = "Usuń spamera";
 $l['edit_usernotes'] = "Edytuj notatki o użytkowniku w panelu moderatora";
 $l['no_usernotes'] = "Nie ma notatek o tym użytkowniku";
