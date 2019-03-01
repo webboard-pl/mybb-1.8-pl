@@ -273,7 +273,7 @@ $l['postbit_quick_edit'] = "Szybka edycja";
 $l['postbit_full_edit'] = "Pełna edycja";
 $l['postbit_show_ignored_post'] = "Pokaż post";
 $l['postbit_currently_ignoring_user'] = "Zawartość posta została ukryta, ponieważ {1} jest na <a href=\"usercp.php?action=editlists\">liście ignorowanych</a>.";
-$l['postbit_post_under_moderation'] = "Napisany przez Ciebie post jest obecnie w kolejce do zaakceptowania i obecnie nie jest widoczny publicznie. Post będzie widoczny dla wszystkich po zaakceptowaniu go przez moderatora.";
+$l['postbit_post_under_moderation'] = "Napisany przez Ciebie post został umieszczony w kolejce do zaakceptowania i obecnie nie jest widoczny publicznie. Post będzie widoczny dla wszystkich po zaakceptowaniu go przez moderatora.";
 $l['postbit_warning_level'] = "Poziom ostrzeżeń:";
 $l['postbit_warn'] = "Dodaj ostrzeżenie za ten post";
 $l['postbit_purgespammer'] = "Usuń spamera";
