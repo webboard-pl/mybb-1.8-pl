@@ -7,7 +7,7 @@
  */
 
 $l['attachment_types'] = "Typy załączników";
-$l['attachment_types_desc'] = "Twórz i zarządzaj typami załączników, ograniczając możliwość załączania plików o nieznanych rozszerzeniach.";
+$l['attachment_types_desc'] = "Twórz i zarządzaj typami załączników, ograniczając możliwość załączania plików o nieznanych rozszerzeniach. Uwaga: wyłączenie danego typu załącznika spowoduje, że istniejące już załączniki tego typu będą niedostępne.";
 $l['add_new_attachment_type'] = "Nowy typ";
 $l['add_attachment_type'] = "Nowy typ załączników";
 $l['add_attachment_type_desc'] = "Dodanie typu załączników pozwoli użytkownikom na dołączenie plików tego typu do ich wypowiedzi. Dla każdego typu załącznika możesz ustalić rozszerzenie, typ MIME, maksymalny rozmiar i ikonkę.";

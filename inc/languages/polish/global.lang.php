@@ -147,8 +147,8 @@ $l['multipage_last'] = "Ostatnia";
 $l['multipage_first'] = "Pierwsza";
 $l['multipage_next'] = "Następna";
 $l['multipage_previous'] = "Poprzednia";
-$l['multipage_link_start'] = " ...";
-$l['multipage_link_end'] = "... ";
+$l['multipage_link_start'] = " &hellip;";
+$l['multipage_link_end'] = "&hellip; ";
 $l['multipage_jump'] = "Idź do strony";
 
 $l['editor_bold'] = "Pogrubienie";
@@ -306,7 +306,7 @@ $l['forumjump'] = "Skocz do:";
 $l['forumjump_pms'] = "Prywatne wiadomości";
 $l['forumjump_usercp'] = "Panel użytkownika";
 $l['forumjump_wol'] = "Kto jest online";
-$l['forumjump_search'] = "Szukaj...";
+$l['forumjump_search'] = "Szukaj&hellip;";
 $l['forumjump_home'] = "Strona główna forum";
 
 $l['redirect'] = "Teraz nastąpi przeniesienie";
@@ -437,8 +437,8 @@ $l['error_database_repair'] = "MyBB automatycznie naprawia uszkodzoną tabelę b
 $l['unknown_user_trigger'] = "Wystąpił nieznany błąd.";
 $l['warnings'] = "Wystąpiły następujące problemy:";
 
-$l['ajax_loading'] = "Wczytywanie<br />Proszę czekać...";
-$l['saving_changes'] = "Zapisywanie zmian...";
+$l['ajax_loading'] = "Wczytywanie<br />Proszę czekać&hellip;";
+$l['saving_changes'] = "Zapisywanie zmian&hellip;";
 $l['refresh'] = "Odśwież";
 $l['select_language'] = "Wybierz język";
 $l['select_theme'] = "Wybierz styl";

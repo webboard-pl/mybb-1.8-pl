@@ -99,7 +99,7 @@ $l['emailsubject_newpm'] = "Nowa prywatna wiadomość na forum {1} - {2}";
 $l['emailsubject_newjoinrequest'] = "Nowa prośba o przyjęcie do grupy na forum {1}";
 $l['emailsubject_sendtofriend'] = "Interesujący wątek na forum {1}";
 $l['emailsubject_changepassword'] = "Zmiana hasła na forum {1}";
-$l['emailbit_viewthread'] = "... (odwiedź ten wątek, by przeczytać pełną treść...)";
+$l['emailbit_viewthread'] = "&hellip; (odwiedź ten wątek, by przeczytać pełną treść&hellip;)";
 
 $l['email_lostpw'] = "{1},
 

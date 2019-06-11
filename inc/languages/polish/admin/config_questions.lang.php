@@ -13,6 +13,7 @@ $l['add_new_question'] = "Dodaj nowe pytanie";
 $l['add_new_question_desc'] = "Dodaj pytanie i akceptowane odpowiedzi na nie. Podczas rejestracji będzie wymagana odpowiedź na jedno z pytań.";
 $l['edit_question'] = "Edytuj pytanie";
 $l['edit_question_desc'] = "Edytuj pytanie i akceptowane odpowiedzi na nie.";
+$l['preview_question'] = "Podgląd pytania";
 
 $l['options'] = "Opcje";
 $l['shown'] = "Pokazane";

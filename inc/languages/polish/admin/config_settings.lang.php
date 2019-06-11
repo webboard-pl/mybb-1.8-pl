@@ -90,7 +90,7 @@ $l['error_cannot_edit_default'] = "Domyślne wpisy i grupy ustawień nie mogą z
 $l['error_cannot_edit_php'] = "To jest specjalny typ wpisu ustawień - nie może być edytowany.";
 $l['error_ajax_search'] = "Wystąpił problem podczas wyszukiwania wpisów ustawień:";
 $l['error_ajax_unknown'] = "Wystąpił nieznany błąd podczas wyszukiwania wpisów ustawień.";
-$l['error_chmod_settings_file'] = "Plik ustawień \"./inc/settings.php\" nie posiada praw do zapisu. Nadaj mu uprawnienia CHMOD 777.<br />Aby uzyskać więcej informacji na temat nadawania uprawnień CHMOD, sprawdź href=\"http://docs.mybb.com/HowTo_Chmod.html\" target=\"_blank\" rel=\"noopener\">Dokumentację MyBB</a>.";
+$l['error_chmod_settings_file'] = "Plik ustawień \"./inc/settings.php\" nie posiada praw do zapisu. Nadaj mu uprawnienia CHMOD 666.<br />Aby uzyskać więcej informacji na temat nadawania uprawnień CHMOD, sprawdź href=\"http://docs.mybb.com/HowTo_Chmod.html\" target=\"_blank\" rel=\"noopener\">Dokumentację MyBB</a>.";
 
 $l['success_setting_added'] = "Wpis ustawień został utworzony.";
 $l['success_setting_updated'] = "Wpis ustawień został zaktualizowany.";
@@ -107,7 +107,7 @@ $l['success_setting_group_updated'] = "Grupa ustawień została zaktualizowana."
 $l['success_setting_group_deleted'] = "Grupa ustawień została usunięta.";
 $l['success_duplicate_settings_deleted'] = "Wszystkie zduplikowane grupy ustawień zostały usunięte.";
 
-$l['searching'] = 'Wyszukiwanie...';
+$l['searching'] = 'Wyszukiwanie&hellip;';
 $l['search_error'] = 'Wystąpił błąd podczas zwracania wyników wyszukiwania:';
 $l['search_done'] = 'Zrobione!';
 

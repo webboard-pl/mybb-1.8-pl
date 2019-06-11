@@ -73,11 +73,11 @@ $l['step2of2'] = "Krok 2 z 2 - skanowanie bazy danych";
 $l['step1of2_line1'] = "Proszę czekać, system plików jest skanowany w poszukiwaniu nieużywanych załączników.";
 $l['step2of2_line1'] = "Proszę czekać, baza danych jest skanowana w poszukiwaniu nieużywanych załączników.";
 $l['step_line2'] = "Po zakończeniu procesu nastąpi przeniesienie do kolejnego kroku.";
-$l['scanning'] = 'Skanowanie...';
+$l['scanning'] = 'Skanowanie&hellip;';
 
 // = Attachments / Index
 $l['index_find_attachments'] = "Załączniki - szukanie";
-$l['find_where'] = "Znajdź załączniki, dla których...";
+$l['find_where'] = "Znajdź załączniki, dla których&hellip;";
 $l['name_contains'] = "Nazwa pliku zawiera";
 $l['name_contains_desc'] = "Użyj \"*\", by zastąpić dowolny ciąg znaków. Przykład: *.zip";
 $l['type_contains'] = "Typ pliku zawiera";

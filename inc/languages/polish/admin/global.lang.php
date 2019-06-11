@@ -179,7 +179,7 @@ $l['cannot_perform_action_super_admin_general'] = "Wskazana czynność może zos
 
 
 // AJAX
-$l['loading_text'] = "Ładowanie<br />Proszę czekać...";
+$l['loading_text'] = "Ładowanie<br />Proszę czekać&hellip;";
 
 // Time zone selection boxes
 $l['timezone_gmt_minus_1200'] = "(GMT -12:00) Wyspy Marshalla";

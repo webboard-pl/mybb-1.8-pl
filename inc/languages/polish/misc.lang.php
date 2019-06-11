@@ -70,6 +70,7 @@ $l['syndication_forum'] = "Działy do subskrybowania (RSS):";
 $l['syndication_forum_desc'] = "Wybierz działy, które chcesz subskrybować przez RSS. By zaznaczyć kilka działów naraz, przytrzymaj klawisz CTRL i kliknij je.";
 $l['syndication_version'] = "Wersja RSS:";
 $l['syndication_version_desc'] = "Wybierz preferowaną wersję RSS.";
+$l['syndication_version_json1'] = "JSON Feed 1";
 $l['syndication_version_atom1'] = "Atom 1.0";
 $l['syndication_version_rss2'] = "RSS 2.00 (domyślnie)";
 $l['syndication_generate'] = "Generuj link do RSS";

@@ -337,7 +337,7 @@ $l['show_attachments'] = "Pokaż załączniki";
 $l['table_view'] = "Widok tabelaryczny";
 $l['card_view'] = "Widok wizytówek";
 
-$l['find_users_where'] = "Znajdź użytkowników, których...";
+$l['find_users_where'] = "Znajdź użytkowników, których&hellip;";
 $l['username_contains'] = "Login zawiera";
 $l['email_address_contains'] = "Adres e-mail zawiera";
 $l['is_member_of_groups'] = "Grupa użytkowników to";
@@ -356,7 +356,7 @@ $l['thread_count_is'] = "Liczba wątków";
 $l['reg_ip_matches'] = "Adres IP rejestracji to";
 $l['wildcard'] = "użyj * by zastąpić dowolny oktet adresu IP, np. 1.2.*.*";
 $l['posted_with_ip'] = "Jednym z adresów IP postowania jest";
-$l['custom_profile_fields_match'] = "Gdzie jedno z dodatkowych pól jest równe";
+$l['custom_profile_fields_match'] = "Gdzie jedno z dodatkowych pól jest równe&hellip;";
 $l['is_not_blank'] = " nie jest puste";
 $l['or'] = "lub";
 $l['reg_in_x_days'] = "Zarejestrował się w ciągu ostatnich";

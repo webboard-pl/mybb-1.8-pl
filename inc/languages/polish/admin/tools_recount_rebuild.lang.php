@@ -50,4 +50,4 @@ $l['success_rebuilt_thread_ratings'] = "Oceny wątków zostały zaktualizowane."
 
 
 $l['confirm_proceed_rebuild'] = "Kliknij \"Kontynuuj\", aby kontynuować proces przeliczania i przebudowy.";
-$l['automatically_redirecting'] = "Automatyczne przekierowanie...";
+$l['automatically_redirecting'] = "Automatyczne przekierowanie&hellip;";

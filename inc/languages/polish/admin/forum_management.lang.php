@@ -281,4 +281,4 @@ $l['polls_field_canvotepolls'] = "Może głosować w ankietach?";
 $l['misc_field_cansearch'] = "Może korzystać z wyszukiwarki?";
 
 $l['confirm_proceed_deletion'] = "Kliknij \"kontynuuj\" aby kontynuować usuwanie forum.";
-$l['automatically_redirecting'] = "Automatyczne przekierowanie...";
+$l['automatically_redirecting'] = "Automatyczne przekierowanie&hellip;";
