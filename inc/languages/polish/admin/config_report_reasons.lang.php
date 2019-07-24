@@ -1,9 +1,9 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2018 Webboard.pl Team
+ * * Copyright © 2008-2019 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
- * Autorzy: bryn, DamYan, gigi, matc, szulcu, Conors, Divir, Matslom | Testerzy: hippie
+ * Autorzy: bryn, DamYan, gigi, matc, szulcu, Łukasz, Divir, Matslom | Testerzy: hippie
  */
 
 $l['report_reasons'] = "Powody zgłoszeń";
