@@ -40,6 +40,7 @@ $l['group_selection_box'] = "Pole wyboru grupy";
 $l['group_selection_single'] = "Pojedyncze pole wyboru grupy";
 $l['adminlanguage'] = "Pole wyboru języka panelu administratora";
 $l['cpstyle'] = "Pole wyboru stylów panelu administratora";
+$l['prefix_selection_box'] = "Pole wyboru prefiksu";
 $l['php'] = "Wykonany kod PHP";
 $l['type'] = "Typ";
 $l['extra'] = "Dodatkowe";

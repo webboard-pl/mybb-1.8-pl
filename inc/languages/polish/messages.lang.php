@@ -83,6 +83,7 @@ $l['failed_login_wait'] = "Przekroczono limit błędnych logowań. Musisz odczek
 $l['failed_login_again'] = "<br/>Pozostało Ci jeszcze <strong>{1}</strong> prób logowania.";
 $l['error_max_emails_day'] = "Nie możesz użyć opcji \"Wyślij wątek do znajomego\" i \"E-mail do użytkownika\" - przekroczono limit {1} wiadomości na dobę.";
 $l['attachments_disabled'] = "Nie możesz dodać załącznika, ponieważ taka możliwość została wyłączona przez administratora.";
+$l['error_attach_filename_length'] = "Nazwa pliku '{1}' przekracza maksymalną długość nazwy pliku {2}. Skróć nazwę pliku i spróbuj ponownie.";
 
 $l['emailsubject_lostpw'] = "Zmiana hasła na forum {1}";
 $l['emailsubject_passwordreset'] = "Nowe hasło na forum {1}";

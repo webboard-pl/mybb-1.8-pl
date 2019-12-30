@@ -11,11 +11,9 @@ $l['nav_smilies'] = "Emotikony";
 $l['nav_syndication'] = "RSS";
 
 $l['skype'] = "Skype";
-$l['yahoo_im'] = "Yahoo IM";
 $l['skype_center'] = "Centrum Skype";
 $l['chat_on_skype'] = "Napisz wiadomość do {1} na Skype";
 $l['call_on_skype'] = "Zadzwoń do {1} na Skype";
-$l['yahoo_center'] = "Centrum Yahoo!";
 /* tych sześciu kawałków - dot. AIM - nie tłumaczymy */
 $l['send_me_instant'] = "Send me an Instant Message";
 $l['add_me_buddy_list'] = "Add me to Your Buddy List";

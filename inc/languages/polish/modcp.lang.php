@@ -134,7 +134,6 @@ $l['profile_optional'] = "Dodatkowe pola";
 $l['website_url'] = "Strona domowa:";
 $l['birthdate'] = "Urodziny:";
 $l['icq_number'] = "Numer ICQ:";
-$l['yahoo_id'] = "Identyfikator Yahoo:";
 $l['skype_id'] = "Identyfikator Skype:";
 $l['google_id'] = "Identyfikator Google Hangouts:";
 $l['away_notice'] = "Ta opcja pozwala na ustawienie statusu \"Nieobecny\".";

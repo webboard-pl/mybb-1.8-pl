@@ -18,7 +18,7 @@ $l['d1_document'] = "Większość funkcji forum jest dostępne tylko dla osób z
 // Help Document 2
 $l['d2_name'] = "Aktualizowanie profilu";
 $l['d2_desc'] = "Zmienianie ustawień w profilu";
-$l['d2_document'] = "Po rejestracji na forum, możesz zmieniać informacje osobiste w profilu, takie jak: komunikatory, hasło, lub - jeśli potrzeba - adres e-mail. Wszystkie z tych informacji i ustawień można ustawić w [panelu użytkownika] znajdującym się u góry po prawej. Następnie kliknij [Edytuj profil] i aktualizuj swoje ustawienia. Pamiętaj o kliknięciu w przycisk [Zatwierdź], aby zmiany zostały zachowane.";
+$l['d2_document'] = "Po rejestracji na forum, możesz zmieniać informacje osobiste w profilu, takie jak: komunikatory, hasło, lub - jeśli potrzeba - adres e-mail. Wszystkie z tych informacji i ustawień można ustawić w [panelu użytkownika] znajdującym się u góry po lewej. Następnie kliknij [Edytuj profil] i aktualizuj swoje ustawienia. Pamiętaj o kliknięciu w przycisk [Zatwierdź], aby zmiany zostały zachowane.";
 
 // Help Document 3
 $l['d3_name'] = "Ciasteczka w MyBB";

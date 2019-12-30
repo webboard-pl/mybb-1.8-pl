@@ -210,7 +210,6 @@ $l['profile_optional'] = "Niewymagane pola";
 $l['website_url'] = "Strona domowa:";
 $l['birthdate'] = "Urodziny:";
 $l['contact_field_icq'] = "Numer ICQ:";
-$l['contact_field_yahoo'] = "Identyfikator Yahoo:";
 $l['contact_field_skype'] = "Identyfikator Skype:";
 $l['contact_field_google'] = "Identyfikator Google Hangouts:";
 $l['additional_information'] = "Dodatkowe informacje";
