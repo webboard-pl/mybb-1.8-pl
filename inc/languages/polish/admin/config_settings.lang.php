@@ -1373,3 +1373,5 @@ $l['setting_announcementshtml'] = "Zezwolić na HTML w ogłoszeniach?";
 $l['setting_announcementshtml_desc'] = "Zezwolić moderatorom na używanie HTML w ogłoszeniach?";
 $l['setting_prunepostcountall'] = "Liczyć wszystkie posty?";
 $l['setting_prunepostcountall_desc'] = "Jeśli włączysz tę opcję wszystkie posty będą brane pod uwagę, nawet te, pisane w działach, w których liczenie postów jest wyłączone.";
+$l['setting_referralsperpage'] = "Poleceń na stronę";
+$l['setting_referralsperpage_desc'] = "Liczba poleceń do wyświetlenia na jednej stronie.";
