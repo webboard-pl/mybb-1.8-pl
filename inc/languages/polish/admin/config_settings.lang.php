@@ -1170,8 +1170,8 @@ $l['setting_group_attachments_desc'] = "Ustawienia związane z systemem załącz
 
 $l['setting_contact_guests'] = "Wyłączyć formularz kontaktowy dla gości?";
 $l['setting_contact_guests_desc'] = "Czy chcesz, aby niezalogowani użytkownicy nie mieli dostępu do formularza kontaktowego?";
-$l['setting_soft_delete'] = "Włączyć nietrwałe usuwanie?";
-$l['setting_soft_delete_desc'] = "Włączenie tej opcji pozwoli na przywracanie postów i wątków usuniętych przez użytkowników. W innym wypadku posty i wątki będą bezpowrotnie usuwane.";
+$l['setting_soft_delete'] = "Włączyć nietrwałe usuwanie dla użytkowników?";
+$l['setting_soft_delete_desc'] = "Jeśli włączysz tę opcję, posty i wątki usunięte przez użytkowników będą ukryte i mogą być przywrócone przez moderatorów. W przeciwnym razie posty i wątki zostaną trwale usunięte.";
 $l['setting_showthemeselect'] = "Pokazywać pole wyboru stylu w stopce?";
 $l['setting_showthemeselect_desc'] = "Wybierz \"Nie\" jeśli nie chcesz, by w stopce forum wyświetlane było pole szybkiej zmiany stylu.";
 $l['setting_minifycss'] = "Zmniejszać rozmiar arkuszy kaskadowych stylów (CSS)?";
