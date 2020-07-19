@@ -44,5 +44,6 @@ $l['success_perms_deleted'] = 'Uprawnienia dla użytkownika/grupy zostały cofni
 
 $l['confirm_perms_deletion'] = "Czy na pewno chcesz cofnąć uprawnienia temu użytkownikowi/tej grupie?";
 $l['confirm_perms_deletion2'] = "Czy na pewno chcesz cofnąć uprawnienia temu użytkownikowi?";
+$l['confirm_perms_deletion3'] = "Czy na pewno chcesz cofnąć uprawnienia tej grupy?";
 
 

@@ -6,7 +6,7 @@
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Łukasz, Divir | Testerzy: hippie
  */
 
-$l['warnings_reached_max_warnings_day'] = 'Nie możesz ostrzec żadnego użytkownika, bo przekroczono już dzienny limit dodanych ostrzeżeń.<br /><br />Możesz dodać maksymalnie {1} ostrzeżeń dziennie.';
+$l['warnings_reached_max_warnings_day'] = "Nie możesz ostrzec żadnego użytkownika, bo przekroczono już dzienny limit dodanych ostrzeżeń.<br /><br />Możesz dodać maksymalnie {1} ostrzeżeń dziennie.";
 $l['warnings_error_invalid_user'] = "Wybrany użytkownik nie istnieje.";
 $l['warnings_error_invalid_post'] = "Wybrany post nie istnieje.";
 $l['warnings_error_cannot_warn_self'] = "Nie możesz przyznać ostrzeżenia sam sobie.";

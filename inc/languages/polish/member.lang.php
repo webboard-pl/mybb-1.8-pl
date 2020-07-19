@@ -24,6 +24,7 @@ $l['nav_profile'] = "Profil: {1}";
 $l['referrals'] = 'Poleceni';
 $l['referral_date'] = 'Polecono:';
 $l['referrals_no_user_specified'] = 'Nieznany.';
+$l['referrals_invalid_user'] = 'Nieznany użytkownik.';
 $l['member_no_referrals'] = 'Nie znaleziono poleconych przez tego użytkownika.';
 
 $l['tpp_option'] = "Pokaż {1} wątków na stronę";
@@ -122,8 +123,8 @@ $l['dst_correction_enabled'] = "Zawsze używaj DST";
 $l['dst_correction_disabled'] = "Nigdy nie używaj DST";
 $l['redirect_registered_coppa_activate'] = "Dziękujemy za rejestrację w {1}, {2}. Konto zostało utworzone, ale ponieważ nie spełniasz wymogu ukończenia 13 roku życia, musisz dostarczyć zgodę rodziców na używanie tego konta.<br /><br />Twój rodzic lub prawny opiekun musi pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\">formularza COPPA</a>.<br /><br />Gdy dotrze do nas wypełniony formularz, Twoje konto zostanie aktywowane.";
 $l['coppa_compliance'] = "COPPA";
-$l['coppa_desc'] = "Aby zarejestrować Cię na tym forum, musimy sprawdzić, czy spełniasz warunki <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. Podaj swoją datę urodzenia.<br /><br />Jeżeli masz mniej niż 13 lat, do rejestracji będzie wymagana zgoda rodziców. Twój rodzic lub prawny opiekun będzie musiał pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\" rel=\"noopener\">formularza COPPA</a>.";
-$l['coppa_desc_for_deny'] = "Aby zarejestrować Cię na tym forum, wymagamy weryfikacji wieku zgodnej z <a href=\"http://coppa.org/\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. Podaj swoją datę urodzenia.";
+$l['coppa_desc'] = "Aby zarejestrować Cię na tym forum, musimy sprawdzić, czy spełniasz warunki <a href=\"https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. Podaj swoją datę urodzenia.<br /><br />Jeżeli masz mniej niż 13 lat, do rejestracji będzie wymagana zgoda rodziców. Twój rodzic lub prawny opiekun będzie musiał pobrać, wypełnić i wysłać nam kopię <a href=\"member.php?action=coppa_form\" rel=\"noopener\">formularza COPPA</a>.";
+$l['coppa_desc_for_deny'] = "Aby zarejestrować Cię na tym forum, wymagamy weryfikacji wieku zgodnej z <a href=\"https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. Podaj swoją datę urodzenia.";
 $l['hide_dob'] = "Edytując swój profil po zarejestrowaniu będziesz mieć możliwość ukrycia swojej daty urodzenia.";
 $l['signature'] = "Sygnatura:";
 $l['continue_registration'] = "Kontynuuj rejestrację";
@@ -196,6 +197,8 @@ $l['reputation_details'] = "Szczegóły";
 $l['already_logged_in'] = "Uwaga: jesteś już zalogowany jako {1}.";
 $l['admin_edit_in_acp'] = "Edytuj tego użytkownika w panelu administratora";
 $l['admin_ban_in_acp'] = "Zbanuj tego użytkownika w panelu administratora";
+$l['admin_lift_ban_in_acp'] = "Zdejmij bana użytkownika w panelu administratora";
+$l['admin_edit_ban_in_acp'] = "Edytuj bana użytowinika w panelu administratora";
 $l['admin_options'] = "Opcje administratora";
 
 $l['redirect_registered_activation'] = "Dziękujemy za rejestrację na {1}, {2}.<p>Aby zakończyć rejestrację, sprawdź swoją skrzynkę e-mail w celu aktywacji konta. Przed aktywacją konta nie możesz pisać na forum";

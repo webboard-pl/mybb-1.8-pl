@@ -52,7 +52,7 @@ $l['error_invalidusername'] = "Użytkownik z takim loginem nie istnieje.";
 $l['error_invalidpassword'] = "Wprowadzone hasło jest niepoprawne. Jeśli nie pamiętasz hasła, kliknij <a href=\"member.php?action=lostpw\">tutaj</a>, albo wróć i spróbuj ponownie.";
 $l['error_postflooding'] = "Nie możesz teraz napisać posta, ponieważ od publikacji przez Ciebie ostatniego posta musi minąć {1} sekund.";
 $l['error_nopermission_guest_1'] = "Nie nastąpiło zalogowanie, lub nie masz dostępu do tej części forum. Możliwe powody takiej sytuacji:";
-$l['error_nopermission_guest_2'] = "Nie zalogowano lub nie zarejestrowano się na forum. Zaloguj się lub zarejestruj.";
+$l['error_nopermission_guest_2'] = "Nie zalogowano lub nie zarejestrowano się na forum. Zaloguj się na nowo i spróbuj ponownie";
 $l['error_nopermission_guest_3'] = "Możesz nie mieć uprawnień do oglądania tej strony.";
 $l['error_nopermission_guest_4'] = "Twoje konto może być nieaktywne albo zablokowane.";
 $l['error_nopermission_guest_5'] = "Odwiedzono tę stronę wpisując jej adres bezpośrednio w pasek adresu przeglądarki zamiast użyć odpowiedniego formularza lub odnośnika.";
@@ -275,7 +275,7 @@ Ekipa {4}
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych wątkach, przejdź pod adres:
-{7}/usercp.php?action=removesubscription&type=forum&fid={9}&my_post_key={10}
+{7}/usercp.php?action=removesubscription&type=forum&fid={9}
 
 ------------------------------------------";
 
@@ -351,7 +351,7 @@ Ekipa {3}
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych odpowiedziach w tym wątku, przejdź pod adres:
-{6}/usercp.php?action=removesubscription&tid={8}&my_post_key={9}
+{6}/usercp.php?action=removesubscription&tid={8}
 
 ------------------------------------------";
 $l['email_reachedpmquota'] = "{1},
@@ -497,7 +497,7 @@ Kolejne powiadomienia otrzymasz dopiero po odwiedzeniu forum.
 Rezygnacja ze subskrypcji:
 
 Jeśli nie chcesz otrzymywać informacji o nowych odpowiedziach w tym wątku, przejdź pod adres:
-[url]{5}/usercp.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
+[url]{5}/usercp.php?action=removesubscription&tid={7}[/url]
 
 ------------------------------------------";
 

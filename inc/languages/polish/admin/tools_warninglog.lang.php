@@ -49,3 +49,5 @@ $l['date_revoked'] = "Data wycofania:";
 $l['error_already_revoked'] = "To ostrzeżenie zostało już wycofane.";
 $l['error_no_revoke_reason'] = "Wprowadź powód wycofania ostrzeżenia.";
 $l['redirect_warning_revoked'] = "Pomyślnie wycofano ostrzeżenie, a poziom ostrzeżeń użytkownika został zmniejszony.";
+
+$l['warning_points'] = "({1} punktów)";
