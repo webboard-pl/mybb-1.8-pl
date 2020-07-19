@@ -11,9 +11,9 @@ $l['forum_announcements'] = "Ogłoszenia";
 $l['forum_announcements_desc'] = "Zarządzaj ogłoszeniami na swoim forum. Ogłoszenia globalne będą widoczne w każdym dziale, zaś te, które przypiszesz do konkretnego działu będą widoczne tylko w nim i jego poddziałach.";
 $l['add_announcement'] = "Nowe ogłoszenie";
 $l['add_announcement_desc'] = "Utwórz ogłoszenie w jednym lub wielu działach.";
-$l['update_announcement'] = "Edytuj ogłoszenie";
+$l['update_announcement'] = "Zaktualizuj ogłoszenie";
 $l['preview_announcement'] = "Podejrzyj ogłoszenie";
-$l['update_announcement_desc'] = "Edytuj ustawienia ogłoszenia.";
+$l['update_announcement_desc'] = "Zaktualizuj ustawienia ogłoszenia.";
 
 $l['start_date_desc'] = "We wskazanym momencie (wg czasu UTC) ogłoszenie pojawi się w wybranych działach.";
 $l['end_date_desc'] = "We wskazanym momencie (wg czasu UTC) ogłoszenie przestanie być widoczne. Możesz wybrać opcję \"Nigdy\" by ogłoszenie było widoczne do czasu ręcznego usunięcia.";

@@ -108,7 +108,6 @@ $l['members_were_online_today'] = "W ciągu ostatnich 24 godzin było <strong>{1
 $l['member_online_hidden'] = " ({1} z nich był ukryty)";
 $l['members_online_hidden'] = " ({1} z nich było ukrytych)";
 $l['rating_thread'] = "Ocenia wątek";
-$l['viewing_imcenter'] = "Przegląda centrum IM";
 $l['managing_favorites'] = "Zarządza ulubionymi";
 $l['managing_subscriptions'] = "Zarządza subskrybowanymi wątkami";
 $l['managing_group'] = "Zarządza grupą użytkowników";

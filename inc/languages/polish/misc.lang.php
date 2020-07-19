@@ -10,15 +10,6 @@ $l['nav_helpdocs'] = "Dokumentacja";
 $l['nav_smilies'] = "Emotikony";
 $l['nav_syndication'] = "RSS";
 
-$l['skype'] = "Skype";
-$l['skype_center'] = "Centrum Skype";
-$l['chat_on_skype'] = "Napisz wiadomość do {1} na Skype";
-$l['call_on_skype'] = "Zadzwoń do {1} na Skype";
-/* tych sześciu kawałków - dot. AIM - nie tłumaczymy */
-$l['send_me_instant'] = "Send me an Instant Message";
-$l['add_me_buddy_list'] = "Add me to Your Buddy List";
-$l['add_remote_to_page'] = "Add Remote to Your Page";
-
 $l['buddy_list'] = "Lista znajomych";
 $l['online'] = "Online";
 $l['online_none'] = "<em>Nie ma znajomych w trybie online</em>";
@@ -84,7 +75,6 @@ $l['redirect_cookiescleared'] = "Wszystkie ciasteczka zostały wyczyszczone.";
 
 $l['error_invalidforum'] = "Nieprawidłowy dział";
 $l['error_invalidhelpdoc'] = "Wybrany dokument pomocy nie istnieje.";
-$l['error_invalidimtype'] = "Ten użytkownik nie określił w profilu swoich danych dla tego komunikatora.";
 $l['error_invalidsearch'] = "Wpisano nieprawidłową frazę do wyszukania. Wróć i spróbuj ponownie.";
 $l['error_no_search_support'] = "Ten silnik bazy danych nie wspiera wyszukiwania.";
 $l['error_searchflooding'] = "Możesz wykonać tylko jedno wyszukiwanie w ciągu {1} sekund. Poczekaj {2} sekund przed następną próbą.";

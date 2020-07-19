@@ -165,6 +165,7 @@ $l['error_nopmsarchive'] = "Nie znaleziono prywatnych wiadomości spełniającyc
 $l['error_invalidpmfoldername'] = "Wprowadzona nazwa folderu zawiera niedozwolone znaki.";
 $l['error_emptypmfoldername'] = "Wprowadzona nazwa folderu nie zawiera żadnego tekstu. Wpisz nazwę folderu, albo pozostaw ją zupełnie pustą by usunąć folder.";
 $l['error_invalidpmrecipient'] = "Wprowadzony odbiorca nie jest prawidłowy. Wróć i popraw ten błąd.";
+$l['error_invalidmovefid'] = "Folder, do którego próbujesz przenieść swoje wiadomości, jest nieprawidłowy. Wróć i spróbuj ponownie.";
 $l['error_invalidpm'] = "Nieprawidłowa PW";
 $l['error_pmrecipientreachedquota'] = "Nie możesz wysłać prywatnej wiadomości do {1}, gdyż ten użytkownik przekroczył limit miejsca na PW. Nie będzie mógł wysłać/odbierać żadnych wiadomości dopóki nie zostanie opróżniona jego skrzynka. Ten użytkownik został powiadomiony e-mailem o zaistniałej sytuacji. Spróbuj wysłać wiadomość później.";
 $l['error_recipientpmturnedoff'] = "{1} wyłączył prywatne wiadomości lub nie ma uprawnień do używania ich. Nie możesz wysłać PW do tego użytkownika.";

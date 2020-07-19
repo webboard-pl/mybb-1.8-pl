@@ -22,6 +22,7 @@ $l['search_members'] = "Szukaj na liście użytkowników";
 $l['website'] = "Strona domowa";
 $l['sort_by'] = "Sortuj wg";
 $l['contains'] = "Zawiera:";
+$l['exactly'] = "Dokładnie:";
 $l['sort_by_username'] = "loginu";
 $l['sort_by_regdate'] = "daty rejestracji";
 $l['sort_by_lastvisit'] = "daty ostatniej wizyty";

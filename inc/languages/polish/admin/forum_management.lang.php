@@ -23,6 +23,7 @@ $l['edit_forum'] = "Edytuj dział";
 $l['edit_mod'] = "Edytuj moderatora";
 $l['edit_mod_desc'] = "Modyfikuj ustawienia dotyczące wybranego moderatora.";
 $l['forum_moderators'] = "Moderatorzy działu";
+$l['forum_thread_prefixes'] = "Prefiksy wątków";
 $l['forum_permissions2'] = "Uprawnienia do działu";
 $l['more_subforums'] = "i {1} innych.";
 

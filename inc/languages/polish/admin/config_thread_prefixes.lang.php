@@ -7,6 +7,7 @@
  */
 
 $l['thread_prefixes'] = "Prefiksy wątków";
+$l['thread_prefixes_in'] = "Prefiksy wątków w \"{1}\"";
 $l['thread_prefixes_desc'] = "Prefiksy wątków pozwalają na definiowanie prefiksów, których użytkownicy przypisują do swoich wątków. Wątki mogą być potem wprost z działu sortowane według określonego prefiksu.";
 
 $l['add_new_thread_prefix'] = "Dodaj prefiks";
@@ -22,13 +23,14 @@ $l['prefix_options'] = "Opcje prefiksu";
 $l['save_thread_prefix'] = "Zapisz prefiks wątku";
 
 $l['prefix'] = "Nazwa prefiksu";
+$l['forums'] = "Dozwolone w działach";
 $l['prefix_desc'] = "Podaj nazwę prefiksu, który będzie wyświetlany w rozwijanej liście podczas dodawania nowego wątku.";
 $l['display_style'] = "Styl wyświetlania";
 $l['display_style_desc'] = "Podaj styl, w jakim prefiks ma być wyświetlany. Możesz wpisać składnię HTML bądź zwykły tekst tak jak w polu powyżej.";
 $l['available_in_forums'] = "Dostępność w działach";
 $l['available_to_groups'] = "Dostępność dla grup";
 
-$l['no_thread_prefixes'] = "Nie ma prefiksów ustawionych dla tego forum.";
+$l['no_thread_prefixes'] = "Brak ustawionych prefiksów.";
 
 $l['confirm_thread_prefix_deletion'] = "Czy na pewno chcesz usunąć ten prefiks? Po usunięciu prefiksu należy zaktualizować ustawienia własnych narzędzi moderowania.";
 

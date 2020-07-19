@@ -10,7 +10,7 @@
 $l['nav_newthread'] = "Nowy wątek";
 $l['newthread_in'] = "Nowy wątek w {1}";
 $l['post_new_thread'] = "Napisz nowy wątek";
-$l['thread_subject'] = "Temat";
+$l['thread_subject'] = "Temat:";
 $l['your_message'] = "Wiadomość:";
 $l['post_options'] = "Opcje posta:";
 $l['options_sig'] = "<b>Sygnatura:</b> pod postem pojawi się twoja sygnatura (o ile jesteś zarejestrowanym użytkownikiem).";
