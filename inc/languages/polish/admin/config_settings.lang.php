@@ -104,7 +104,7 @@ $l['success_settings_updated_hiddencaptchaimage'] = '<div class="smalltext" styl
 $l['success_settings_updated_username_method'] = '<div class="smalltext" style="font-weight: normal;">>Należy pamiętać, że ustawienie dotyczące <b>dozwolonych metod logowania</b> nie zostało zaktualizowane z powodu wielu użytkowników korzystających z tego samego adresu e-mail w tej chwili.</div>';
 $l['success_settings_updated_allowmultipleemails'] = '<div class="smalltext" style="font-weight: normal;">Należy pamiętać, że ustawienie <b>zezwalające na wielokrotne wykorzystanie tych samych maili</b> nie może być włączone, kiedy <b>dozwoloną metodą logowania</b> jest adres e-mail.</div>';
 $l['success_settings_updated_captchaimage'] = '<div class="smalltext" style="font-weight: normal;">Należy pamiętać, że ustawienie <strong> obrazków CAPTCHA przy rejestracji i postach</strong> został przywrócony do <strong>MyBB Default Captcha</strong> z powodu braku klucza publicznego / prywatnego.</div>';
-$l['success_settings_updated_minsearchword'] = '<div class="smalltext" style="font-weight: normal;">Należy pamiętać, że ustawienie <strong>minimalna długość wyszukiwanego słowa</strong> była zgodna z konfiguracją bazy danych.</div>';
+$l['success_settings_updated_minsearchword'] = '<div class="smalltext" style="font-weight: normal;">Należy pamiętać, że ustawienie <strong> minimalna długość wyszukiwanego słowa</strong> była zgodna z konfiguracją bazy danych.</div>';
 $l['success_display_orders_updated'] = "Kolejność wyświetlania została zaktualizowana.";
 $l['success_setting_group_added'] = "Grupa ustawień została utworzona.";
 $l['success_setting_group_updated'] = "Grupa ustawień została zaktualizowana.";
