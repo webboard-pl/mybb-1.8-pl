@@ -452,6 +452,8 @@ $l['image_verification'] = "Weryfikacja obrazkowa";
 $l['human_verification'] = "Weryfikacja przeciw botom";
 $l['verification_note'] = "Wpisz tekst znajdujący się na obrazku w pole poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
 $l['verification_note_nocaptcha'] = "Zaznacz pole wyboru znajdujące się poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
+$l['verification_note_hcaptcha'] = "Zaznacz pole wyboru znajdujące się poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
+
 
 $l['verification_subnote'] = "(wielkość znaków nie ma znaczenia)";
 $l['invalid_nocaptcha_transmit'] = "Wystąpił błąd podczas próby weryfikacji bycia człowiekiem przez reCAPTCHA. Spróbuj ponownie.";
