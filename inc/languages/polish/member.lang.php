@@ -201,7 +201,7 @@ $l['admin_lift_ban_in_acp'] = "Zdejmij bana użytkownika w panelu administratora
 $l['admin_edit_ban_in_acp'] = "Edytuj bana użytowinika w panelu administratora";
 $l['admin_options'] = "Opcje administratora";
 
-$l['redirect_registered_activation'] = "Dziękujemy za rejestrację na {1}, {2}.<p>Aby zakończyć rejestrację, sprawdź swoją skrzynkę e-mail w celu aktywacji konta. Przed aktywacją konta nie możesz pisać na forum";
+$l['redirect_registered_activation'] = "Dziękujemy za rejestrację na {1}, {2}.<p>Aby zakończyć rejestrację, sprawdź swoją skrzynkę e-mail w celu aktywacji konta. Przed aktywacją konta nie możesz pisać na forum.";
 $l['redirect_emailupdated'] = "Adres e-mail został zmieniony.<br />Teraz nastąpi przeniesienie na stronę główną forum.";
 $l['redirect_accountactivated'] = "Konto zostało aktywowane.<br />Teraz nastąpi przeniesienie na stronę główną forum.";
 $l['redirect_accountactivated_admin'] = "Adres email został zweryfikowany.<br />Twoje konto musi zostać aktywowane przez administratora. Przed aktywacją konta nie możesz pisać na forum.<br />Teraz nastąpi przeniesienie na stronę główną forum.";
