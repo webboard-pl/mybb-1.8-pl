@@ -381,7 +381,7 @@ $l['banned_warning2'] = "Powód bana";
 $l['banned_warning3'] = "Ban zostanie zniesiony";
 $l['banned_lifted_never'] = "nigdy";
 $l['banned_email_warning'] = "Używasz adresu email, który nie został dozwolony na tym forum. Zmień adres email, aby móc kontynuować.";
-$l['powered_by'] = "Polskie tłumaczenie &copy; 2007-".date("Y")." <a href=\"https://webboard.pl\">Polski Support MyBB</a> <br/>Silnik forum";
+$l['powered_by'] = "Polskie tłumaczenie &copy; 2007-".date("Y")." <a href=\"https://webboard.pl\">Polski Support MyBB</a>";
 $l['copyright'] = "Copyright";
 $l['attach_quota'] = "Pojemość, która jest przeznaczona na załączniki wynosi {1}.";
 $l['attach_usage'] = "Aktualnie wykorzystujesz <strong>{1}</strong>.";
