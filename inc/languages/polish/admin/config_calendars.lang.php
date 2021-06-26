@@ -21,6 +21,7 @@ $l['save_calendar_orders'] = "Zapisz kolejność wyświetlania kalendarzy";
 
 $l['name'] = "Nazwa";
 $l['display_order'] = "Kolejność wyświetlania";
+$l['display_order_desc'] = "Kolejność, w jakiej kalendarze są wyświetlane w wyborze kalendarza. Kalendarz ustawiony, jako 1 będzie domyślnie wyświetlany na stronie kalendarza.";
 $l['week_start'] = "Początek tygodnia";
 $l['week_start_desc'] = "Wybierz dzień, który ma być uznawany za pierwszy dzień w tygodniu.";
 $l['sunday'] = "Niedziela";

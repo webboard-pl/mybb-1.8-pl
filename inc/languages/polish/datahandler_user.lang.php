@@ -31,6 +31,7 @@ $l['userdata_invalid_birthday'] = "Wprowadzona data urodzin jest nieprawidłowa.
 $l['userdata_invalid_birthday_coppa'] = 'Podaj rok urodzenia w celu weryfikacji wieku. Swój wiek i datę urodzenia możesz ukryć w panelu użytkownika.';
 $l['userdata_invalid_birthday_coppa2'] = 'Musisz mieć ukończone 13 lat by zostać użytkownikiem tego forum. Skontaktuj się z administratorem.';
 $l['userdata_invalid_birthday_privacy'] = 'Wybierz właściwe ustawienia prywatności dotyczące daty urodzin.';
+ $l['userdata_conflicted_birthday_privacy'] = 'Musisz określić swój rok urodzenia, jeśli zdecydujesz się wyświetlać tylko wiek w dacie urodzin.';
 $l['userdata_invalid_referrer'] = "Wprowadzony login polecającego nie istnieje. Podaj poprawny login lub pozostaw to pole puste.";
 $l['userdata_invalid_language'] = "Nie ma takiego języka. Wybierz istniejący język.";
 $l['userdata_invalid_style'] = 'Wybrany styl jest nieprawidłowy. Wybierz odpowiedni styl.';

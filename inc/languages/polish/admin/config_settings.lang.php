@@ -71,6 +71,9 @@ $l['confirm_setting_group_deletion'] = "Czy na pewno chcesz usunąć tę grupę 
 $l['confirm_setting_deletion'] = "Czy na pewno chcesz usunąć ten wpis ustawień?";
 
 $l['error_format_dimension'] = "Określony format {1} jest nieprawidłowy.";
+$l['error_field_minnamelength'] = "Minimalna długość nazwy nie może być większa niż maksymalna długość nazwy";
+$l['error_field_minpasswordlength'] = "Minimalna długość hasła nie może być większa niż maksymalna długość hasła";
+$l['error_field_minpasswordlength_complex'] = "Minimalna długość hasła nie może być mniejsza niż 3 w przypadku używania złożonych haseł";
 $l['error_field_postmaxavatarsize'] = "Maksymalne wymiary awatara";
 $l['error_field_useravatardims'] = "Domyślne wymiary awatara";
 $l['error_field_maxavatardims'] = "Maksymalne wymiary awatara";
@@ -101,6 +104,7 @@ $l['success_setting_deleted'] = "Wpis ustawień został usunięty.";
 $l['success_settings_updated'] = "Wpisy ustawień zostały zaktualizowane.";
 $l['success_settings_updated_hiddencaptchaimage'] = '<div class="smalltext" style="font-weight: normal;">Należy pamiętać, że ustawienia
 <strong>ukryte pola CAPTCHA</strong> zostały przywrócone do <strong>{1}</strong> z powodu konfliktu z <strong>{2}</strong> polem w formularzu rejestracyjnym.</div>';
+ $l['success_settings_updated_username_method_conflict'] = '<div class="smalltext" style="font-weight: normal;">Należy pamiętać, że ustawienie <b>Dozwolone metody logowania</b> nie zostało zmienione, ponieważ wielokrotne rejestrowanie e-maili jest obecnie włączone.</div>';
 $l['success_settings_updated_username_method'] = '<div class="smalltext" style="font-weight: normal;">>Należy pamiętać, że ustawienie dotyczące <b>dozwolonych metod logowania</b> nie zostało zaktualizowane z powodu wielu użytkowników korzystających z tego samego adresu e-mail w tej chwili.</div>';
 $l['success_settings_updated_allowmultipleemails'] = '<div class="smalltext" style="font-weight: normal;">Należy pamiętać, że ustawienie <b>zezwalające na wielokrotne wykorzystanie tych samych maili</b> nie może być włączone, kiedy <b>dozwoloną metodą logowania</b> jest adres e-mail.</div>';
 $l['success_settings_updated_captchaimage'] = '<div class="smalltext" style="font-weight: normal;">Należy pamiętać, że ustawienie <strong> obrazków CAPTCHA przy rejestracji i postach</strong> został przywrócony do <strong>MyBB Default Captcha</strong> z powodu braku klucza publicznego / prywatnego.</div>';

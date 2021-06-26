@@ -331,6 +331,7 @@ $l['task_massmail_ran_errors'] = "Wystąpił jeden lub więcej problemów podcza
 $l['task_versioncheck_ran'] = "Zadanie sprawdzania wersji zostało uruchomione.";
 $l['task_versioncheck_ran_errors'] = "Nie można połączyć się z MyBB w celu sprawdzenia wersji.";
 $l['task_recachestylesheets_ran'] = 'Załadowano do pamięci cache {1} arkuszy stylów kaskadowych.';
+$l['task_sendmailqueue_ran'] = 'Zadanie kolejki wysyłania poczty zostało wysłane do {1} wiadomości.';
 
 $l['massmail_username'] = "Login";
 $l['email_addr'] = "Adres e-mail";

@@ -25,6 +25,7 @@ $l['error_replacement_word_invalid'] = "Zamiennik nie może być taki sam jak ce
 $l['save_bad_word'] = "Zapisz filtr";
 $l['no_bad_words'] = "Nie ustawiono żadnych filtrów.";
 $l['add_bad_word'] = "Nowy filtr";
+$l['add_bad_word_desc'] = "Tutaj możesz dodać filtr słów i jego zamiennik.";
 
 $l['error_missing_bad_word'] = "Nie podano niechcianego słowa.";
 $l['error_invalid_regex'] = "Wyrażenie regularne jest nieprawidłowe.";

@@ -11,12 +11,14 @@ $l['redirect_return_forum'] = "<br /><br />Możesz też <a href=\"{1}\">wrócić
 $l['redirect_emailsent'] = "E-mail został wysłany.";
 $l['redirect_loggedin'] = "Zalogowano na forum.<br />Teraz nastąpi przeniesienie do poprzedniej lokalizacji.";
 
+ $l['update_confirm'] = "Następujące pliki są już dołączone i zostaną zaktualizowane / zastąpione nowo wybranymi plikami. {1} Czy na pewno?";
 $l['error_invalidpworusername']  = "Wprowadzono nieprawidłowy login i/lub hasło.<br /><br />Jeżeli nie pamiętasz swojego hasła, <a href=\"member.php?action=lostpw\">kliknij tutaj</a>, by wygenerować nowe.";
 $l['error_invalidpworusername1'] = "Wprowadzono nieprawidłowy adres e-mail i/lub hasło.<br /><br />Jeżeli nie pamiętasz swojego hasła, <a href=\"member.php?action=lostpw\">kliknij tutaj</a>, aby wygenerować nowe.";
 $l['error_invalidpworusername2'] = "Wprowadzono nieprawidłowy login lub adres e-mail i/lub hasło.<br /><br />Jeżeli nie pamiętasz swojego hasła, <a href=\"member.php?action=lostpw\">kliknij tutaj</a>, aby wygenerować nowe.";
 $l['error_incompletefields'] = "Nie wypełniono któregoś z wymaganych pól. Wróć i wypełnij wszystkie wymagane pola.";
 $l['error_alreadyuploaded'] = "Plik o nazwie \"{1}\" został już raz wysłany. Zmień nazwę pliku i spróbuj ponownie. Alternatywnie możesz kliknąć na przycisk \"Aktualizuj załącznik\".";
 $l['error_alreadyuploaded_perm'] = "Ten post zawiera już plik o takiej samej nazwie. Usuń poprzedni plik lub zmień nazwę pliku, który próbujesz wysłać, i spróbuj ponownie.";
+ $l['error_updatefailed'] = "Plik \"{1}\" nie został jeszcze dodany i nie można go zaktualizować.";
 $l['error_nomessage'] = "Nie podano treści wiadomości. Wróć i wpisz wiadomość.";
 $l['error_invalidemail'] = "Musisz wprowadzić prawidłowy adres e-mail.";
 $l['error_nomember'] = "Podany login jest nieprawidłowy albo nie istnieje.";
@@ -100,7 +102,7 @@ $l['emailsubject_newpm'] = "Nowa prywatna wiadomość na forum {1} - {2}";
 $l['emailsubject_newjoinrequest'] = "Nowa prośba o przyjęcie do grupy na forum {1}";
 $l['emailsubject_sendtofriend'] = "Interesujący wątek na forum {1}";
 $l['emailsubject_changepassword'] = "Zmiana hasła na forum {1}";
-$l['emailbit_viewthread'] = "&hellip; (odwiedź ten wątek, by przeczytać pełną treść&hellip;)";
+$l['emailbit_viewthread'] = "... (odwiedź ten wątek, by przeczytać pełną treść...)";
 
 $l['email_lostpw'] = "{1},
 

@@ -14,7 +14,6 @@ $l['author'] = "Autor";
 $l['message'] = "Wiadomość";
 $l['threaded'] = "Tryb drzewa";
 $l['linear'] = "Tryb normalny";
-$l['thread_modes'] = "Tryby wyświetlania wątku";
 $l['next_oldest'] = "Starszy wątek";
 $l['next_newest'] = "Nowszy wątek";
 $l['view_printable'] = "Pokaż wersję do druku";

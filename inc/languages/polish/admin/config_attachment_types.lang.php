@@ -47,6 +47,8 @@ $l['success_activated_attachment_type'] = 'Wybrany typ załącznika został pomy
 $l['success_deactivated_attachment_type'] = 'Wybrany typ załącznika został pomyślnie dezaktywowany.';
 
 $l['enabled'] = "Włączone?";
+$l['forcedownload'] = "Wymuszone pobieranie";
+$l['forcedownload_desc'] = "Włączenie tej opcji wymusi pobranie załącznika jako pliku.";
 $l['avatar_file'] = 'Plik awatara';
 $l['avatar_file_desc'] = 'Chcesz zezwolić temu typowi załącznika na bycie awatarem?';
 
