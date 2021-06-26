@@ -144,7 +144,7 @@ $l['d7_document'] = "Możesz użyć MyCode, znanego również jako BB Codes, aby
 <td class=\"trow1\"><span style=\"font-size: 30px\" class=\"mycode_size\">Ten tekst ma 30px</span></td>
 <td class=\"trow1\">Akceptowane rozmiary od 1 do 50</td>
 </tr>
-tr>
+<tr>
 <td class=\"trow2\"><span style=\"font-weight: bold; color: #ff0000;\">[font=Impact]</span>Tekst pisany czcionką Impact<span style=\"font-weight: bold; color: #ff0000;\">[/font]</span></td>
 <td class=\"trow2\"><span style=\"font-family: Impact;\" class=\"mycode_font\">Tekst pisany czcionką Impact</span></td>
 <td class=\"trow2\">Czcionka musi być zainstalowana na komputerze</td>
