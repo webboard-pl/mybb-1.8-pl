@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2020 Webboard.pl Team
+ * * Copyright © 2008-2021 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Łukasz, Divir | Testerzy: hippie
  */
@@ -21,6 +21,7 @@ $l['save_calendar_orders'] = "Zapisz kolejność wyświetlania kalendarzy";
 
 $l['name'] = "Nazwa";
 $l['display_order'] = "Kolejność wyświetlania";
+$l['display_order_desc'] = "Kolejność, w jakiej kalendarze są wyświetlane w wyborze kalendarza. Kalendarz ustawiony, jako 1 będzie domyślnie wyświetlany na stronie kalendarza.";
 $l['week_start'] = "Początek tygodnia";
 $l['week_start_desc'] = "Wybierz dzień, który ma być uznawany za pierwszy dzień w tygodniu.";
 $l['sunday'] = "Niedziela";

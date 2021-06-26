@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2020 Webboard.pl Team
+ * * Copyright © 2008-2021 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Łukasz, Divir | Testerzy: hippie
  */
@@ -123,8 +123,12 @@ $l['insert_attachment_post'] = "Wstaw do posta";
 $l['new_attachment'] = "Nowy załącznik:";
 $l['add_attachment'] = "Dodaj załącznik";
 $l['update_attachment'] = "Aktualizuj załącznik";
+$l['attachment_missing'] = "Wybierz jeden lub więcej plików przed próbą dodania załącznika.";
 $l['attachment_too_many_files'] = "Możesz przesłać maksymalnie {1} załączników naraz.";
+ $l['attachment_max_allowed_files'] = "Do tego posta możesz dołączyć więcej niż {1} plików.";
 $l['attachment_too_big_upload'] = "Możesz przesłać maksymalnie {1} bajtów naraz.";
+$l['drop_files'] = "Kliknij lub upuść kilka plików tutaj, aby przesłać...";
+$l['upload_initiate'] = "Puść, aby rozpocząć przesyłanie...";
 $l['post_preview'] = "Podgląd posta";
 $l['change_user'] = "zmień użytkownika";
 $l['post_icon'] = "Ikona posta";
@@ -309,6 +313,7 @@ $l['forumjump_wol'] = "Kto jest online";
 $l['forumjump_search'] = "Szukaj&hellip;";
 $l['forumjump_home'] = "Strona główna forum";
 
+$l['confirm_title'] = "Potwierdź";
 $l['redirect'] = "Teraz nastąpi przeniesienie";
 $l['unknown_error'] = "Wystąpił nieznany błąd.";
 $l['post_fetch_error'] = 'Wystąpił błąd podczas wczytywania postów.';
@@ -329,8 +334,9 @@ $l['unapproved_attachments'] = "{1} niezatwierdzonych załączników";
 $l['unread_report'] = "1 nieprzeczytane zgłoszenie";
 $l['unread_reports'] = "{1} nieprzeczytane zgłoszenia";
 
-$l['pending_joinrequest'] = "Notatka dla lidera grupy: jest jedno zgłoszenie do grupy, której jesteś liderem.";
-$l['pending_joinrequests'] = "Notatka dla lidera grupy: jest {1} zgłoszeń do grupy, której jesteś liderem.";
+$l['groupleader_notice'] = "Notatka dla lidera grupy:";
+$l['pending_joinrequest'] = "Jest jedno zgłoszenie do grupy, której jesteś liderem.";
+$l['pending_joinrequests'] = "Jest {1} zgłoszeń do grupy, której jesteś liderem.";
 
 $l['search_user'] = "Szukaj użytkownika";
 
@@ -523,6 +529,7 @@ $l['task_massmail_ran_errors'] = "Wystąpił jeden lub kilka błędów podczas w
 $l['task_versioncheck_ran'] = "Sprawdzenie nowej wersji zostało wykonane pomyślnie.";
 $l['task_versioncheck_ran_errors'] = "Nie można połączyć się z serwerami MyBB, aby sprawdzić dostępność nowej wersji.";
 $l['task_recachestylesheets_ran'] = 'Zaktualizowano pamięć podręczną {1} arkuszy stylów kaskadowych.';
+$l['task_sendmailqueue_ran'] = 'Zadanie kolejki wysyłania poczty zostało wysłane do {1} wiadomości.';
 
 $l['dismiss_notice'] = "Usuń tę notatkę";
 
@@ -600,4 +607,9 @@ $l['sfs_error_ip'] = 'adres IP';
 $l['sfs_error_email'] = 'e-mail';
 $l['sfs_error_or'] = 'lub';
 
+$l['expcol_collapse'] = '[-]';
+$l['expcol_expand'] = '[+]';
+
 $l['boardclosed_reason'] = 'Forum jest aktualnie zamknięte z powodu prac konserwacyjnych. Spróbuj ponownie za jakiś czas';
+
+$l['use_default'] = "Użyj domyślnego";

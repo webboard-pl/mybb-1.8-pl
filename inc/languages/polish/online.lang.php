@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2020 Webboard.pl Team
+ * * Copyright © 2008-2021 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Łukasz, Divir | Testerzy: hippie
  */
@@ -107,7 +107,7 @@ $l['member_online_today'] = "<strong>1</strong> użytkownik był dzisiaj online"
 $l['members_were_online_today'] = "W ciągu ostatnich 24 godzin było <strong>{1}</strong> użytkowników online";
 $l['member_online_hidden'] = " ({1} z nich był ukryty)";
 $l['members_online_hidden'] = " ({1} z nich było ukrytych)";
-$l['rating_thread'] = "Ocenia wątek";
+$l['rating_thread'] = "Oceń wątek";
 $l['managing_favorites'] = "Zarządza ulubionymi";
 $l['managing_subscriptions'] = "Zarządza subskrybowanymi wątkami";
 $l['managing_group'] = "Zarządza grupą użytkowników";

@@ -5,7 +5,7 @@
  *
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2020 Webboard.pl Team
+ * * Copyright © 2008-2021 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Łukasz, Divir | Testerzy: hippie
  */
@@ -201,7 +201,7 @@ $l['admin_lift_ban_in_acp'] = "Zdejmij bana użytkownika w panelu administratora
 $l['admin_edit_ban_in_acp'] = "Edytuj bana użytowinika w panelu administratora";
 $l['admin_options'] = "Opcje administratora";
 
-$l['redirect_registered_activation'] = "Dziękujemy za rejestrację na {1}, {2}.<p>Aby zakończyć rejestrację, sprawdź swoją skrzynkę e-mail w celu aktywacji konta. Przed aktywacją konta nie możesz pisać na forum.";
+$l['redirect_registered_activation'] = "Dziękujemy za rejestrację na {1}, {2}.<p>Aby zakończyć rejestrację, sprawdź swoją skrzynkę e-mail w celu aktywacji konta. Jeśli nie aktywujesz konta, nie możesz pisać na forum.";
 $l['redirect_emailupdated'] = "Adres e-mail został zmieniony.<br />Teraz nastąpi przeniesienie na stronę główną forum.";
 $l['redirect_accountactivated'] = "Konto zostało aktywowane.<br />Teraz nastąpi przeniesienie na stronę główną forum.";
 $l['redirect_accountactivated_admin'] = "Adres email został zweryfikowany.<br />Twoje konto musi zostać aktywowane przez administratora. Przed aktywacją konta nie możesz pisać na forum.<br />Teraz nastąpi przeniesienie na stronę główną forum.";
@@ -237,14 +237,10 @@ $l['js_validator_email_match'] = "Podane adresy e-mail nie zgadzają się";
 $l['js_validator_no_image_text'] = "Musisz tutaj przepisać tekst z obrazka obok";
 $l['js_validator_no_security_question'] = "Musisz odpowiedzieć na powyższe pytanie";
 $l['js_validator_password_matches'] = "Podane hasła nie zgadzają się";
-$l['js_validator_password_complexity'] = "Sprawdzanie złożoności hasła";
 $l['js_validator_password_length'] = "Hasło musi zawierać przynajmniej {1} znaków";
 $l['js_validator_bad_password_security'] = 'Podane hasło jest podobne do nazwy użytkownika lub adresu e-mail. Wprowadź mocniejsze hasło.';
 $l['js_validator_not_empty'] = "Nie możesz pozostawić tego pola pustego";
-$l['js_validator_checking_username'] = "Sprawdzam czy login jest dostępny...";
 $l['js_validator_username_length'] = "Login musi zawierać od {1} do {2} znaków";
-$l['js_validator_checking_referrer'] = "Sprawdzam czy istnieje taki użytkownik...";
-$l['js_validator_captcha_valid'] = "Sprawdzam czy poprawnie przepisano kod...";
 
 $l['security_question'] = "Pytanie zabezpieczające";
 $l['question_note'] = "Udziel odpowiedzi na pytanie. Proces ten ma na celu zapobieżenie automatycznym rejestracjom.";

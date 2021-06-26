@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2020 Webboard.pl Team
+ * * Copyright © 2008-2021 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Łukasz, Divir | Testerzy: hippie
  */
@@ -22,7 +22,7 @@ $l['date'] = "Data";
 $l['email'] = "Adres e-mail";
 $l['date_sent'] = "Data wysyłania";
 $l['error_message'] = "Informacja o błędzie";
-$l['fine'] = "Szukaj";
+$l['find'] = "Szukaj";
 $l['no_logs'] = "Nie ma logów spełniających wybrane kryteria.";
 $l['subject_contains'] = "Temat zawiera";
 $l['error_message_contains'] = "Informacja o błędzie zawiera";

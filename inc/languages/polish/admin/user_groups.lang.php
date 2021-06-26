@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2020 Webboard.pl Team
+ * * Copyright © 2008-2021 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Łukasz, Divir | Testerzy: hippie
  */
@@ -128,6 +128,7 @@ $l['account_management'] = "Zarządzanie kontem";
 $l['edit_time_limit'] = "Ograniczenie czasu na edycję";
 $l['edit_time_limit_desc'] = "Jeżeli chcesz ograniczyć czasowo możliwość edytowania postów przez użytkowników z tej grupy (jeśli pozwalają im na to ustawienia grupy) wprowadź tutaj, przez jaki czas mają oni mieć taką możliwość (w minutach). Jeżeli nie chcesz ustalać limitu, wpisz 0.";
 $l['can_be_reported'] = "Mogą być zgłaszani przez innych (profil, posty i reputacja)?";
+$l['can_be_invisible'] = "Mogą ukryć swój status online?";
 $l['can_access_usercp'] = "Mają dostęp do paneli użytkowników?";
 $l['can_change_username'] = "Mogą zmieniać swoje loginy?";
 $l['can_change_website'] = "Mogą zmieniać swoją stronę WWW?";
@@ -162,7 +163,7 @@ $l['max_reputations_peruser_desc'] = "Podaj, ile razy maksymalnie użytkownicy t
 $l['warning_system'] = "System ostrzeżeń";
 $l['can_send_warnings'] = "Mogą dodawać ostrzeżenia innym użytkownikom?";
 $l['can_receive_warnings'] = "Mogą otrzymywać ostrzeżenia od innych użytkowników?";
-$l['warnings_per_day'] = "Maksymalna liczba ostrzeżeń na dzień:";
+$l['warnings_per_day'] = "Maksymalna liczba ostrzeżeń na dzień. Jeśli wartość ustawiona jest na 0, ilość ostrzeżeń jest nieograniczona.";
 $l['private_messaging'] = "Prywatne wiadomości";
 $l['calendar'] = "Kalendarz";
 $l['can_view_calendar'] = "Mogą przeglądać kalendarz?";

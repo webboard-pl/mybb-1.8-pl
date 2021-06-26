@@ -1,7 +1,7 @@
 <?php
 /**
  * MyBB 1.8 Polish Language Pack
- * * Copyright © 2008-2020 Webboard.pl Team
+ * * Copyright © 2008-2021 Webboard.pl Team
  * See readme.html for copyright information. | Zapoznaj sie z plikiem czytaj_to.html.
  * Autorzy: bryn, DamYan, gigi, matc, szulcu, Łukasz, Divir | Testerzy: hippie
  */
@@ -87,12 +87,17 @@ $l['remove_subscriptions'] = "Cofnąć subskrypcję wątku?";
 $l['recount_rebuild'] = "Przeliczyć i przebudować?";
 $l['apply_thread_prefix'] = "Zastosować prefiks do wątku?";
 $l['new_subject'] = "Nowy temat";
-$l['new_subject_desc'] = "{subject} reprezentuje oryginalny temat. {username} reprezentuje login moderatora.";
+$l['new_subject_desc'] = "Wpisz nowy temat wątku.";
+
+$l['subject_message_replacements'] = "Dostępne zmienne";
+$l['subject_message_replacements_desc'] = "{subject} reprezentuje oryginalny temat. {username} reprezentuje nick moderatora. {author} reprezentuje nick autora tematu.";
+
+
 
 $l['add_new_reply'] = "Napisz odpowiedź";
 $l['add_new_reply_desc'] = "Pozostaw puste, jeżeli nie chcesz udzielać odpowiedzi.";
 $l['reply_subject'] = "Temat odpowiedzi.";
-$l['reply_subject_desc'] = "Używane tylko podczas dodawania odpowiedzi.<br />{subject} reprezentuje oryginalny temat, a {username} reprezentuje login moderatora.";
+$l['reply_subject_desc'] = "Używane tylko podczas dodawania odpowiedzi.";
 
 $l['success_mod_tool_created'] = "Narzędzie moderacji zostało utworzone.";
 $l['success_mod_tool_updated'] = "Narzędzie moderacji zostało zaktualizowane.";
@@ -113,7 +118,7 @@ $l['stick_split_thread'] = "Przypiąć oddzielony wątek?";
 $l['unapprove_split_thread'] = "Odrzucić oddzielony wątek?";
 $l['split_thread_prefix'] = "Prefiks oddzielonego wątku";
 $l['split_thread_subject'] = "Temat oddzielonego wątku";
-$l['split_thread_subject_desc'] = "{subject} reprezentuje oryginalny temat. Wymagane tylko podczas oddzielania postów.";
+$l['split_thread_subject_desc'] = "Wymagane tylko podczas oddzielania postów.";
 $l['add_new_split_reply'] = "Napisz odpowiedź do łączonego wątku";
 $l['add_new_split_reply_desc'] = "Pozostaw puste, jeżeli nie chcesz udzielać odpowiedzi.";
 $l['split_reply_subject'] = "Temat odpowiedzi";
