@@ -164,6 +164,7 @@ $l['search_for_themes'] = "Szukaj stylów";
 $l['search'] = "Szukaj";
 $l['download'] = "Pobierz";
 $l['created_by'] = "Autor";
+$l['theme_thumbnail'] = "Miniatura stylu";
 
 $l['error_invalid_stylesheet'] = "Wybrano nieprawidłowy arkusz.";
 $l['error_invalid_theme'] = "Wybrano nieprawidłowy styl.";

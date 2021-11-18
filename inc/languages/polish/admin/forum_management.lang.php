@@ -52,6 +52,7 @@ $l['set_custom_perms'] = "Ustaw niestandardowe uprawnienia";
 
 $l['permissions_use_group_default'] = "Użyj domyślnych dla grupy";
 $l['permissions_group'] = "Grupa";
+$l['permissions_user'] = "Użytkownik";
 $l['permissions_canview'] = "Może przeglądać?";
 $l['permissions_canpostthreads'] = "Może tworzyć wątki?";
 $l['permissions_canpostreplys'] = "Może odpowiadać?";
