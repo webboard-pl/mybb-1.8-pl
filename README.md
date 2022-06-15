@@ -1,5 +1,5 @@
 ## INFORMACJE
-Niniejsza paczka językowa jest przeznaczona dla **MyBB 1.8.27**. Zawiera ona pełne, polskie tłumaczenie silnika MyBB. Autorem tłumaczenia jest Polski Support MyBB - https://webboard.pl/
+Niniejsza paczka językowa jest przeznaczona dla **MyBB 1.8.30**. Zawiera ona pełne, polskie tłumaczenie silnika MyBB. Autorem tłumaczenia jest Polski Support MyBB - https://webboard.pl/
 ## Wgrywanie spolszczenia
 Jeśli nie wiesz, jak wgrać spolszczenie, dokładny poradnik jak to zrobić znajdziesz na naszym forum - https://webboard.pl/thread-59158.html
  # ENGLISH VERSION
