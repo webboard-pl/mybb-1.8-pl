@@ -199,4 +199,4 @@ $l['send_reply'] = "Odpowiedz";
 $l['quickreply_signature'] = "Sygnatura";
 $l['quickreply_disable_smilies'] = "Wyłącz uśmieszki";
 $l['quickreply_save_copy'] = "Zapisz kopię";
-$l['quickreply_read_receipt'] = "<strong>Zażądaj potwierdzenia przeczytania</strong>";
+$l['quickreply_read_receipt'] = "Zażądaj potwierdzenia przeczytania";
