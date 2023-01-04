@@ -136,6 +136,7 @@ $l['birthdate'] = "Urodziny:";
 $l['icq_number'] = "Numer ICQ:";
 $l['skype_id'] = "Identyfikator Skype:";
 $l['google_id'] = "Identyfikator Google Hangouts:";
+$l['away_notice_away'] = "Ze statusu nieobecny korzystałeś {1} raz(y)";
 $l['away_notice'] = "Ta opcja pozwala na ustawienie statusu \"Nieobecny\".";
 $l['additional_information'] = "Dodatkowe informacje";
 $l['update_profile'] = "Aktualizuj profil";
