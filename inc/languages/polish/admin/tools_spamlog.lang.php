@@ -22,6 +22,7 @@ $l['note_logs_locked'] = "Ze względów bezpieczeństwa nie można usuwać logó
 $l['all_usernames'] = 'Wszystkie nazwy użytkowników';
 $l['all_emails'] = 'Wszystkie adresy e-mail';
 $l['date_range'] = "Przedział czasowy:";
+$l['older_than'] = "Starsze niż ";
 $l['days'] = "dni";
 $l['filter_spam_logs'] = 'Filtruj logi spamerów';
 $l['asc'] = "Rosnąco";
