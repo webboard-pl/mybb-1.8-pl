@@ -10,6 +10,7 @@
 $l['nav_search'] = "Szukaj";
 $l['nav_results'] = "Wyniki";
 
+$l['pages'] = "Strona:";
 $l['pages_last'] = "ostatnia";
 $l['search'] = "Szukaj";
 $l['search_keyword'] = "Słowa kluczowe";
