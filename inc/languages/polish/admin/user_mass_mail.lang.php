@@ -62,6 +62,7 @@ $l['ago'] = "temu";
 $l['user_last_active'] = "Użytkownik był ostatnio aktywny";
 $l['user_registered'] = "Użytkownik zarejestrował się";
 $l['save_mass_mail'] = "Zapisz masową korespondencję";
+$l['additional_user_groups_desc'] = "Użyj klawisza CTRL, aby wybrać wiele grup";
 
 $l['step_four'] = "Krok 4";
 $l['delivery_method'] = "Metoda dostarczenia";
