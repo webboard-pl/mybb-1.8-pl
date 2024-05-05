@@ -28,7 +28,7 @@ $langinfo['website'] = "https://webboard.pl/";
 //$langinfo['additional_name'] = " ";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1837";
+$langinfo['version'] = "1838";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;

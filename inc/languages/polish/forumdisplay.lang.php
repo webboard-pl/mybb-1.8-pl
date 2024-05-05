@@ -97,7 +97,11 @@ $l['select_all'] = "Zaznacz wszystkie <strong>{1}</strong> wątki w tym dziale."
 $l['clear_selection'] = "Wyczyść zaznaczenie.";
 $l['deleted_thread'] = "Wątek usunięty.";
 
+$l['select_a_tool'] = "Wybierz narzędzie";
+$l['inline_no_tool_selected'] = "Wybierz narzędzie do przeprowadzenia działań moderatora.";
+$l['inline_no_post_selected'] = "Musisz wybrać jeden lub więcej postów, dla których chcesz przeprowadzić akcję moderatora.";
+$l['inline_edit_description'] = '(Kliknij i przytrzymaj, aby edytować)';
+
 $l['error_containsnoforums'] = "Dział, który aktualnie przeglądasz, nie zawiera poddziałów.";
 
-$l['inline_edit_description'] = '(Kliknij i przytrzymaj, aby edytować)';
 

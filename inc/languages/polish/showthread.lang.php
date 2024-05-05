@@ -7,8 +7,10 @@
  */
 
 $l['delete_poll'] = "Usuń ankietę";
+$l['open_thread'] = "Otwórz wątek";
 $l['close_thread'] = "Zamknij wątek";
 $l['stick_thread'] = "Przypnij wątek";
+$l['unstick_thread'] = "Odepnij wątek";
 
 $l['author'] = "Autor";
 $l['message'] = "Wiadomość";
@@ -22,9 +24,9 @@ $l['subscribe_thread'] = "Subskrybuj ten wątek";
 $l['unsubscribe_thread'] = "Przestań subskrybować ten wątek";
 $l['add_poll_to_thread'] = "Dodaj ankietę do wątku";
 $l['moderation_options'] = "Opcje moderatora:";
+$l['select_a_tool'] = "Wybierz narzędzie";
 $l['delayed_moderation'] = "Opóźniona moderacja";
 $l['thread_notes'] = "Edytuj / Pokaż notatki do wątku";
-$l['open_close_thread'] = "Otwórz / Zamknij wątek";
 $l['approve_thread'] = "Zatwierdź wątek";
 $l['unapprove_thread'] = "Ukryj wątek";
 $l['soft_delete_thread'] = "Nietrwale usuń wątek";
@@ -32,7 +34,6 @@ $l['restore_thread'] = "Przywróć wątek";
 $l['delete_thread'] = "Trwale usuń wątek";
 $l['delete_posts'] = "Usuń zaznaczone posty";
 $l['move_thread'] = "Przenieś / Kopiuj wątek";
-$l['stick_unstick_thread'] = "Przypnij / Odepnij wątek";
 $l['split_thread'] = "Podziel wątek";
 $l['merge_threads'] = "Połącz wątki";
 $l['remove_redirects'] = "Usuń przekierowania";
@@ -83,6 +84,8 @@ $l['inline_move_posts'] = "Przenieś posty";
 $l['inline_approve_posts'] = "Zatwierdź posty";
 $l['inline_unapprove_posts'] = "Ukryj posty";
 $l['inline_post_moderation'] = "Moderacja zbiorowa:";
+$l['inline_no_tool_selected'] = "Wybierz narzędzie do przeprowadzenia działań moderatora.";
+$l['inline_no_post_selected'] = "Musisz wybrać jeden lub więcej postów, dla których chcesz przeprowadzić akcję moderatora";
 $l['inline_go'] = "OK";
 $l['clear'] = "Wyczyść";
 $l['thread_closed'] = "Wątek zamknięty";
