@@ -53,6 +53,8 @@ $l['error_admin_session_expired'] = "Sesja wygasła";
 $l['error_invalid_ip'] = "Twój adres IP nie pasuje do tej sesji";
 $l['error_mybb_admin_lockedout'] = "To konto zostało zablokowane";
 $l['error_mybb_admin_lockedout_message'] = "Konto zostało zablokowane po {1} nieudanych próbach logowania. Na Twój adres e-mail została wysłana wiadomość z instrukcjami jak odblokować swoje konto.";
+$l['error_mybb_not_admin_account'] = "Brak uprawnień dostępowych do panelu administratora.";
+
 
 $l['error_invalid_username'] = "Podany login jest niepoprawny.";
 $l['error_invalid_uid'] = "Podany ID użytkownika jest niepoprawny.";

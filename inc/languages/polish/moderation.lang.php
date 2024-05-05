@@ -160,7 +160,7 @@ $l['purgespammer_invalid_user'] = "Wybrano nieprawidłowego użytkownika.";
 $l['purgespammer_modlog'] = "Usunięto spamera";  
 
 $l['error_invalidpm'] = "Nieprawidłowa wiadomość";
-$l['error_nomergeposts'] = "Musisz wybrać 1 lub więcej postów do połączenia.";
+$l['error_nomergeposts'] = "Musisz wybrać co najmniej dwa lub więcej postów do połączenia.";
 $l['error_cantsplitonepost'] = "Nie możesz wydzielić jedynego posta z wątku.";
 $l['error_badmergeurl'] = "Link do wątku jest nieprawidłowy. Wprowadź poprawny link.<br />Wróć i spróbuj ponownie.";
 $l['error_badmovepostsurl'] = "Link do wątku jest nieprawidłowy. Wprowadź poprawny link.<br />Wróć i spróbuj ponownie.";
