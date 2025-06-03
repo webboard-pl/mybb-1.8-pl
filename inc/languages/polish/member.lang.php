@@ -70,7 +70,6 @@ $l['users_contact_details'] = "Dane kontaktowe użytkownika {1}";
 $l['homepage'] = "Strona domowa:";
 $l['pm'] = "Prywatna wiadomość:";
 $l['send_pm'] = "Wyślij prywatną wiadomość do użytkownika {1}";
-$l['icq_number'] = "Numer ICQ:";
 $l['skype_id'] = "Identyfikator Skype:";
 $l['google_id'] = "Identyfikator Google Hangouts:";
 $l['avatar'] = "Awatar:";
