@@ -44,7 +44,6 @@ $l['username_exact'] = "dokładnie";
 $l['search_website'] = "Strona domowa";
 $l['search_skype'] = "Nazwa użytkownika Skype";
 $l['search_google'] = "Adres Google Hangouts";
-$l['search_icq'] = "Numer ICQ";
 $l['search_options'] = "Opcje wyszukiwania";
 $l['per_page'] = "Wyników na stronę";
 $l['search'] = "Szukaj";

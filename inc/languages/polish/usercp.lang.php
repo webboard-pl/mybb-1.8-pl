@@ -210,11 +210,9 @@ $l['change_email_notice'] = "Aby zmienić adres e-mail, kliknij <a href=\"usercp
 $l['profile_optional'] = "Niewymagane pola";
 $l['website_url'] = "Strona domowa:";
 $l['birthdate'] = "Urodziny:";
-$l['contact_field_icq'] = "Numer ICQ:";
 $l['contact_field_skype'] = "Identyfikator Skype:";
 $l['contact_field_google'] = "Identyfikator Google Hangouts:";
 $l['contact_field_error'] = "Nie można zmienić Twoich informacji kontaktowych, ponieważ podany identyfikator jest za długi. Identyfikatory Google Hangouts i Skype ID mogą mieć do 75 znaków.";
-$l['contact_field_icqerror'] = "Nie można zmienić Twojego numeru ICQ, ponieważ podany numer jest za długi. Numery ICQ mogą mieć do 10 znaków.";
 $l['additional_information'] = "Dodatkowe informacje";
 $l['update_profile'] = "Aktualizuj profil";
 $l['away_information'] = "Dostępność";

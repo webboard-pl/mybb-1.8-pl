@@ -133,7 +133,6 @@ $l['remove_avatar'] = "Usunąć awatar?";
 $l['profile_optional'] = "Dodatkowe pola";
 $l['website_url'] = "Strona domowa:";
 $l['birthdate'] = "Urodziny:";
-$l['icq_number'] = "Numer ICQ:";
 $l['skype_id'] = "Identyfikator Skype:";
 $l['google_id'] = "Identyfikator Google Hangouts:";
 $l['away_notice_away'] = "Ze statusu nieobecny korzystałeś {1} raz(y)";

@@ -26,7 +26,6 @@ $l['userdata_email_already_in_use'] = "Wprowadzony adres e-mail jest już używa
 
 $l['userdata_dob_required'] = "Nie wprowadzono daty urodzenia. Podaj ją, aby kontynuować - możesz ją ukryć przed innymi użytkownikami.";
 $l['userdata_invalid_website'] = "Wprowadzony adres WWW jest nieprawidłowy. Podaj poprawny adres lub pozostaw to pole puste.";
-$l['userdata_invalid_icq_number'] = "Wprowadzony numer ICQ jest nieprawidłowy. Podaj poprawny numer lub pozostaw to pole puste.";
 $l['userdata_invalid_birthday'] = "Wprowadzona data urodzin jest nieprawidłowa. Podaj poprawną datę lub pozostaw to pole puste.";
 $l['userdata_invalid_birthday_coppa'] = 'Podaj rok urodzenia w celu weryfikacji wieku. Swój wiek i datę urodzenia możesz ukryć w panelu użytkownika.';
 $l['userdata_invalid_birthday_coppa2'] = 'Musisz mieć ukończone 13 lat by zostać użytkownikiem tego forum. Skontaktuj się z administratorem.';
