@@ -159,8 +159,6 @@ $l['optional_profile_info'] = "Dodatkowe informacje";
 $l['custom_user_title'] = "Własny tytuł użytkownika";
 $l['custom_user_title_desc'] = "Jeżeli to pole pozostanie puste, użyty zostanie domyślny tytuł grupy";
 $l['website'] = "Strona WWW";
-$l['skype_handle'] = "Identyfikator Skype:";
-$l['google_handle'] = "Identyfikator Google Hangouts";
 $l['birthday'] = "Data urodzenia";
 
 $l['away_information'] = "Dostępność";
@@ -340,8 +338,6 @@ $l['username_contains'] = "Login zawiera";
 $l['email_address_contains'] = "Adres e-mail zawiera";
 $l['is_member_of_groups'] = "Grupa użytkowników to";
 $l['website_contains'] = "Strona WWW zawiera";
-$l['skype_contains'] = "Identyfikator Skype zawiera";
-$l['google_contains'] = "Identyfikator Google Hangouts zawiera";
 $l['signature_contains'] = "Sygnatura zawiera";
 $l['user_title_contains'] = "Własny tytuł użytkownika zawiera";
 $l['greater_than'] = "większa niż";

@@ -452,17 +452,20 @@ $l['select_theme'] = "Wybierz styl";
 
 $l['invalid_post_code'] = "Niepoprawny kod autoryzacji. Czy na pewno próbujesz uruchomić tę funkcję w poprawny sposób? Spróbuj ponownie.";
 $l['invalid_nocaptcha'] = "Przepisz kod z obrazka aby udowodnić, że nie jesteś botem.";
+$l['invalid_cfturnstile'] = "Zaznacz pole wyboru, aby udowodnić, że nie jesteś robotem.";
 $l['invalid_hcaptcha'] = "Rozwiąż hCaptcha, aby udowodnić, że nie jesteś botem.";
 $l['invalid_captcha_verify'] = "Wprowadzony kod z obrazka jest nieprawidłowy. Spróbuj ponownie.";
 $l['image_verification'] = "Weryfikacja obrazkowa";
 $l['human_verification'] = "Weryfikacja przeciw botom";
 $l['verification_note'] = "Wpisz tekst znajdujący się na obrazku w pole poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
 $l['verification_note_nocaptcha'] = "Zaznacz pole wyboru znajdujące się poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
+$l['verification_note_cfturnstile'] = "Zaznacz pole wyboru znajdujące się poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
 $l['verification_note_hcaptcha'] = "Zaznacz pole wyboru znajdujące się poniżej. Ten proces pozwala chronić forum przed botami spamującymi.";
 
 
 $l['verification_subnote'] = "(wielkość znaków nie ma znaczenia)";
 $l['invalid_nocaptcha_transmit'] = "Wystąpił błąd podczas próby weryfikacji bycia człowiekiem przez reCAPTCHA. Spróbuj ponownie.";
+$l['invalid_cfturnstile_transmit'] = "Wystąpił błąd podczas próby weryfikacji bycia człowiekiem przez CF-Turnstile. Spróbuj ponownie.";
 $l['invalid_hcaptcha_transmit'] = "Wystąpił błąd podczas próby weryfikacji bycia człowiekiem przez hCaptcha. Spróbuj ponownie.";
 $l['captcha_fetch_failure'] = 'Wystąpił błąd podczas wczytywania nowego kodu.';
 $l['question_fetch_failure'] = 'Wystąpił błąd podczas wczytywania nowego pytania';
