@@ -206,6 +206,7 @@ $l['error_already_leader'] = "Ten użytkownik jest już liderem tej grupy.";
 $l['error_invalid_group_leader'] = "Podano nieprawidłowego lidera.";
 $l['error_missing_namestyle_username'] = "Format wyświetlania loginu musi zawierać ciąg znaków <strong>{username}</strong>";
 $l['error_disallowed_namestyle_username'] = "W formacie loginu nie można używać tagów script, meta ani base.";
+$l['error_disallowed_starimage_path'] = "W ścieżce obrazu gwiazdy nie można używać znaczników script, meta ani base.";
 $l['error_default_group_delete'] = "Nie można usunąć domyślnej grupy";
 $l['error_cannot_have_both_types'] = "Nie można dodać grupy, w której dołączenie będzie możliwe przez zaproszenie oraz poprzez zatwierdzanie zgłoszeń. Wybierz tylko jedną z opcji.";
 

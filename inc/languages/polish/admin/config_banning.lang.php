@@ -35,7 +35,8 @@ $l['ip_address_desc'] = "Porada: Aby zablokować cały zakres adresów IP, użyj
 $l['ban_ip_address'] = "Zablokuj adres IP";
 
 $l['error_missing_ban_input'] = "Nie podano wartości, która ma zostać zablokowana.";
-$l['error_invalid_filter'] = "Wybrany filtr nie istnieje.";
+$l['error_invalid_filter'] = "Wybrany filtr jest nieprawidłowy.";
+$l['error_filter_not_found'] = "Wybrany filtr nie istnieje.";
 $l['error_filter_already_banned'] = "Wybrana wartość została już zablokowana.";
 
 $l['success_ip_banned'] = "Adres IP został zablokowany.";

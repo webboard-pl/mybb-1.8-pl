@@ -39,7 +39,6 @@ $l['user_id'] = "ID użytkownika:";
 $l['title'] = "Tytuł:";
 $l['postnum'] = "Postów:";
 $l['posts_day'] = "({1} dziennie | {2} procent wszystkich postów)";
-$l['additional_contact_details'] = "Dodatkowe informacje kontaktowe";
 $l['email'] = "E-mail:";
 $l['reputation'] = "Reputacja:";
 $l['website'] = "Strona WWW:";
@@ -210,9 +209,6 @@ $l['change_email_notice'] = "Aby zmienić adres e-mail, kliknij <a href=\"usercp
 $l['profile_optional'] = "Niewymagane pola";
 $l['website_url'] = "Strona domowa:";
 $l['birthdate'] = "Urodziny:";
-$l['contact_field_skype'] = "Identyfikator Skype:";
-$l['contact_field_google'] = "Identyfikator Google Hangouts:";
-$l['contact_field_error'] = "Nie można zmienić Twoich informacji kontaktowych, ponieważ podany identyfikator jest za długi. Identyfikatory Google Hangouts i Skype ID mogą mieć do 75 znaków.";
 $l['additional_information'] = "Dodatkowe informacje";
 $l['update_profile'] = "Aktualizuj profil";
 $l['away_information'] = "Dostępność";

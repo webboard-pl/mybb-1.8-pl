@@ -30,6 +30,6 @@ $l['eventdata_invalid_repeat_week_interval'] = "Podano nieprawidłową liczbę t
 $l['eventdata_invalid_repeat_weekly_days'] = "Nie wybrano dni tygodnia w których wydarzenie ma mieć miejsce.";
 $l['eventdata_invalid_repeat_month_interval'] = "Podano nieprawidłową liczbę miesięcy pomiędzy powtórzeniami wydarzenia.";
 $l['eventdata_invalid_repeat_year_interval'] = "Podano nieprawidłową liczbę lat pomiędzy powtórzeniami wydarzenia.";
-$l['eventdata_event_wont_occur'] = "Jeżeli użyjesz takich ustawień - wydarzenie nigdy nie będzie miało miejsca!";
+$l['eventdata_event_wont_occur'] = "Data rozpoczęcia i zakończenia muszą być prawidłowe w celu właściwego zaplanowania wydarzenia.";
 
 $l['eventdata_no_permission_private_event'] = "Nie masz uprawnień do tworzenia prywatnych wydarzeń.";

@@ -24,6 +24,7 @@ $l['active_users'] = "aktywnych użytkowników";
 $l['registrations_today'] = "zarejestrowanych dzisiaj";
 $l['awaiting_activation'] = "oczekujących na aktywację";
 $l['server_load'] = "Obciążenie serwera";
+$l['server_software'] = "Oprogramowanie serwera";
 $l['attachments'] = "Załączników";
 $l['used'] = "użytego miejsca";
 $l['reported_posts'] = "Zgłoszone posty";
