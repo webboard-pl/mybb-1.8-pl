@@ -22,6 +22,7 @@ $l['disallowed_email_addresses'] = "Adresy e-mail";
 $l['error_invalid_ban'] = "Do edycji wybrano niepoprawnego bana.";
 $l['error_invalid_username'] = "Wpisany login jest niepoprawny lub nie istnieje.";
 $l['error_no_perm_to_ban'] = "Nie masz uprawnień aby zbanować tego użytkownika.";
+$l['error_invalid_ban_group'] = "Nie wybrano prawidłowej grupy banowania.";
 $l['error_already_banned'] = "Ten użytkownik należy już do zbanowanej grupy i nie może zostać dodany do nowej.";
 $l['error_ban_self'] = "Nie możesz zbanować samego siebie.";
 $l['error_no_reason'] = "Nie wpisano powodu bana dla tego użytkownika.";

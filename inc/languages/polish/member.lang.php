@@ -217,6 +217,8 @@ $l['error_activated_by_admin'] = "Nie możesz przesłać ponownie kodu aktywacyj
 $l['error_alreadyregistered'] = "Prawdopodobnie jesteś już zarejestrowanym użytkownikiem forum. Nie możesz zarejestrować kilku kont, gdyż administrator zablokował taką możliwość.";
 $l['error_alreadyregisteredtime'] = "Nie możesz się zarejestrować, gdyż dokonano już {1} rejestracji z Twojego adresu IP w przeciągu {2} godzin. Spróbuj później.";
 $l['error_badlostpwcode'] = "Wprowadzono nieprawidłowy kod resetowania hasła. Przeczytaj uważnie e-mail lub skontaktuj się z administratorem.";
+$l['error_resetpwcodeexpired'] = "Ten kod resetowania hasła wygasł. Poproś o ponowne wygenerowanie hasła i użyj linku w ciągu 24 godzin.";
+$l['error_activationexpired'] = "Ten link potwierdzenia zmiany adresu e-mail wygasł. Zmień swój adres e-mail ponownie i potwierdź go w ciągu 24 godzin.";
 $l['error_badactivationcode'] = "Wprowadzono nieprawidłowy kod aktywacyjny. Aby ponownie przesłać e-mail aktywacyjny, kliknij <a href=\"member.php?action=resendactivation\">tutaj</a>.";
 $l['error_alreadyactivated'] = "Może to być spowodowane tym, że posiadasz już aktywowane konto lub forum nie wymaga aktywacji.";
 $l['error_alreadyvalidated'] = "Twój adres e-mail został już zweryfikowany.";

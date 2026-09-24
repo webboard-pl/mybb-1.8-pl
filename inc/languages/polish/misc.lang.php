@@ -79,7 +79,7 @@ $l['error_invalidsearch'] = "Wpisano nieprawidłową frazę do wyszukania. Wró�
 $l['error_no_search_support'] = "Ten silnik bazy danych nie wspiera wyszukiwania.";
 $l['error_searchflooding'] = "Możesz wykonać tylko jedno wyszukiwanie w ciągu {1} sekund. Poczekaj {2} sekund przed następną próbą.";
 $l['error_searchflooding_1'] = "Możesz wykonać tylko jedno wyszukiwanie w ciągu {1} sekund. Poczekaj jeszcze 1 sekundę przed następną próbą.";
-$l['error_minsearchlength'] = "Co najmniej jedna z wyszukiwanych fraz była krótsza niż minimalna długość. Minimalna długość wyszukiwanej frazy to {1} znaków.<br /><br />Jeśli próbujesz wyszukać całą frazę, ujmuj ją w cudzysłów. Na przykład: „A niechaj narodowie wżdy postronni znają, iż Polacy nie gęsi, iż swój język mają”.;
+$l['error_minsearchlength'] = "Co najmniej jedna z wyszukiwanych fraz była krótsza niż minimalna długość. Minimalna długość wyszukiwanej frazy to {1} znaków.<br /><br />Jeśli próbujesz wyszukać całą frazę, ujmuj ją w cudzysłów. Na przykład: „A niechaj narodowie wżdy postronni znają, iż Polacy nie gęsi, iż swój język mają”.";
 
 
 $l['dst_settings_updated'] = "Ustawienia dotyczące czasu zimowego zostały automatycznie zaktualizowane.<br /><br />Teraz nastąpi przeniesienie na stronę główną forum.";

@@ -66,6 +66,7 @@ $l['error_invalid_warning_level'] = "Podany poziom ostrzeżeń nie istnieje.";
 $l['error_invalid_warning_percentage'] = "Nie wpisano poprawnej wartości procentowej dla ostrzeżenia. Wartość ta musi zawierać się w przedziale od 1 do 100.";
 $l['error_invalid_warning_type'] = "Podany typ ostrzeżeń nie istnieje.";
 $l['error_missing_action_type'] = "Wybierz jedno z działań, która ma być podejmowane w przypadku przekroczenia określonego poziomu ostrzeżeń.";
+$l['error_invalid_ban_group'] = "Nie wybrano prawidłowej grupy banowania.";
 $l['error_missing_type_title'] = "Nie podano tytułu dla tego typu ostrzeżeń";
 $l['error_missing_type_points'] = "Nie podano prawidłowej liczby punktów do dodania dla tego typu ostrzeżeń. Należy wprowadzić wartość większą niż 0 ale nie większą niż {1}";
 
